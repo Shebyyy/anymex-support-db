@@ -251,5 +251,28 @@
     "source_message_text": "fix : When the source filter is set to “All” (default), the chapter card should display the scanlator name instead of the extension name.",
     "source_images": [],
     "source_files": []
+  },
+  {
+    "id": 12,
+    "title": "Refactor Nav Bar",
+    "auto_generated": true,
+    "ai_description": "Improve navbar code quality",
+    "status": "todo",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": null,
+    "assigned_to_name": null,
+    "created_at": "2026-03-26T08:02:39.084017+00:00",
+    "updated_at": "2026-03-26T08:02:39.084029+00:00",
+    "source_message_ids": [
+      "1481000108563628264"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1481000108563628264"
+    ],
+    "source_message_text": "refactor :Nav bar is so shit\nSome code is downright dogshit like history  ~**ryan**",
+    "source_images": [],
+    "source_files": []
   }
 ]
