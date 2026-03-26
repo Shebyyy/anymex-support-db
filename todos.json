@@ -50,14 +50,14 @@
     "title": "Add Underrated Anime Section",
     "auto_generated": true,
     "ai_description": "Create editable JSON for anime/manga section",
-    "status": "in_progress",
+    "status": "review_needed",
     "priority": "medium",
     "added_by_id": "612532963938271232",
     "added_by_name": "asheby",
     "assigned_to_id": "612532963938271232",
     "assigned_to_name": "asheby",
     "created_at": "2026-03-26T07:53:52.960606+00:00",
-    "updated_at": "2026-03-26T08:18:44.999563+00:00",
+    "updated_at": "2026-03-26T12:31:23.317584+00:00",
     "source_message_ids": [
       "1480969634592063771"
     ],
