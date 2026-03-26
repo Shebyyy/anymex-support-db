@@ -1,0 +1,10 @@
+{
+  "support_channel": null,
+  "bug_channel": null,
+  "suggestion_channel": null,
+  "announcement_channel": null,
+  "staff_channel": null,
+  "staff_roles": [],
+  "last_version": null,
+  "auto_close_hours": 24
+}
