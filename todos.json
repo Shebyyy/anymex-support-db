@@ -44,5 +44,28 @@
     "source_message_text": "# Latest Beta\n\n### Anime/Subtitle Customization\n- **Libass Subtitles should only work for .ass subs (ignore other formats):** Subtitles fail to display when the libass rendering option is selected. (Note: This feature is intended for .ass subtitles only).\n\n### Navigation/Search\n- **Universal Search Redirect:** When searching globally, selecting a novel result incorrectly opens the MangaReader instead of the appropriate Novel reader.",
     "source_images": [],
     "source_files": []
+  },
+  {
+    "id": 3,
+    "title": "Add Underrated Anime Section",
+    "auto_generated": true,
+    "ai_description": "Create editable JSON for anime/manga section",
+    "status": "todo",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": null,
+    "assigned_to_name": null,
+    "created_at": "2026-03-26T07:53:52.960606+00:00",
+    "updated_at": "2026-03-26T07:53:52.960621+00:00",
+    "source_message_ids": [
+      "1480969634592063771"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1480969634592063771"
+    ],
+    "source_message_text": "feat: add underrated anime/manga section powered by editable JSON stored in my repo",
+    "source_images": [],
+    "source_files": []
   }
 ]
