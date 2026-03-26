@@ -7,5 +7,9 @@
   "staff_roles": [],
   "last_version": null,
   "auto_close_hours": 24,
-  "todo_channel": "1464287770116755634"
+  "todo_channel": "1464287770116755634",
+  "todo_stats_message_id": "1486588905942683649",
+  "todo_page_message_ids": [
+    "1486588907104768142"
+  ]
 }
