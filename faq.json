@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "question": "how",
+    "answer": "this is how",
+    "category": "general",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T03:15:02.070775"
+  }
+]
