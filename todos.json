@@ -527,5 +527,28 @@
     "source_message_text": "Fix: Orientation (Reverse Orientation) on starting the player and Portrait mode",
     "source_images": [],
     "source_files": []
+  },
+  {
+    "id": 24,
+    "title": "Fix Marquee",
+    "auto_generated": true,
+    "ai_description": "Improve marquee functionality",
+    "status": "todo",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": null,
+    "assigned_to_name": null,
+    "created_at": "2026-03-26T13:12:17.364165+00:00",
+    "updated_at": "2026-03-26T13:12:17.364179+00:00",
+    "source_message_ids": [
+      "1482412155042005002"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1482412155042005002"
+    ],
+    "source_message_text": "fix: imporve marquee",
+    "source_images": [],
+    "source_files": []
   }
 ]
