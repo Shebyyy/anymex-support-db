@@ -1,18 +1,114 @@
 [
   {
     "id": 1,
-    "question": "how",
-    "answer": "this is how",
+    "question": "Episodes or chapters not showing up or showing incorrectly?",
+    "answer": "AnymeX uses external sources, and title mismatches with any service may cause issues, showing incorrect or no results.\nUse the Wrong Title option below the source name. Search for the correct title (e.g., English title) to load content.",
     "category": "general",
     "added_by": "asheby",
-    "timestamp": "2026-03-26T03:15:02.070775"
+    "timestamp": "2026-03-26T00:00:00"
   },
   {
     "id": 2,
-    "question": "how is",
-    "answer": "this is how",
-    "category": "sometime",
+    "question": "How to stream/read on AnymeX?",
+    "answer": "To stream or read, add anime, manga, & novel repos.\nFor repositories, visit: https://wotaku.wiki/guides/ext/mangayomi#repositories (Multiplatform) or https://wotaku.wiki/guides/ext/mihon#repositories (Android Only)\n\nManual Installation: Copy the repo URL → Profile → Settings → Extensions → Paste URL → Confirm\n\nNote: Ensure AnymeX is installed with proper permissions.\nDisclaimer: We do not encourage piracy. Support official sources when possible.",
+    "category": "setup",
     "added_by": "asheby",
-    "timestamp": "2026-03-26T03:15:50.204642"
+    "timestamp": "2026-03-26T00:00:01"
+  },
+  {
+    "id": 3,
+    "question": "How to install AnymeX IPA on iOS?",
+    "answer": "Jailbreak Method:\nInstall AppSync Unified or TrollStore\nDownload AnymeX IPA\nInstall via Filza or TrollStore\n\nLiveContainer Method (No Jailbreak):\nInstall LiveContainer\nLong press app → Settings → Signer → ZSign\nImport AnymeX IPA in LiveContainer\n\nNote: LiveContainer enables sideloading without jailbreak.",
+    "category": "installation",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:02"
+  },
+  {
+    "id": 4,
+    "question": "How to switch between AniList, MyAnimeList, Simkl, or Extension?",
+    "answer": "Click Profile → Change Service → Select AniList, MyAnimeList, Simkl, or Extension\n\nNote: Extension service requires 4+ extensions installed to unlock.",
+    "category": "settings",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:03"
+  },
+  {
+    "id": 5,
+    "question": "How can I watch local videos with AnymeX?",
+    "answer": "Go to Profile → Local Media → Click the Local button and grant directory access",
+    "category": "features",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:04"
+  },
+  {
+    "id": 6,
+    "question": "Why is an extension marked as obsolete?",
+    "answer": "This happens if a repo is missing or the extension was removed.",
+    "category": "extensions",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:05"
+  },
+  {
+    "id": 7,
+    "question": "How can I contribute to AnymeX?",
+    "answer": "Check https://github.com/RyanYuuki/AnymeX/issues for good first issue tags.\n\nNon-coding: Report bugs or suggest features in Discord or GitHub.\nMore info: https://deepwiki.com/RyanYuuki/AnymeX",
+    "category": "contribution",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:06"
+  },
+  {
+    "id": 8,
+    "question": "How to install AnymeX on Linux?",
+    "answer": "Install:\nbash <(curl -s https://raw.githubusercontent.com/Shebyyy/linux-installer/refs/heads/main/anymex.sh) install\n\nUpdate:\nbash <(curl -s https://raw.githubusercontent.com/Shebyyy/linux-installer/refs/heads/main/anymex.sh) update\n\nUninstall:\nbash <(curl -s https://raw.githubusercontent.com/Shebyyy/linux-installer/refs/heads/main/anymex.sh) uninstall",
+    "category": "installation",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:07"
+  },
+  {
+    "id": 9,
+    "question": "What's Hardsub or Softsub?",
+    "answer": "Hardsub: Subtitles are burned into the video (uneditable).\nSoftsub: Subtitles are separate; can be toggled or edited in AnymeX.",
+    "category": "general",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:08"
+  },
+  {
+    "id": 10,
+    "question": "Aniyomi and Tachiyomi support (Android)?",
+    "answer": "AnymeX supports these via Dartotsu's Extension Bridge: https://github.com/aayush2622/DartotsuExtensionBridge\n\nAllows Kotlin-based extensions to work alongside native Flutter ones.\n\nNote: Any incompatible source must be reported to that repo.",
+    "category": "extensions",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:09"
+  },
+  {
+    "id": 11,
+    "question": "Source not loading?",
+    "answer": "Many sources are geo-blocked or ISP-blocked. Try a VPN or switch networks.\nNote: AnymeX does not maintain sources; report issues to the source repo.",
+    "category": "troubleshooting",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:10"
+  },
+  {
+    "id": 12,
+    "question": "Xiaomi Devices (MIUI/HyperOS) Fixes",
+    "answer": "1. Battery: Set to No Restrictions (https://dontkillmyapp.com/xiaomi)\n2. Optimization: Turn OFF 'MIUI/System Optimization' in Developer Options\n3. HyperOS: Enable 'Access List of Installed Apps' in permissions",
+    "category": "troubleshooting",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:11"
+  },
+  {
+    "id": 13,
+    "question": "How to Sync Progress across all devices?",
+    "answer": "AnymeX uses GitHub Gist for cloud syncing.\n\nSetup:\nProfile → Settings → Accounts → Progress sync → Connect GitHub → Initialise\n\nFeatures:\n- Auto Sync\n- Auto Cleanup\n- Manual Import/Export",
+    "category": "features",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:12"
+  },
+  {
+    "id": 14,
+    "question": "How to Share Logs?",
+    "answer": "Go to Profile → Settings → Share Logs\n\nNote: Reproduce the error first before sharing logs.",
+    "category": "support",
+    "added_by": "asheby",
+    "timestamp": "2026-03-26T00:00:13"
   }
 ]
