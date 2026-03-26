@@ -280,14 +280,14 @@
     "title": "Refactor List Editor",
     "auto_generated": true,
     "ai_description": "Make list editor use half screen",
-    "status": "todo",
+    "status": "in_progress",
     "priority": "medium",
     "added_by_id": "612532963938271232",
     "added_by_name": "asheby",
-    "assigned_to_id": null,
-    "assigned_to_name": null,
+    "assigned_to_id": "1474618752912851064",
+    "assigned_to_name": "nithinspacetime",
     "created_at": "2026-03-26T08:03:30.249347+00:00",
-    "updated_at": "2026-03-26T08:03:30.249358+00:00",
+    "updated_at": "2026-03-26T12:34:17.298448+00:00",
     "source_message_ids": [
       "1481004796080165167"
     ],
