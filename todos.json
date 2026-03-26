@@ -320,5 +320,28 @@
     "source_message_text": "feat: add tags section to details page",
     "source_images": [],
     "source_files": []
+  },
+  {
+    "id": 15,
+    "title": "Fix Tap Zones UI",
+    "auto_generated": true,
+    "ai_description": "Change tap zones selection page UI",
+    "status": "todo",
+    "priority": "medium",
+    "added_by_id": "523539866311720963",
+    "added_by_name": "itsmechinmoy",
+    "assigned_to_id": null,
+    "assigned_to_name": null,
+    "created_at": "2026-03-26T08:05:05.077287+00:00",
+    "updated_at": "2026-03-26T08:05:05.077301+00:00",
+    "source_message_ids": [
+      "1481166053454254151"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1481166053454254151"
+    ],
+    "source_message_text": "Fix : change it back or keep it like that and change the tap zones selection page ui",
+    "source_images": [],
+    "source_files": []
   }
 ]
