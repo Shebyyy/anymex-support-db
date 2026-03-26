@@ -6,5 +6,6 @@
   "staff_channel": null,
   "staff_roles": [],
   "last_version": null,
-  "auto_close_hours": 24
+  "auto_close_hours": 24,
+  "todo_channel": "1464287770116755634"
 }
