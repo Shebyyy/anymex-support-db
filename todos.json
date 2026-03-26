@@ -1,18 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Improvement: add in-player contribution to aniskip like yt revanced has (do it after long time)",
-    "status": "in_progress",
-    "priority": "medium",
-    "added_by_id": "612532963938271232",
-    "added_by_name": "asheby",
-    "assigned_to_id": "612532963938271232",
-    "assigned_to_name": "asheby",
-    "created_at": "2026-03-26T04:53:33.083010+00:00",
-    "updated_at": "2026-03-26T05:06:57.932261+00:00",
-    "message_id": "1486588897055211662"
-  },
-  {
     "id": 2,
     "title": "Improvement: add in-player contribution to aniskip like yt revanced has (do it after long time)",
     "status": "todo",
