@@ -297,5 +297,28 @@
     "source_message_text": "refactor: make list editor minimal (use half screen instead of full)",
     "source_images": [],
     "source_files": []
+  },
+  {
+    "id": 14,
+    "title": "Add tags section",
+    "auto_generated": true,
+    "ai_description": "Add tags to details page",
+    "status": "todo",
+    "priority": "medium",
+    "added_by_id": "523539866311720963",
+    "added_by_name": "itsmechinmoy",
+    "assigned_to_id": null,
+    "assigned_to_name": null,
+    "created_at": "2026-03-26T08:04:37.401748+00:00",
+    "updated_at": "2026-03-26T08:04:37.401763+00:00",
+    "source_message_ids": [
+      "1481140226200961066"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1481140226200961066"
+    ],
+    "source_message_text": "feat: add tags section to details page",
+    "source_images": [],
+    "source_files": []
   }
 ]
