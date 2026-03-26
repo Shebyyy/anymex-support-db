@@ -50,5 +50,23 @@
     "created_at": "2026-03-26T05:22:56.232752+00:00",
     "updated_at": "2026-03-26T05:22:56.232762+00:00",
     "message_id": "1486596293399937064"
+  },
+  {
+    "id": 5,
+    "title": "fix : When the source filter is set to “All” (default), the chapter card should display the scanlator name instead of the extension name.",
+    "status": "todo",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": null,
+    "assigned_to_name": null,
+    "created_at": "2026-03-26T05:24:20.574438+00:00",
+    "updated_at": "2026-03-26T05:24:20.574450+00:00",
+    "message_id": "1486596647059329106",
+    "source_message_id": "1486596647059329106",
+    "source_message_link": "https://discord.com/channels/1464286788272259219/1464287770116755634/1486596647059329106",
+    "source_message_text": "#addtodo fix : When the source filter is set to “All” (default), the chapter card should display the scanlator name instead of the extension name.",
+    "source_images": [],
+    "source_files": []
   }
 ]
