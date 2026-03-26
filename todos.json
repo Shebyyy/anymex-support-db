@@ -159,5 +159,28 @@
     "source_message_text": "feat: add auto continue to next sequel/season",
     "source_images": [],
     "source_files": []
+  },
+  {
+    "id": 8,
+    "title": "Add Client Search",
+    "auto_generated": true,
+    "ai_description": "Add search for client list and library",
+    "status": "todo",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": null,
+    "assigned_to_name": null,
+    "created_at": "2026-03-26T08:00:04.609440+00:00",
+    "updated_at": "2026-03-26T08:00:04.609453+00:00",
+    "source_message_ids": [
+      "1480973301567193149"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1480973301567193149"
+    ],
+    "source_message_text": "feat: add search for client list and library",
+    "source_images": [],
+    "source_files": []
   }
 ]
