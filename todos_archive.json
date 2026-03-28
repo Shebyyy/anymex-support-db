@@ -96,5 +96,31 @@
     "done_by_id": "612532963938271232",
     "done_by_name": "asheby",
     "done_at": "2026-03-28T15:30:50.202816+00:00"
+  },
+  {
+    "id": 19,
+    "title": "Add Marquee",
+    "auto_generated": true,
+    "ai_description": "Add marquee to texts",
+    "status": "done",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": "1474618752912851064",
+    "assigned_to_name": "nithinspacetime",
+    "created_at": "2026-03-26T08:16:28.041819+00:00",
+    "updated_at": "2026-03-28T15:33:44.022744+00:00",
+    "source_message_ids": [
+      "1486639898147557527"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1486639898147557527"
+    ],
+    "source_message_text": "Feat: add marquee to texts",
+    "source_images": [],
+    "source_files": [],
+    "done_by_id": "612532963938271232",
+    "done_by_name": "asheby",
+    "done_at": "2026-03-28T15:33:44.022806+00:00"
   }
 ]
