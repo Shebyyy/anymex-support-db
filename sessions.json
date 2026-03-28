@@ -38,5 +38,93 @@
   "58d6a4edf1dbb515674de8ef823978612d62bed55a1bb02a88c5be4257654917": {
     "oauth_state": "07de67b49cc38678700f52ad32419234",
     "expires_at": "2026-04-27T10:22:42.852160"
+  },
+  "45364bce54f58bbd87343f19bc50473a8a0828c072818f7c39bfd4884c81e30d": {
+    "user": {
+      "id": "612532963938271232",
+      "username": "asheby",
+      "avatar": "cf5d3f43c29516523531f21b09d4a743",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": 0,
+      "global_name": "Sheby",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1409898407920668782",
+          "asset": "nameplates/lunar_eclipse/moonlit_charm/",
+          "label": "COLLECTIBLES_LUNAR_ECLIPSE_MOONLIT_CHARM_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": "#000000",
+      "clan": null,
+      "primary_guild": null,
+      "mfa_enabled": true,
+      "locale": "en-US",
+      "premium_type": 0
+    },
+    "access_token": "MTQ4NjU2MTQxMTIwMjE1NDU3OQ.aZhC6a5VXAOxofdIi8ccLIVZ5aDrOQ",
+    "access_level": "admin",
+    "member": {
+      "avatar": null,
+      "banner": null,
+      "communication_disabled_until": null,
+      "flags": 2,
+      "joined_at": "2024-11-15T07:26:56.925000+00:00",
+      "nick": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1317884362888445952",
+        "1400361291834458112",
+        "1313085810874253422",
+        "1400361303431974992",
+        "1313087262539518033",
+        "1333105834384818196",
+        "1317884355753807893",
+        "1313346791479054456",
+        "1313085757707128922",
+        "1317884419746435132",
+        "1410298628970516573",
+        "1313085630581968926",
+        "1313133817569087519"
+      ],
+      "unusual_dm_activity_until": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "user": {
+        "id": "612532963938271232",
+        "username": "asheby",
+        "avatar": "cf5d3f43c29516523531f21b09d4a743",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": 0,
+        "global_name": "Sheby",
+        "avatar_decoration_data": null,
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1409898407920668782",
+            "asset": "nameplates/lunar_eclipse/moonlit_charm/",
+            "label": "COLLECTIBLES_LUNAR_ECLIPSE_MOONLIT_CHARM_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": "#000000",
+        "clan": null,
+        "primary_guild": null
+      },
+      "mute": false,
+      "deaf": false,
+      "bio": "",
+      "permissions": "9007199254740991"
+    },
+    "expires_at": "2026-04-27T10:22:54.130873"
   }
 }
