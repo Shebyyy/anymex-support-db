@@ -39,5 +39,8 @@
     "1313085810874253422"
   ],
   "todo_style": 6,
-  "log_channel": "1467831066994938049"
+  "log_channel": "1467831066994938049",
+  "reminder_days": 1,
+  "reminder_time": "09:00",
+  "reminder_channel": "1465626017585696860"
 }
