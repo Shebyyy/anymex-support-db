@@ -527,22 +527,5 @@
     "source_message_text": "fix: imporve marquee",
     "source_images": [],
     "source_files": []
-  },
-  {
-    "id": 25,
-    "title": "test title",
-    "ai_description": "test desc",
-    "status": "todo",
-    "priority": "high",
-    "tags": [
-      "troll-chinmoy"
-    ],
-    "assigned_to_id": null,
-    "added_by_id": "150865547922243584",
-    "added_by": "neoniq",
-    "created_at": "2026-03-28T10:26:03.330868",
-    "updated_at": "2026-03-28T10:26:03.330870",
-    "auto_generated": false,
-    "source": "web_dashboard"
   }
 ]
