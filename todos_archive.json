@@ -70,5 +70,31 @@
     "done_by_id": "612532963938271232",
     "done_by_name": "asheby",
     "done_at": "2026-03-28T11:56:34.831067+00:00"
+  },
+  {
+    "id": 3,
+    "title": "Add Underrated Anime Section",
+    "auto_generated": true,
+    "ai_description": "Create editable JSON for anime/manga section",
+    "status": "done",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": "612532963938271232",
+    "assigned_to_name": "asheby",
+    "created_at": "2026-03-26T07:53:52.960606+00:00",
+    "updated_at": "2026-03-28T15:30:50.202787+00:00",
+    "source_message_ids": [
+      "1480969634592063771"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1480969634592063771"
+    ],
+    "source_message_text": "feat: add underrated anime/manga section powered by editable JSON stored in my repo",
+    "source_images": [],
+    "source_files": [],
+    "done_by_id": "612532963938271232",
+    "done_by_name": "asheby",
+    "done_at": "2026-03-28T15:30:50.202816+00:00"
   }
 ]
