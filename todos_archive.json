@@ -44,5 +44,31 @@
     "done_by_id": "617537674084876318",
     "done_by_name": "rieversed",
     "done_at": "2026-03-28T11:26:47.636395+00:00"
+  },
+  {
+    "id": 17,
+    "title": "Update beta URL",
+    "auto_generated": true,
+    "ai_description": "Change beta URL in updater dart file",
+    "status": "done",
+    "priority": "medium",
+    "added_by_id": "612532963938271232",
+    "added_by_name": "asheby",
+    "assigned_to_id": "612532963938271232",
+    "assigned_to_name": "asheby",
+    "created_at": "2026-03-26T08:14:34.068260+00:00",
+    "updated_at": "2026-03-28T11:56:34.831040+00:00",
+    "source_message_ids": [
+      "1482022504083226847"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1482022504083226847"
+    ],
+    "source_message_text": "Change the beta URL in `lib/utils/updater.dart` to:\n`https://api.github.com/repos/Shebyyy/AnymeX-Preview/releases/latest`",
+    "source_images": [],
+    "source_files": [],
+    "done_by_id": "612532963938271232",
+    "done_by_name": "asheby",
+    "done_at": "2026-03-28T11:56:34.831067+00:00"
   }
 ]
