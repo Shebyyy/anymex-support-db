@@ -578,5 +578,104 @@
   "a4b5baa1b19d98e4bb9c52aeb6acab6b10c8dc9731eb9bfecb6feb0b7148c7f6": {
     "oauth_state": "4632727d76e39401c8b749347ef66ea5",
     "expires_at": "2026-04-27T16:27:51.813391"
+  },
+  "a40ed44d18c3e29671f65801176b1adcfec66e4be6a7ab674d1d1fc1670b69e6": {
+    "user": {
+      "id": "523539866311720963",
+      "username": "itsmechinmoy",
+      "avatar": "8858aababe4802c4bce4ad6caa5816ab",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": 34047,
+      "global_name": null,
+      "avatar_decoration_data": {
+        "asset": "a_b20e3f13d48c5db0073f3629a170d49d",
+        "sku_id": "1474488681862529035",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919454425269",
+          "asset": "nameplates/nameplate_bonanza/the_same_duck/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_THE_SAME_DUCK_NP_A11Y",
+          "palette": "forest"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": "#0084ff",
+      "clan": null,
+      "primary_guild": null,
+      "mfa_enabled": true,
+      "locale": "en-US",
+      "premium_type": 0
+    },
+    "access_token": "MTQ4NjU2MTQxMTIwMjE1NDU3OQ.C6y8tXp302kNCj4ckVNcnEVqO2USsN",
+    "access_level": "admin",
+    "member": {
+      "avatar": null,
+      "banner": null,
+      "communication_disabled_until": null,
+      "flags": 514,
+      "joined_at": "2024-11-17T02:55:49.375000+00:00",
+      "nick": "🤡",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1400361291834458112",
+        "1313086427193544705",
+        "1313085810874253422",
+        "1400361303431974992",
+        "1313087262539518033",
+        "1313086587860422676",
+        "1317884338985111572",
+        "1317884355753807893",
+        "1333105834384818196",
+        "1313346791479054456",
+        "1313086502124781689",
+        "1313085757707128922",
+        "1317884419746435132",
+        "1313086079066308669",
+        "1313085630581968926",
+        "1313133817569087519"
+      ],
+      "unusual_dm_activity_until": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "user": {
+        "id": "523539866311720963",
+        "username": "itsmechinmoy",
+        "avatar": "8858aababe4802c4bce4ad6caa5816ab",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": 34047,
+        "global_name": null,
+        "avatar_decoration_data": {
+          "asset": "a_b20e3f13d48c5db0073f3629a170d49d",
+          "sku_id": "1474488681862529035",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919454425269",
+            "asset": "nameplates/nameplate_bonanza/the_same_duck/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_THE_SAME_DUCK_NP_A11Y",
+            "palette": "forest"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": "#0084ff",
+        "clan": null,
+        "primary_guild": null
+      },
+      "mute": false,
+      "deaf": false,
+      "bio": "",
+      "permissions": "9007199254740991"
+    },
+    "expires_at": "2026-04-27T16:28:08.239879"
   }
 }
