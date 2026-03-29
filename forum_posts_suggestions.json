@@ -2061,7 +2061,7 @@
         "is_archived": false,
         "status_label": "Open",
         "tags": [],
-        "linked_todo_id": null,
+        "linked_todo_id": 24,
         "attachments": [],
         "messages": [
           {
@@ -2248,7 +2248,13 @@
             "created_at": "2026-03-14T10:53:26.689000+00:00",
             "attachments": []
           }
-        ]
+        ],
+        "linked_todo_info": {
+          "id": 24,
+          "title": "Fix Marquee",
+          "status": "in_progress",
+          "priority": "medium"
+        }
       },
       {
         "id": "1467555810354921472",
