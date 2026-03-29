@@ -7389,7 +7389,7 @@
         "tags": [
           "🗒️ Planned"
         ],
-        "linked_todo_id": null,
+        "linked_todo_id": 4,
         "attachments": [
           {
             "filename": "Screenshot_2024-12-14-12-21-29-76_948cd9899890cbd5c2798760b2b95377.jpg",
@@ -7456,7 +7456,13 @@
             "created_at": "2026-03-12T13:08:12.110000+00:00",
             "attachments": []
           }
-        ]
+        ],
+        "linked_todo_info": {
+          "id": 4,
+          "title": "Add search functionality",
+          "status": "in_progress",
+          "priority": "medium"
+        }
       },
       {
         "id": "1486299403773022228",
