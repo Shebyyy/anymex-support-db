@@ -23,29 +23,6 @@
     "source_files": []
   },
   {
-    "id": 2,
-    "title": "Fix Libass Subtitles",
-    "auto_generated": true,
-    "ai_description": "Subtitles fail to display with libass rendering",
-    "status": "in_progress",
-    "priority": "medium",
-    "added_by_id": "612532963938271232",
-    "added_by_name": "asheby",
-    "assigned_to_id": "535831876766793738",
-    "assigned_to_name": "ryan_yuuki",
-    "created_at": "2026-03-26T07:28:57.361177+00:00",
-    "updated_at": "2026-03-29T15:43:26.707102+00:00",
-    "source_message_ids": [
-      "1478017321397391400"
-    ],
-    "source_message_links": [
-      "https://discord.com/channels/1303000390505336893/1467831066994938049/1478017321397391400"
-    ],
-    "source_message_text": "# Latest Beta\n\n### Anime/Subtitle Customization\n- **Libass Subtitles should only work for .ass subs (ignore other formats):** Subtitles fail to display when the libass rendering option is selected. (Note: This feature is intended for .ass subtitles only).\n\n### Navigation/Search\n- **Universal Search Redirect:** When searching globally, selecting a novel result incorrectly opens the MangaReader instead of the appropriate Novel reader.",
-    "source_images": [],
-    "source_files": []
-  },
-  {
     "id": 4,
     "title": "Add search functionality",
     "auto_generated": true,
