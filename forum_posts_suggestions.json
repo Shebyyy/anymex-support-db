@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-03-29T18:33:17.494495",
+    "last_synced": "2026-03-29T20:59:36.671865",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -214,7 +214,7 @@
         "is_archived": false,
         "status_label": "Open",
         "tags": [],
-        "linked_todo_id": null,
+        "linked_todo_id": 25,
         "attachments": [
           {
             "filename": "Untitled_2026-03-23_13.06.00.mp4",
@@ -678,7 +678,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/1143152698158497822/34856e55d61843d792805ec526407343.png?size=64",
         "created_at": "2026-03-09T08:13:16.853000+00:00",
         "created_at_fmt": "Mar 09, 2026",
-        "message_count": 4,
+        "message_count": 7,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -716,6 +716,30 @@
             "content": "Hmm",
             "content_raw": "Hmm",
             "created_at": "2026-03-12T14:40:46.182000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "vkAwesome",
+            "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
+            "content": "After cloud stream and sora it is much needed.",
+            "content_raw": "After cloud stream and sora it is much needed.",
+            "created_at": "2026-03-29T18:44:51.160000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "I got busy and forgot and I resigned from this",
+            "content_raw": "I got busy and forgot and I resigned from this",
+            "created_at": "2026-03-29T18:59:01.869000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Arigatouex",
+            "content_raw": "Arigatouex",
+            "created_at": "2026-03-29T18:59:13.761000+00:00",
             "attachments": []
           }
         ]
@@ -15209,6 +15233,163 @@
             "content": "ok",
             "content_raw": "ok",
             "created_at": "2026-02-02T15:02:05.875000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1487891783231996054",
+        "title": "Allow adding custom (empty) items to library",
+        "content": "Add an option to create custom/empty items in the library for all content types (Anime, Manga, Novels, AnymeX shows).\n\nOn each library tab, include a setting or button like “Add Custom Item”.\n\nWhen creating a custom item, the user should be able to:\n- Upload or set a poster/image\n- Enter a title/name\n- Select the content type (Anime / Manga / Novel / etc.)\n\nOnce created:\n- Items should be stored and tracked locally (not tied to AniList, MAL, SIMKL, etc.)\n- Users can add unlimited custom items\n- It should behave like a normal item for tracking progress\n\nBehavior:\n- Extension selector works based on the selected type (same as normal items)\n- Only one tab:\n  - Watch / Read\n- No Details or Comments tabs (not needed for custom items)\n\nWhy this is useful:\n\nMany anime, manga, or novels are not available on tracking services.\n\nCurrently, users have to:\n- Pick a random/incorrect title\n- Use it just to access extensions and track progress\n\nThis causes:\n- Wrong tracking data\n- Confusing libraries\n- Poor experience\n\nWith this feature:\n- Users can track anything they want properly\n- No need to depend on external databases\n- Cleaner and more flexible library system\n\nSummary:\nCustom local items will make the library more flexible, accurate, and user-friendly by allowing tracking of content that isn’t officially listed anywhere.",
+        "content_raw": "Add an option to create custom/empty items in the library for all content types (Anime, Manga, Novels, AnymeX shows).\n\nOn each library tab, include a setting or button like “Add Custom Item”.\n\nWhen creating a custom item, the user should be able to:\n- Upload or set a poster/image\n- Enter a title/name\n- Select the content type (Anime / Manga / Novel / etc.)\n\nOnce created:\n- Items should be stored and tracked locally (not tied to AniList, MAL, SIMKL, etc.)\n- Users can add unlimited custom items\n- It should behave like a normal item for tracking progress\n\nBehavior:\n- Extension selector works based on the selected type (same as normal items)\n- Only one tab:\n  - Watch / Read\n- No Details or Comments tabs (not needed for custom items)\n\nWhy this is useful:\n\nMany anime, manga, or novels are not available on tracking services.\n\nCurrently, users have to:\n- Pick a random/incorrect title\n- Use it just to access extensions and track progress\n\nThis causes:\n- Wrong tracking data\n- Confusing libraries\n- Poor experience\n\nWith this feature:\n- Users can track anything they want properly\n- No need to depend on external databases\n- Cleaner and more flexible library system\n\nSummary:\nCustom local items will make the library more flexible, accurate, and user-friendly by allowing tracking of content that isn’t officially listed anywhere.",
+        "preview": "Add an option to create custom/empty items in the library for all content types (Anime, Manga, Novels, AnymeX shows).\n\nO",
+        "author_id": "612532963938271232",
+        "author_name": "Sheby",
+        "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+        "created_at": "2026-03-29T19:10:44.815000+00:00",
+        "created_at_fmt": "Mar 29, 2026",
+        "message_count": 17,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> <span class=\"discord-mention discord-mention-user\">@This is War Huh Wow</span>",
+            "content_raw": "<@535831876766793738> <@150865547922243584>",
+            "created_at": "2026-03-29T19:12:24.623000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Hope it's possible <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1314941783452553276.png?size=24\" alt=\":pray:\" title=\":pray:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Hope it's possible <:pray:1314941783452553276>",
+            "created_at": "2026-03-29T19:14:05.774000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "ive given up on this",
+            "content_raw": "ive given up on this",
+            "created_at": "2026-03-29T19:14:27.257000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Read it",
+            "content_raw": "Read it",
+            "created_at": "2026-03-29T19:14:45.085000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "this is a cool feature, but i have no big interest if its local",
+            "content_raw": "this is a cool feature, but i have no big interest if its local",
+            "created_at": "2026-03-29T19:16:38.880000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "So create one client 🤔",
+            "content_raw": "So create one client 🤔",
+            "created_at": "2026-03-29T19:17:21.970000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "And make it public and store information <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "And make it public and store information <:17:1317127119742173184>",
+            "created_at": "2026-03-29T19:17:38.315000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "maybe it could sync with some users repo/gist but thats already goes into proprietary format\n\nI mean if i switch from anymex i can't use my lib there uk",
+            "content_raw": "maybe it could sync with some users repo/gist but thats already goes into proprietary format\n\nI mean if i switch from anymex i can't use my lib there uk",
+            "created_at": "2026-03-29T19:17:51.779000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "We can use git to store it we are already doing that for platforms sync or something",
+            "content_raw": "We can use git to store it we are already doing that for platforms sync or something",
+            "created_at": "2026-03-29T19:18:23.068000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "thats proprietary way",
+            "content_raw": "thats proprietary way",
+            "created_at": "2026-03-29T19:20:50.484000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "no other app could read that without modification",
+            "content_raw": "no other app could read that without modification",
+            "created_at": "2026-03-29T19:21:07.789000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Ofc coz no one going to implement that just for getting some random things \n\nAtleast AnymeX (all platforms) will get that",
+            "content_raw": "Ofc coz no one going to implement that just for getting some random things \n\nAtleast AnymeX (all platforms) will get that",
+            "created_at": "2026-03-29T19:22:39.122000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "idk",
+            "content_raw": "idk",
+            "created_at": "2026-03-29T19:23:27.975000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "seems like even more bloat than notes https://cdn.discordapp.com/emojis/1194389309227278496.webp?size=48&name=lol&lossless=true",
+            "content_raw": "seems like even more bloat than notes https://cdn.discordapp.com/emojis/1194389309227278496.webp?size=48&name=lol&lossless=true",
+            "created_at": "2026-03-29T19:23:39.815000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "but okay will see how it feels to use",
+            "content_raw": "but okay will see how it feels to use",
+            "created_at": "2026-03-29T19:23:59.156000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Are you sure?",
+            "content_raw": "Are you sure?",
+            "created_at": "2026-03-29T19:24:00.564000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "no, i just dunno",
+            "content_raw": "no, i just dunno",
+            "created_at": "2026-03-29T19:24:34.244000+00:00",
             "attachments": []
           }
         ]
