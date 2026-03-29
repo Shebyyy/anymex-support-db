@@ -681,5 +681,116 @@
   "92523cc5324f3b9e64ca84edfd120a34e5e1e0656c0f1f409c1a34bd223dfb38": {
     "oauth_state": "3843fac3d3423f7e58fdcaa519fa9bb2",
     "expires_at": "2026-04-28T09:24:26.020269"
+  },
+  "4a328849c59852cc1cd4bdf47495b07a5b67ef83ed53bc30732ab15e6fc19c99": {
+    "user": {
+      "id": "617537674084876318",
+      "username": "rieversed",
+      "avatar": "e00731a7dccffba80e77006950b5344d",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": 9267927,
+      "global_name": "Rieversed 🌠",
+      "avatar_decoration_data": {
+        "asset": "a_6682092b74310f3d9cadb6ab53594ac4",
+        "sku_id": "1462116613653401775",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1462116614131548265",
+          "asset": "nameplates/gothica/nevermore/",
+          "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+          "palette": "white"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": "#8d6ad7",
+      "clan": {
+        "identity_guild_id": null,
+        "identity_enabled": false,
+        "tag": null,
+        "badge": null
+      },
+      "primary_guild": {
+        "identity_guild_id": null,
+        "identity_enabled": false,
+        "tag": null,
+        "badge": null
+      },
+      "mfa_enabled": true,
+      "locale": "en-US",
+      "premium_type": 0
+    },
+    "access_token": "MTQ4NjU2MTQxMTIwMjE1NDU3OQ.N04wk6yZQqUQVS1X1Smn70VUUQxIZb",
+    "access_level": "manager",
+    "member": {
+      "avatar": null,
+      "banner": null,
+      "communication_disabled_until": null,
+      "flags": 42,
+      "joined_at": "2025-09-07T16:23:43.268000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1317884362888445952",
+        "1466289941938966628",
+        "1313085810874253422",
+        "1313087262539518033",
+        "1317884355753807893",
+        "1313346791479054456",
+        "1317884419746435132",
+        "1313085630581968926"
+      ],
+      "unusual_dm_activity_until": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "user": {
+        "id": "617537674084876318",
+        "username": "rieversed",
+        "avatar": "e00731a7dccffba80e77006950b5344d",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": 9267927,
+        "global_name": "Rieversed 🌠",
+        "avatar_decoration_data": {
+          "asset": "a_6682092b74310f3d9cadb6ab53594ac4",
+          "sku_id": "1462116613653401775",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1462116614131548265",
+            "asset": "nameplates/gothica/nevermore/",
+            "label": "COLLECTIBLES_GOTHICA_NEVERMORE_NP_A11Y",
+            "palette": "white"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": "#8d6ad7",
+        "clan": {
+          "identity_guild_id": null,
+          "identity_enabled": false,
+          "tag": null,
+          "badge": null
+        },
+        "primary_guild": {
+          "identity_guild_id": null,
+          "identity_enabled": false,
+          "tag": null,
+          "badge": null
+        }
+      },
+      "mute": false,
+      "deaf": false,
+      "bio": "",
+      "permissions": "251382392544833"
+    },
+    "expires_at": "2026-04-28T09:24:38.041390"
   }
 }
