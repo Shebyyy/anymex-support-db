@@ -259,7 +259,7 @@
         "is_archived": false,
         "status_label": "Open",
         "tags": [],
-        "linked_todo_id": null,
+        "linked_todo_id": 14,
         "attachments": [
           {
             "filename": "Screenshot_2026-03-16-11-12-32-143_app.redantotsu.asr-edit.jpg",
@@ -493,7 +493,13 @@
             "created_at": "2026-03-16T20:33:53.006000+00:00",
             "attachments": []
           }
-        ]
+        ],
+        "linked_todo_info": {
+          "id": 14,
+          "title": "Add tags section",
+          "status": "in_progress",
+          "priority": "medium"
+        }
       },
       {
         "id": "1482808786157830304",
