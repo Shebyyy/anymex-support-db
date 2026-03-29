@@ -27,14 +27,14 @@
     "title": "Add search functionality",
     "auto_generated": true,
     "ai_description": "Add search in settings",
-    "status": "todo",
+    "status": "in_progress",
     "priority": "medium",
     "added_by_id": "612532963938271232",
     "added_by_name": "asheby",
-    "assigned_to_id": null,
-    "assigned_to_name": null,
+    "assigned_to_id": "617537674084876318",
+    "assigned_to_name": "rieversed",
     "created_at": "2026-03-26T07:54:23.451348+00:00",
-    "updated_at": "2026-03-26T07:54:23.451359+00:00",
+    "updated_at": "2026-03-29T15:48:26.286836+00:00",
     "source_message_ids": [
       "1480965745243455509"
     ],
