@@ -174,5 +174,28 @@
     "done_by_id": "612532963938271232",
     "done_by_name": "asheby",
     "done_at": "2026-03-29T16:49:17.489229+00:00"
+  },
+  {
+    "id": 25,
+    "title": "Loading Indicator should be visible all the time.",
+    "ai_description": "Loading Indicator in video player should be visible all the time.\n\nIt shouldn't hide with other  button on video player when content is loading or buffering.",
+    "status": "done",
+    "priority": "low",
+    "tags": [
+      "feature"
+    ],
+    "assigned_to_id": "535831876766793738",
+    "added_by_id": "612532963938271232",
+    "added_by": "asheby",
+    "created_at": "2026-03-29T07:55:48.672693",
+    "updated_at": "2026-03-29T16:49:42.735460+00:00",
+    "auto_generated": false,
+    "source": "web_dashboard",
+    "linked_forum_thread_id": "1485543463498813574",
+    "linked_forum_type": "suggestion",
+    "assigned_to_name": "ryan_yuuki",
+    "done_by_id": "612532963938271232",
+    "done_by_name": "asheby",
+    "done_at": "2026-03-29T16:49:42.735483+00:00"
   }
 ]
