@@ -43,6 +43,41 @@
       "content": "Yes",
       "at": "2026-03-29T15:37:38.504000+00:00",
       "msg_id": "1487838153556627496"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Using button only right?",
+      "at": "2026-03-29T15:37:51.751000+00:00",
+      "msg_id": "1487838209118437580"
+    },
+    {
+      "author": "Ryan >_<",
+      "author_id": "535831876766793738",
+      "content": "Yes",
+      "at": "2026-03-29T15:38:19.051000+00:00",
+      "msg_id": "1487838323623067790"
+    },
+    {
+      "author": "Ryan >_<",
+      "author_id": "535831876766793738",
+      "content": "It's annoying if it switches orientation according to phone motion",
+      "at": "2026-03-29T15:38:32.493000+00:00",
+      "msg_id": "1487838380002639986"
+    },
+    {
+      "author": "Ryan >_<",
+      "author_id": "535831876766793738",
+      "content": "I can just fix the startup issue",
+      "at": "2026-03-29T15:38:46.911000+00:00",
+      "msg_id": "1487838440476250194"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "But it's great coz I kinda use that most\nWell whatever you think is best do that <:pray:1314941783452553276>",
+      "at": "2026-03-29T15:40:03.751000+00:00",
+      "msg_id": "1487838762766700768"
     }
   ],
   "14": [
@@ -59,6 +94,13 @@
       "content": "Oh ye kinda forgot I’ll do it",
       "at": "2026-03-29T15:32:34.187000+00:00",
       "msg_id": "1487836877158355175"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Great",
+      "at": "2026-03-29T15:38:57.791000+00:00",
+      "msg_id": "1487838486110142514"
     }
   ],
   "13": [
@@ -82,6 +124,48 @@
       "content": "Not yet happy with the result",
       "at": "2026-03-29T15:32:45.906000+00:00",
       "msg_id": "1487836926311530698"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Ic. I tested that it was working properly tho🤔",
+      "at": "2026-03-29T15:38:42.325000+00:00",
+      "msg_id": "1487838421241036930"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "i mean it works",
+      "at": "2026-03-29T15:47:42.993000+00:00",
+      "msg_id": "1487840688967127092"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "i was thinking of making it simpler to add more themes in the future",
+      "at": "2026-03-29T15:48:15.325000+00:00",
+      "msg_id": "1487840824577233077"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "but both theme files are still 800-ish lines",
+      "at": "2026-03-29T15:48:24.944000+00:00",
+      "msg_id": "1487840864922501312"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Ic. We can add more style later. Let Ryan check if he can reduce it or do something? After merging?",
+      "at": "2026-03-29T15:49:50.025000+00:00",
+      "msg_id": "1487841221777817851"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Bro is kinda free 🤣",
+      "at": "2026-03-29T15:50:13.657000+00:00",
+      "msg_id": "1487841320897614039"
     }
   ],
   "2": [
@@ -91,6 +175,71 @@
       "content": "Fixed",
       "at": "2026-03-29T15:29:33.171000+00:00",
       "msg_id": "1487836117922484454"
+    }
+  ],
+  "4": [
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "<@617537674084876318> any update on this? I remember you shared a video about it 🤔",
+      "at": "2026-03-29T15:45:16.472000+00:00",
+      "msg_id": "1487840074413375501"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "nope",
+      "at": "2026-03-29T15:45:38.900000+00:00",
+      "msg_id": "1487840168483487825"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "i did make a video",
+      "at": "2026-03-29T15:45:43.799000+00:00",
+      "msg_id": "1487840189031125083"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "but it was a quick test",
+      "at": "2026-03-29T15:45:49.027000+00:00",
+      "msg_id": "1487840210958946508"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "with manual mapping",
+      "at": "2026-03-29T15:45:56.265000+00:00",
+      "msg_id": "1487840241317314675"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Got it 👍 so should i assign to you or leave it unassigned?",
+      "at": "2026-03-29T15:46:50.919000+00:00",
+      "msg_id": "1487840470552940717"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "ig you can assign it to me for now",
+      "at": "2026-03-29T15:47:14.534000+00:00",
+      "msg_id": "1487840569601560739"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "if it turns out i cant figure it out ill let you know",
+      "at": "2026-03-29T15:47:27.582000+00:00",
+      "msg_id": "1487840624328577044"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Okay",
+      "at": "2026-03-29T15:48:15.527000+00:00",
+      "msg_id": "1487840825424744619"
     }
   ]
 }
