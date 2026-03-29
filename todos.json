@@ -57,7 +57,7 @@
     "assigned_to_id": "1474618752912851064",
     "assigned_to_name": "nithinspacetime",
     "created_at": "2026-03-26T07:57:03.361298+00:00",
-    "updated_at": "2026-03-26T08:18:00.424437+00:00",
+    "updated_at": "2026-03-29T18:35:35.698634",
     "source_message_ids": [
       "1480966482665017355"
     ],
@@ -67,7 +67,9 @@
     "source_message_text": "feat:  more anilist settings",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-03-28T15:52:34.054442+00:00"
+    "last_reminded_at": "2026-03-28T15:52:34.054442+00:00",
+    "linked_forum_thread_id": "1485905018782486549",
+    "linked_forum_type": "suggestions"
   },
   {
     "id": 6,
