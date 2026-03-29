@@ -148,5 +148,31 @@
     "done_by_id": "612532963938271232",
     "done_by_name": "asheby",
     "done_at": "2026-03-29T15:43:47.363746+00:00"
+  },
+  {
+    "id": 23,
+    "title": "Fix Orientation Issue",
+    "auto_generated": true,
+    "ai_description": "Reverse orientation on player start in portrait mode",
+    "status": "done",
+    "priority": "medium",
+    "added_by_id": "523539866311720963",
+    "added_by_name": "itsmechinmoy",
+    "assigned_to_id": "535831876766793738",
+    "assigned_to_name": "ryan_yuuki",
+    "created_at": "2026-03-26T08:42:48.202928+00:00",
+    "updated_at": "2026-03-29T16:49:17.489202+00:00",
+    "source_message_ids": [
+      "1482364788372668562"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1482364788372668562"
+    ],
+    "source_message_text": "Fix: Orientation (Reverse Orientation) on starting the player and Portrait mode",
+    "source_images": [],
+    "source_files": [],
+    "done_by_id": "612532963938271232",
+    "done_by_name": "asheby",
+    "done_at": "2026-03-29T16:49:17.489229+00:00"
   }
 ]
