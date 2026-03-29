@@ -1,1 +1,96 @@
-{}
+{
+  "25": [
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "<@535831876766793738> Also, while handling orientation, please check this as well.",
+      "at": "2026-03-29T15:36:58.745000+00:00",
+      "msg_id": "1487837986795294850"
+    }
+  ],
+  "23": [
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "<@535831876766793738> before releasing, please make sure to fix this, users should be able to use their phone orientation freely in the player. Don’t restrict user control.",
+      "at": "2026-03-29T15:35:25.362000+00:00",
+      "msg_id": "1487837595118469140"
+    },
+    {
+      "author": "Ryan >_<",
+      "author_id": "535831876766793738",
+      "content": "User can change their orientation",
+      "at": "2026-03-29T15:36:48.987000+00:00",
+      "msg_id": "1487837945867014254"
+    },
+    {
+      "author": "Ryan >_<",
+      "author_id": "535831876766793738",
+      "content": "There's a button there",
+      "at": "2026-03-29T15:36:53.977000+00:00",
+      "msg_id": "1487837966796849153"
+    },
+    {
+      "author": "Ryan >_<",
+      "author_id": "535831876766793738",
+      "content": "This refers to the issue when player is opened it shifts to wrong Orientation",
+      "at": "2026-03-29T15:37:28.438000+00:00",
+      "msg_id": "1487838111336497173"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Yes",
+      "at": "2026-03-29T15:37:38.504000+00:00",
+      "msg_id": "1487838153556627496"
+    }
+  ],
+  "14": [
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "<@944635185423597698> doing this?",
+      "at": "2026-03-29T15:30:05.885000+00:00",
+      "msg_id": "1487836255134679080"
+    },
+    {
+      "author": "Sap",
+      "author_id": "944635185423597698",
+      "content": "Oh ye kinda forgot I’ll do it",
+      "at": "2026-03-29T15:32:34.187000+00:00",
+      "msg_id": "1487836877158355175"
+    }
+  ],
+  "13": [
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "<@617537674084876318> this was done right? 2 style was added as far ik.",
+      "at": "2026-03-29T15:31:48.335000+00:00",
+      "msg_id": "1487836684841386034"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "I mean the pr was made but it's a draft for now",
+      "at": "2026-03-29T15:32:24.535000+00:00",
+      "msg_id": "1487836836675059804"
+    },
+    {
+      "author": "Rieversed 🌠",
+      "author_id": "617537674084876318",
+      "content": "Not yet happy with the result",
+      "at": "2026-03-29T15:32:45.906000+00:00",
+      "msg_id": "1487836926311530698"
+    }
+  ],
+  "2": [
+    {
+      "author": "Ryan >_<",
+      "author_id": "535831876766793738",
+      "content": "Fixed",
+      "at": "2026-03-29T15:29:33.171000+00:00",
+      "msg_id": "1487836117922484454"
+    }
+  ]
+}
