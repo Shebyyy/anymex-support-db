@@ -6927,7 +6927,7 @@
         "tags": [
           "🧑🏻‍🏭 WIP"
         ],
-        "linked_todo_id": null,
+        "linked_todo_id": 16,
         "attachments": [],
         "messages": [
           {
@@ -7138,7 +7138,13 @@
             "created_at": "2025-08-05T09:31:41.672000+00:00",
             "attachments": []
           }
-        ]
+        ],
+        "linked_todo_info": {
+          "id": 16,
+          "title": "floating mini-player inside the app",
+          "status": "in_progress",
+          "priority": "medium"
+        }
       },
       {
         "id": "1318689511898615879",
