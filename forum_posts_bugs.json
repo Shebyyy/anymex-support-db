@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "last_synced": "2026-03-29T21:39:49.927163",
+    "last_synced": "2026-03-30T10:59:21.808417",
     "channel_id": "1313093858346668133",
     "posts": [
       {
@@ -2198,8 +2198,8 @@
         "created_at_fmt": "Dec 16, 2025",
         "message_count": 38,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [
           "❌ Not an issue"
         ],
@@ -13354,6 +13354,70 @@
           }
         ],
         "messages": []
+      },
+      {
+        "id": "1426732258567520366",
+        "title": "Fix card style",
+        "content": "Fix the “modern” card style",
+        "content_raw": "Fix the “modern” card style",
+        "preview": "Fix the “modern” card style",
+        "author_id": "911000652426145872",
+        "author_name": "Meat_King",
+        "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+        "created_at": "2025-10-12T00:44:37.846000+00:00",
+        "created_at_fmt": "Oct 12, 2025",
+        "message_count": 3,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "🖼️ UI/UX",
+          "✅ Fixed"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "IMG_1183.png",
+            "content_type": "image/jpeg",
+            "width": 339,
+            "height": 472,
+            "size": 125350
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "Meat_King",
+            "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+            "content": "Not be a annoying but it’s kinda still a bit there",
+            "content_raw": "Not be a annoying but it’s kinda still a bit there",
+            "created_at": "2025-10-12T20:41:12.173000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Meat_King",
+            "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2025-10-12T20:41:44.106000+00:00",
+            "attachments": [
+              {
+                "filename": "IMG_1219.png",
+                "content_type": "image/jpeg",
+                "width": 365,
+                "height": 523,
+                "size": 130045
+              }
+            ]
+          },
+          {
+            "author_name": "Aayush",
+            "author_avatar": "https://cdn.discordapp.com/avatars/918825160654598224/ca951b008928d14a727dacaaf121cb4c.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> how to center a div",
+            "content_raw": "<@535831876766793738> how to center a div",
+            "created_at": "2025-10-13T02:24:50.456000+00:00",
+            "attachments": []
+          }
+        ]
       }
     ]
   }
