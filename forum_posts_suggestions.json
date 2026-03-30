@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-03-29T21:42:21.907636",
+    "last_synced": "2026-03-30T10:59:29.893047",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -857,8 +857,8 @@
         "created_at_fmt": "Feb 27, 2026",
         "message_count": 0,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
