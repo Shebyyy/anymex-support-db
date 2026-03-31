@@ -918,5 +918,116 @@
   "f61a5a67d5eb4883ad904b1f84d09da9926c7886a10b3920d38224025789d007": {
     "oauth_state": "94f39d03526198db69db8258175f6259",
     "expires_at": "2026-04-30T08:30:03.299206"
+  },
+  "4a31d39f0f9031f82cd21706ea98c96daaa0e55b34bdb8009f7245e8c1758209": {
+    "user": {
+      "id": "1474618752912851064",
+      "username": "nithinspacetime",
+      "avatar": "b780c063b3495cb60206c869c089b0a2",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": 0,
+      "global_name": "nithinspacetime",
+      "avatar_decoration_data": {
+        "asset": "a_c46ea0826e16fb1abf09ce0b56669d69",
+        "sku_id": "1481685548509954162",
+        "expires_at": 1779408000
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1465519580016410746",
+          "asset": "nameplates/blossoming_branch/1465519580016410746/",
+          "label": "Swaying cherry blossom branch with petals blowing and gentle watercolor washes.",
+          "palette": "bubble_gum"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": "#000000",
+      "clan": {
+        "identity_guild_id": "694195336792768634",
+        "identity_enabled": true,
+        "tag": "さくら荘",
+        "badge": "87ab7607c244e98027b69f495324b923"
+      },
+      "primary_guild": {
+        "identity_guild_id": "694195336792768634",
+        "identity_enabled": true,
+        "tag": "さくら荘",
+        "badge": "87ab7607c244e98027b69f495324b923"
+      },
+      "mfa_enabled": false,
+      "locale": "en-US",
+      "premium_type": 0
+    },
+    "access_token": "MTQ4NjU2MTQxMTIwMjE1NDU3OQ.hy8F5y4wRmsmlOAXtuWCGMNqJsErg0",
+    "access_level": "manager",
+    "member": {
+      "avatar": null,
+      "banner": null,
+      "communication_disabled_until": null,
+      "flags": 106,
+      "joined_at": "2026-03-19T14:52:26.359000+00:00",
+      "nick": "🐸",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1317884362888445952",
+        "1466289941938966628",
+        "1313085810874253422",
+        "1313087262539518033",
+        "1333105834384818196",
+        "1317884355753807893",
+        "1313346791479054456",
+        "1313085630581968926"
+      ],
+      "unusual_dm_activity_until": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "user": {
+        "id": "1474618752912851064",
+        "username": "nithinspacetime",
+        "avatar": "b780c063b3495cb60206c869c089b0a2",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": 0,
+        "global_name": "nithinspacetime",
+        "avatar_decoration_data": {
+          "asset": "a_c46ea0826e16fb1abf09ce0b56669d69",
+          "sku_id": "1481685548509954162",
+          "expires_at": 1779408000
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1465519580016410746",
+            "asset": "nameplates/blossoming_branch/1465519580016410746/",
+            "label": "Swaying cherry blossom branch with petals blowing and gentle watercolor washes.",
+            "palette": "bubble_gum"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": "#000000",
+        "clan": {
+          "identity_guild_id": "694195336792768634",
+          "identity_enabled": true,
+          "tag": "さくら荘",
+          "badge": "87ab7607c244e98027b69f495324b923"
+        },
+        "primary_guild": {
+          "identity_guild_id": "694195336792768634",
+          "identity_enabled": true,
+          "tag": "さくら荘",
+          "badge": "87ab7607c244e98027b69f495324b923"
+        }
+      },
+      "mute": false,
+      "deaf": false,
+      "bio": "",
+      "permissions": "251382392544833"
+    },
+    "expires_at": "2026-04-30T08:30:37.522987"
   }
 }
