@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-03-30T14:30:07.858030",
+    "last_synced": "2026-03-31T02:17:28.162331",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -755,7 +755,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/1143152698158497822/34856e55d61843d792805ec526407343.png?size=64",
         "created_at": "2026-03-08T16:43:55.329000+00:00",
         "created_at_fmt": "Mar 08, 2026",
-        "message_count": 2,
+        "message_count": 3,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -820,6 +820,14 @@
             "content": "ill take a look later",
             "content_raw": "ill take a look later",
             "created_at": "2026-03-08T16:52:57.625000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "AsatoSaizen🎭",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1143152698158497822/34856e55d61843d792805ec526407343.png?size=64",
+            "content": "Will I only get the medicine after I die from the pain😭",
+            "content_raw": "Will I only get the medicine after I die from the pain😭",
+            "created_at": "2026-03-30T14:54:23.402000+00:00",
             "attachments": []
           }
         ]
@@ -15393,6 +15401,34 @@
             "attachments": []
           }
         ]
+      },
+      {
+        "id": "1488260862484418659",
+        "title": "Improve History Cards",
+        "content": "When you click on the poster, it opens an info page or Read page. \n\nWhen you click on the rest of the area, it behaves as it currently does.",
+        "content_raw": "When you click on the poster, it opens an info page or Read page. \n\nWhen you click on the rest of the area, it behaves as it currently does.",
+        "preview": "When you click on the poster, it opens an info page or Read page. \n\nWhen you click on the rest of the area, it behaves a",
+        "author_id": "886674437448040489",
+        "author_name": "vkAwesome",
+        "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
+        "created_at": "2026-03-30T19:37:20.166000+00:00",
+        "created_at_fmt": "Mar 30, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenshot_2026-03-31-00-59-37-248_com.ryan.anymexbeta.jpg",
+            "content_type": "image/jpeg",
+            "width": 1280,
+            "height": 2772,
+            "size": 116138
+          }
+        ],
+        "messages": []
       }
     ]
   }
