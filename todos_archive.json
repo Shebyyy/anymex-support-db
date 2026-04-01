@@ -197,5 +197,31 @@
     "done_by_id": "612532963938271232",
     "done_by_name": "asheby",
     "done_at": "2026-03-29T16:49:42.735483+00:00"
+  },
+  {
+    "id": 22,
+    "title": "Disable animation",
+    "auto_generated": true,
+    "ai_description": "Add toggle to disable player menu animation",
+    "status": "done",
+    "priority": "medium",
+    "added_by_id": "523539866311720963",
+    "added_by_name": "itsmechinmoy",
+    "assigned_to_id": "150865547922243584",
+    "assigned_to_name": "neoniq",
+    "created_at": "2026-03-26T08:29:58.828284+00:00",
+    "updated_at": "2026-04-01T01:15:34.400754+00:00",
+    "source_message_ids": [
+      "1482084916203098315"
+    ],
+    "source_message_links": [
+      "https://discord.com/channels/1303000390505336893/1467831066994938049/1482084916203098315"
+    ],
+    "source_message_text": "Feat: add toggle to disable player menu animation on tap (I can't pause fast enough)",
+    "source_images": [],
+    "source_files": [],
+    "done_by_id": "612532963938271232",
+    "done_by_name": "asheby",
+    "done_at": "2026-04-01T01:15:34.400778+00:00"
   }
 ]
