@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-01T04:13:47.563288",
+    "last_synced": "2026-04-01T06:02:53.472802",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -254,7 +254,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
         "created_at": "2026-03-16T05:47:09.771000+00:00",
         "created_at_fmt": "Mar 16, 2026",
-        "message_count": 30,
+        "message_count": 33,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -530,6 +530,30 @@
             "content": "2",
             "content_raw": "2",
             "created_at": "2026-04-01T02:34:38.182000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "vkAwesome",
+            "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
+            "content": "Anyone is fine but placement should be below Genres like 1st image.\n\nLike Genre synonyms and tags are of same kind and should be togather like a family.",
+            "content_raw": "Anyone is fine but placement should be below Genres like 1st image.\n\nLike Genre synonyms and tags are of same kind and should be togather like a family.",
+            "created_at": "2026-04-01T04:23:00.428000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "vkAwesome",
+            "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
+            "content": "Thanks brother.",
+            "content_raw": "Thanks brother.",
+            "created_at": "2026-04-01T04:24:01.980000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "vkAwesome",
+            "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
+            "content": "Btw if u choose 1st then don't need to use seprate box for synonyms and tags.\n\nAdd them in a single box.\n\nSo new 3rd option - Combination of 1st and 2nd.\n\nBtw all look good so either is fine.",
+            "content_raw": "Btw if u choose 1st then don't need to use seprate box for synonyms and tags.\n\nAdd them in a single box.\n\nSo new 3rd option - Combination of 1st and 2nd.\n\nBtw all look good so either is fine.",
+            "created_at": "2026-04-01T04:31:26.630000+00:00",
             "attachments": []
           }
         ],
