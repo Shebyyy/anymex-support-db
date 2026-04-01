@@ -339,14 +339,14 @@
     "title": "Refactor Bio Parser",
     "auto_generated": true,
     "ai_description": "Improve bio parser for alignments",
-    "status": "in_progress",
-    "priority": "medium",
+    "status": "todo",
+    "priority": "low",
     "added_by_id": "523539866311720963",
     "added_by_name": "itsmechinmoy",
     "assigned_to_id": "1474618752912851064",
     "assigned_to_name": "nithinspacetime",
     "created_at": "2026-03-26T08:29:57.490308+00:00",
-    "updated_at": "2026-03-28T07:09:09.088061+00:00",
+    "updated_at": "2026-04-01T14:43:58.625825",
     "source_message_ids": [
       "1482068719013204238"
     ],
@@ -356,7 +356,9 @@
     "source_message_text": "Refactor/fix : better bio parser for alignments and stuff",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-03-30T15:53:09.336583+00:00"
+    "last_reminded_at": "2026-03-30T15:53:09.336583+00:00",
+    "tags": [],
+    "due_date": null
   },
   {
     "id": 24,
