@@ -1,5 +1,16 @@
 [
   {
+    "ts": "2026-04-01T14:23:49.655938Z",
+    "action": "Bulk Update (1 TODOs)",
+    "extra": "status → done",
+    "todo_id": "1 items",
+    "todo_title": "Bulk: status → done",
+    "todo_status": "done",
+    "user_id": "1474618752912851064",
+    "user_name": "nithinspacetime",
+    "user_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64"
+  },
+  {
     "ts": "2026-04-01T04:16:16.606006Z",
     "action": "Tags updated  ·  Due date → 2026-04-02",
     "extra": "",
