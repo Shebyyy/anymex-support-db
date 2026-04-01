@@ -386,14 +386,14 @@
     "title": "Disable animation",
     "auto_generated": true,
     "ai_description": "Add toggle to disable player menu animation",
-    "status": "todo",
+    "status": "in_progress",
     "priority": "medium",
     "added_by_id": "523539866311720963",
     "added_by_name": "itsmechinmoy",
-    "assigned_to_id": null,
-    "assigned_to_name": null,
+    "assigned_to_id": "150865547922243584",
+    "assigned_to_name": "neoniq",
     "created_at": "2026-03-26T08:29:58.828284+00:00",
-    "updated_at": "2026-03-26T08:29:58.828298+00:00",
+    "updated_at": "2026-04-01T01:15:03.141592+00:00",
     "source_message_ids": [
       "1482084916203098315"
     ],
