@@ -359,31 +359,5 @@
     "last_reminded_at": "2026-03-30T15:53:09.336583+00:00",
     "tags": [],
     "due_date": null
-  },
-  {
-    "id": 24,
-    "title": "Fix Marquee",
-    "auto_generated": true,
-    "ai_description": "Improve marquee functionality",
-    "status": "in_progress",
-    "priority": "medium",
-    "added_by_id": "612532963938271232",
-    "added_by_name": "asheby",
-    "assigned_to_id": "1474618752912851064",
-    "assigned_to_name": "nithinspacetime",
-    "created_at": "2026-03-26T13:12:17.364165+00:00",
-    "updated_at": "2026-03-29T18:37:33.871427",
-    "source_message_ids": [
-      "1482412155042005002"
-    ],
-    "source_message_links": [
-      "https://discord.com/channels/1303000390505336893/1467831066994938049/1482412155042005002"
-    ],
-    "source_message_text": "fix: imporve marquee",
-    "source_images": [],
-    "source_files": [],
-    "last_reminded_at": "2026-03-28T15:52:39.974616+00:00",
-    "linked_forum_thread_id": "1467570191230828575",
-    "linked_forum_type": "suggestions"
   }
 ]
