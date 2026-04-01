@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-03-31T08:32:04.815116",
+    "last_synced": "2026-04-01T04:13:47.563288",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -254,7 +254,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
         "created_at": "2026-03-16T05:47:09.771000+00:00",
         "created_at_fmt": "Mar 16, 2026",
-        "message_count": 27,
+        "message_count": 30,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -491,6 +491,45 @@
             "content": "It will be very useful.",
             "content_raw": "It will be very useful.",
             "created_at": "2026-03-16T20:33:53.006000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "Which looks better?",
+            "content_raw": "Which looks better?",
+            "created_at": "2026-04-01T00:51:25.904000+00:00",
+            "attachments": [
+              {
+                "filename": "IMG_3441.png",
+                "content_type": "image/jpeg",
+                "width": 1125,
+                "height": 2436,
+                "size": 771044
+              },
+              {
+                "filename": "IMG_3442.png",
+                "content_type": "image/jpeg",
+                "width": 1125,
+                "height": 2436,
+                "size": 973307
+              }
+            ]
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "Mb for the delay was kinda busy with other things",
+            "content_raw": "Mb for the delay was kinda busy with other things",
+            "created_at": "2026-04-01T00:52:07.462000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "2",
+            "content_raw": "2",
+            "created_at": "2026-04-01T02:34:38.182000+00:00",
             "attachments": []
           }
         ],
@@ -3794,8 +3833,8 @@
         "created_at_fmt": "Aug 11, 2025",
         "message_count": 8,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🧑🏻‍🏭 WIP"
         ],
