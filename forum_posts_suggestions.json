@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-01T08:41:25.872715",
+    "last_synced": "2026-04-02T03:06:34.250658",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -6922,8 +6922,8 @@
         "created_at_fmt": "Jan 26, 2025",
         "message_count": 9,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "😳 Potential"
         ],
