@@ -329,5 +329,63 @@
       "at": "2026-03-31T21:05:27.892000+00:00",
       "msg_id": "1488645428680327179"
     }
+  ],
+  "6": [
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "@🐸 this? <:pray:1314941783452553276>",
+      "at": "2026-04-01T11:17:32.791000+00:00",
+      "msg_id": "1488859862048706681"
+    },
+    {
+      "author": "🐸",
+      "author_id": "1474618752912851064",
+      "content": "u mean add password to where what?",
+      "at": "2026-04-01T11:18:32.887000+00:00",
+      "msg_id": "1488860114109599914"
+    },
+    {
+      "author": "🐸",
+      "author_id": "1474618752912851064",
+      "content": "nvm",
+      "at": "2026-04-01T11:18:42.504000+00:00",
+      "msg_id": "1488860154446483476"
+    },
+    {
+      "author": "🐸",
+      "author_id": "1474618752912851064",
+      "content": "explain a bit",
+      "at": "2026-04-01T11:18:46.016000+00:00",
+      "msg_id": "1488860169176616960"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Okay",
+      "at": "2026-04-01T11:39:31.804000+00:00",
+      "msg_id": "1488865394390470777"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "- Add setting to set/reset hidden items password (stored locally)\n\n- To hide item:\n  long press (3–5 sec) on item → show hide option\n  if password not set → ask user to set it first → then hide item\n  if already set → directly hide\n\n- Hidden items should not show in main list\n\n- To view hidden items:\n  add new tab in library OR option in settings\n  when opening → ask for password → then show hidden items\n\n- Inside hidden items:\n  add select mode (toggle/tick)\n  user can select multiple items\n  then show \"Unhide\" option\n  clicking it will restore items back to main list\n\n- Add \"Unhide All\" option (optional)\n- Auto lock hidden items screen after app restart / inactivity\n- Show error on wrong password\n- Add \"Forgot password\" warning (since stored locally)\n- Optional: support fingerprint/biometric unlock",
+      "at": "2026-04-01T11:51:42.214000+00:00",
+      "msg_id": "1488868457951793162"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Note we are already using long press to show popup you have to set its time or something",
+      "at": "2026-04-01T11:52:23.046000+00:00",
+      "msg_id": "1488868629213741096"
+    },
+    {
+      "author": "𝕾𝖍𝖊𝖇𝖞 D. ツ",
+      "author_id": "612532963938271232",
+      "content": "Or Thing something better to trigger",
+      "at": "2026-04-01T11:52:33.065000+00:00",
+      "msg_id": "1488868671236604117"
+    }
   ]
 }
