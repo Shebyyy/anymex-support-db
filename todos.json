@@ -361,7 +361,7 @@
     "due_date": null
   },
   {
-    "id": 22,
+    "id": 27,
     "title": "Comments Backend (Quota Issue)",
     "ai_description": "Backend will stop working after 17 Apr (quota exceeded)\n* Decide solution before deadline:\n    1 Move backend to new account OR\n    2 Switch to different hosting\n* Update API URL in app after migration\n* Add fallback message if backend fails (comments unavailable)\n* Test comments after moving backend",
     "status": "todo",
