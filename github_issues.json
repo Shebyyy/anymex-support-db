@@ -1,17 +1,22 @@
 {
-  "last_synced": "2026-04-01T22:17:50.128341",
+  "last_synced": "2026-04-02T03:23:13.295389",
   "repo": "RyanYuuki/AnymeX",
   "issues": [
     {
       "number": 347,
       "title": "Thumfast",
-      "body": "### Feature Summary\n\nhttps://pub.dev/packages/cross_platform_video_thumbnails/\n\n### Detailed Description\n\nwill try to add it myself \n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for us",
+      "body": "### Feature Summary\n\nhttps://pub.dev/packages/cross_platform_video_thumbnails/\n\n### Detailed Description\n\nwill try to add it myself \n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "itsmechinmoy",
+      "author_avatar": "https://avatars.githubusercontent.com/u/167056923?v=4",
+      "author_url": "https://github.com/itsmechinmoy",
       "created_at": "2026-03-09T09:23:24Z",
+      "updated_at": "2026-03-09T09:23:47Z",
       "comment_count": 1,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/347",
       "linked_todo_id": null,
@@ -20,13 +25,18 @@
     {
       "number": 303,
       "title": "Please add a Story feature, similar to Dantotsu",
-      "body": "### Feature Summary\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nIn Dantotsu, the Story and Friend Watching and Rating List features only work for users who use AniList. Although watched anime can be added automatically (similar to Anymex), these features only display AniList friends.\n\nI would like to request that you implement a similar feature, but designed in the Anymex way. The Story feature help users see what their friends are currently watching. \n\n#### Please find the attached screenshot belo",
+      "body": "### Feature Summary\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nIn Dantotsu, the Story and Friend Watching and Rating List features only work for users who use AniList. Although watched anime can be added automatically (similar to Anymex), these features only display AniList friends.\n\nI would like to request that you implement a similar feature, but designed in the Anymex way. The Story feature help users see what their friends are currently watching. \n\n#### Please find the attached screenshot below, where the Story feature is highlighted:\n\n![Image](https://github.com/user-attachments/assets/93601621-94c3-4938-a0d3-34213771cffe)\n\nI sincerely hope you consider implementing these features in the future, as they would greatly improve the overall user experience.\n\nThank you.\n\n### Detailed Description\n\n### Current Behavior\n- In Dantotsu, the Story feature is only available for users who use AniList.\n- Even though watched anime can be added automatically, social features remain limited to AniList connections.\n- Users who do not rely on AniList cannot fully benefit from these features.\n\n### Proposed Solution\n- Implement a Story feature within Anymex that is independent of AniList limitations.\n- Allow users to see what their friends are currently watching.\n- Improve social interaction and overall user experience within the app.\n\n### Considerations\n- Cross-platform compatibility may be required (AniList / MyAnimeList / native Anymex accounts).\n- Privacy controls should be considered for activity visibility.\n- Synchronization of watch status and ratings may introduce technical complexity.\n- An alternative approach could be optional linking of external accounts while maintaining native functionality.\n\n\n### Additional Context\n\nI will attach a screen recording from my Dantotsu app where the Story and Friend Watching and Rating List features are highlighted. Please review the video and consider implementing similar features in both the PC and smartphone versions of the app.\n\nYou may integrate AniList and MyAnimeList, or alternatively, develop a native cross-platform system where users can log in or create an account to access advanced features. \n\n#### This could allow users to:\n- View what their friends are currently watching or reading\n- See ratings for anime, manga, and novels\n- Sync watch/read progress and timestamps between phone and PC simultaneously\n- Use Story and Friend activity features across devices\n- Follow or connect with friends and track their activity\n\nBelow, I have attached the screen recording for reference:\n\nhttps://github.com/user-attachments/assets/a3b5d761-41f7-49a2-b5c8-185b40d2d3b3\n\nI hope that by reviewing the information I have provided, as well as the screenshots and screen recording video, you will find them helpful and consider implementing these features as soon as possible.\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "rajinstar",
+      "author_avatar": "https://avatars.githubusercontent.com/u/62995823?v=4",
+      "author_url": "https://github.com/rajinstar",
       "created_at": "2026-02-16T10:28:51Z",
+      "updated_at": "2026-04-01T15:45:40Z",
       "comment_count": 5,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/303",
       "linked_todo_id": null,
@@ -35,13 +45,18 @@
     {
       "number": 302,
       "title": "Anymex desktop app sometimes freezes when switching to full-screen mode or pressing F11, both in the player and the app.",
-      "body": "### Steps to Reproduce\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nI want to report a bug I am experiencing on my laptop with Anymex version 3.0.4. The issue occurs when entering full-screen mode, either by clicking the full-screen button in the player (highlighted in the image below):\n\n<img width=\"1918\" height=\"1022\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/235dc237-a2df-4384-9e1f-49e5c2a4b07f\" />\n\nor by pressing the F11 key in the desktop app.\n\nBelow, I will provide my laptop s",
+      "body": "### Steps to Reproduce\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nI want to report a bug I am experiencing on my laptop with Anymex version 3.0.4. The issue occurs when entering full-screen mode, either by clicking the full-screen button in the player (highlighted in the image below):\n\n<img width=\"1918\" height=\"1022\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/235dc237-a2df-4384-9e1f-49e5c2a4b07f\" />\n\nor by pressing the F11 key in the desktop app.\n\nBelow, I will provide my laptop specifications and OS version:\n\n#### Laptop Version:\n\n- **Device Name:**\tRAJIN★STAR\n- **Device Model:** MSI Modern 15 A5M\n- **Processor:**\tAMD Ryzen 5 5500U with Radeon Graphics (2.10 GHz)\n- **Installed RAM:** 8.00 GB (7.36 GB usable)\n- **System type:** 64-bit operating system, x64-based processor\n- **Pen and touch:** Pen support\n\n#### OS Version:\n\n- **Edition:** Windows 11 Pro\n- **Version:** 25H2\n- **Installed On:** Sat, ‎Oct ‎12, ‎2024\n\nI hope the above information will help in resolving the issue.\n\nThank you.\n\n### Expected Outcome\n\n- The app should smoothly enter full-screen mode without freezing or getting stuck.\n- Users should be able to toggle full-screen on and off via both the player button and F11 key without any performance issues.\n- Full-screen mode should maintain proper video playback and app responsiveness.\n\n### Actual Outcome\n\n- The app sometimes freezes or becomes unresponsive when entering full-screen mode.\n- Clicking the full-screen button in the player or pressing F11 may cause the video playback to stop.\n- Users are unable to interact with the app until it is restarted.\n- The issue occurs intermittently but affects both the player button and F11 methods.\n- Full-screen mode does not function as expected, disrupting the viewing experience.\n\n### Error Logs (if applicable)\n\nI will also attach the Error Logs file below to help the developers resolve the issue:\n\n[Anymex Error Logs.txt](https://github.com/user-attachments/files/25333350/Anymex.Error.Logs.txt)\n\nPlease download it, review it carefully, and resolve this issue as soon as possible. Then, release the latest version with the issue fixed.\n\n### AnymeX Version\n\n3.0.4\n\n### Operating System Version\n\nWindows 11 Pro 25H2\n\n### Device Information\n\nMSI Modern 15 A5M\n\n### Additional Information\n\nI will provide a video to help the developers understand the problem. Unfortunately, I could not perform a screen recording on my laptop due to some issues, so I recorded the video using my phone camera. Hopefully, the video will help you understand the issue.\n\nIn the video, I demonstrate that when I click the full-screen icon in the player, the screen becomes stuck or frozen. The audio continues to play, but the video stops. This problem also occurs in the main app when I press the F11 key to enter full-screen mode.\n\nBelow, I have attached the video:\n\nhttps://github.com/user-attachments/assets/989ee86c-ed25-4e2d-a5ff-13112bbb1061\n\nBy watching the video above, I hope you can identify and resolve the problem in the next update. I also kindly request that you consider implementing the three features I suggested before this bug report. Fixing this bug and adding those features will greatly enhance the user experience and make the app much more enjoyable to use.\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "bug"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "rajinstar",
+      "author_avatar": "https://avatars.githubusercontent.com/u/62995823?v=4",
+      "author_url": "https://github.com/rajinstar",
       "created_at": "2026-02-16T00:16:58Z",
+      "updated_at": "2026-03-27T17:58:05Z",
       "comment_count": 10,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/302",
       "linked_todo_id": null,
@@ -50,13 +65,18 @@
     {
       "number": 301,
       "title": "Please add an offline download mode for anime, manga, and novels on both desktop and smartphone platforms",
-      "body": "### Feature Summary\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nThis is my last feature request for now, but this feature is very crucial for us. I know I’ve been requesting a lot, but these features help us watch anime, read manga, and novels offline. A friend of mine previously wanted to download an anime from Anymex but failed because there was no offline download option. In the end, he had to go to the official YouTube anime channel, Muse Asia, to manually download all the episodes, as he had W",
+      "body": "### Feature Summary\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nThis is my last feature request for now, but this feature is very crucial for us. I know I’ve been requesting a lot, but these features help us watch anime, read manga, and novels offline. A friend of mine previously wanted to download an anime from Anymex but failed because there was no offline download option. In the end, he had to go to the official YouTube anime channel, Muse Asia, to manually download all the episodes, as he had WiFi issues at the time. Therefore, I am requesting that this feature be included in the next version of the app.\n\nThank you.\n\n### Detailed Description\n\n### Current Behavior\n- Currently, the app does not support offline downloads for anime, manga, or novels.\n- Users who want to access content without an active internet connection cannot do so.\n\n### Proposed Solution\n- Implement an offline download mode for anime, manga, and novels on both desktop and smartphone platforms.\n- Users should be able to download episodes, chapters, or volumes directly to their device for offline access.\n- This feature will improve accessibility, allow uninterrupted content consumption, and enhance user satisfaction, particularly for those with unstable or limited internet connections.\n\n### Considerations\n- Storage management will be important; the app should allow users to choose download quality and location, and manage downloaded content.\n- An option to automatically delete watched/read content or manage downloads efficiently could further improve the user experience.\n\n\n### Additional Context\n\nI will also include a screen recording from my Android phone’s Anymex app. Although this video was recorded on the Android version, the same issue exists on the desktop version for Windows 11. The screen recording is attached below:\n\nhttps://github.com/user-attachments/assets/6c148c0b-b5bd-48b1-8efb-bce99aa2accc\n\nIn the screen recording, I will show exactly where the offline download feature should be added in the Anymex app. Please consider my request and address all of my concerns as soon as possible in the next update.\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "rajinstar",
+      "author_avatar": "https://avatars.githubusercontent.com/u/62995823?v=4",
+      "author_url": "https://github.com/rajinstar",
       "created_at": "2026-02-15T23:21:56Z",
+      "updated_at": "2026-02-26T15:08:48Z",
       "comment_count": 2,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/301",
       "linked_todo_id": null,
@@ -65,13 +85,18 @@
     {
       "number": 272,
       "title": "Anime list style",
-      "body": "### Feature Summary\n\nI like the app specially it's support for anime, manga and even novel. But the main problem I\n\n![Image](https://github.com/user-attachments/assets/f76f98f0-7873-4eaa-9f22-953870a10e88)\n![Image](https://github.com/user-attachments/assets/f2bacd40-6810-413e-b27a-90c6081369f5)\n![Image](https://github.com/user-attachments/assets/ea61e57d-beed-4941-87f2-9e2d98431e43)\n![Image](https://github.com/user-attachments/assets/41aa73e7-91f8-4ce9-a4b3-d4d041bd11dc)\n\n have found till now (I",
+      "body": "### Feature Summary\n\nI like the app specially it's support for anime, manga and even novel. But the main problem I\n\n![Image](https://github.com/user-attachments/assets/f76f98f0-7873-4eaa-9f22-953870a10e88)\n![Image](https://github.com/user-attachments/assets/f2bacd40-6810-413e-b27a-90c6081369f5)\n![Image](https://github.com/user-attachments/assets/ea61e57d-beed-4941-87f2-9e2d98431e43)\n![Image](https://github.com/user-attachments/assets/41aa73e7-91f8-4ce9-a4b3-d4d041bd11dc)\n\n have found till now (I've only used for couple of minutes) that the anime list style need to bring more style as you can see on other images (which is not AnymeX).\n\nI really like the block style for long animes like one piece, Naruto. Though other options like 'list' style, 'compact' style is also used by me occasionally.\n\nVersion: 3.0.4\n\nAlso when watching long anime we need to scroll lot to find another episode.\n\n![Image](https://github.com/user-attachments/assets/9e6ba1a0-c8e3-4728-a8c4-d32e44ccd39f)\n![Image](https://github.com/user-attachments/assets/0c797884-f57d-4335-9a70-e55015dbc010)\n\n### Detailed Description\n\n### Current Behavior\n- Describe the current functionality or lack thereof.\n\n### Proposed Solution\n- Detail how the feature should work and any potential benefits.\n\n### Considerations\n- Mention any potential challenges or alternatives.\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "joestardiobrando705-creator",
+      "author_avatar": "https://avatars.githubusercontent.com/u/259383542?v=4",
+      "author_url": "https://github.com/joestardiobrando705-creator",
       "created_at": "2026-02-04T16:14:32Z",
+      "updated_at": "2026-02-17T20:01:54Z",
       "comment_count": 8,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/272",
       "linked_todo_id": null,
@@ -80,13 +105,18 @@
     {
       "number": 241,
       "title": "Multiple features/Enhancements request",
-      "body": "### Feature Summary\n\n## Feature Summary:  \nSome list of feat request:\n\n## Detailed Description \n\n1.  **Profile page for MAL** \nFeature : We already have MAL integration in app so, we can also add a new  \"dedicated view  profile\" for MyAnimeList \n\n2. **Improving Mange Reader** ✅️\n- Ahh,  I would like to request a feature to quickly switch between chapters without leaving the reader like When the user taps the Chapter Title / Header inside the reader, it should open a popup or modal list of all av",
+      "body": "### Feature Summary\n\n## Feature Summary:  \nSome list of feat request:\n\n## Detailed Description \n\n1.  **Profile page for MAL** \nFeature : We already have MAL integration in app so, we can also add a new  \"dedicated view  profile\" for MyAnimeList \n\n2. **Improving Mange Reader** ✅️\n- Ahh,  I would like to request a feature to quickly switch between chapters without leaving the reader like When the user taps the Chapter Title / Header inside the reader, it should open a popup or modal list of all available chapters. (ig you guys know).. ✅ \n- Dual Pages for Tabs and Laptop  (i think it will be useful) ✅ \n- Adding a setting to rotate manga panels in reader \n- Maybe Adding \"Tap Zones\" in manga reader like \"mihon\" and other forks have already... It helps in Easy reading by tapping on screen  ✅ \n- \"Keep Screen On\" setting to keep screen on , from turning off maybe  ✅ \n\n3.  Adding a download feature to the App (for manga and Anime)\n\n4. Add Characters detailed page and Staff and other stuff \n Feature: By clicking on a character card should open character detailed page (scrapped from Anlist as of now) and also doing the same for studios , VA... ✅ \n\n5. Ability to Add to fav a show or manga inside the manga/Anime page \n\n6. Add Start and End dates feature inside the List Editor ✅ \n\n7. Also Add a toggle to private or publc a anime entry inside list editor\n\n8. Add a enhancement/Feat : When long pressed on a anime or manga should open List editor ✅ \n\n\n\n\n\n### Additional Context\n\nAhh none\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "NITHINSPACETIME",
+      "author_avatar": "https://avatars.githubusercontent.com/u/166204452?v=4",
+      "author_url": "https://github.com/NITHINSPACETIME",
       "created_at": "2026-01-25T07:34:48Z",
+      "updated_at": "2026-03-10T04:57:47Z",
       "comment_count": 11,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/241",
       "linked_todo_id": null,
@@ -95,13 +125,18 @@
     {
       "number": 226,
       "title": "Need a Hide from Homepage option",
-      "body": "### Feature Summary\n\nI would like an option to private or Hide certain titles from the homepage from the recommended and continue Watching/reading Section.\n\n### Detailed Description\n\n### Current Behavior\n- No such option exists\n\n### Proposed Solution\n- when we assign/edit the current tracking of a manga add a option button to assign it a private/hide from homepage tag which hides it from homepage\n\n### Considerations\n- Mention any potential challenges or alternatives.\n\n\n### Additional Context\n\n_N",
+      "body": "### Feature Summary\n\nI would like an option to private or Hide certain titles from the homepage from the recommended and continue Watching/reading Section.\n\n### Detailed Description\n\n### Current Behavior\n- No such option exists\n\n### Proposed Solution\n- when we assign/edit the current tracking of a manga add a option button to assign it a private/hide from homepage tag which hides it from homepage\n\n### Considerations\n- Mention any potential challenges or alternatives.\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "CS-Krishna",
+      "author_avatar": "https://avatars.githubusercontent.com/u/146179467?v=4",
+      "author_url": "https://github.com/CS-Krishna",
       "created_at": "2025-12-14T08:39:46Z",
+      "updated_at": "2026-03-10T05:01:24Z",
       "comment_count": 2,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/226",
       "linked_todo_id": null,
@@ -110,13 +145,18 @@
     {
       "number": 222,
       "title": "Ability to choose a different source for each manga/anime",
-      "body": "### Feature Summary\n\nAbility to choose a different source for each manga/anime as most of the time each manga is on a different source like in dantotsu \n\n### Detailed Description\n\n### Current Behavior\n-sets the chosen source to all manga/anime\n\n### Proposed Solution\n- Ability to choose a different source for each manga/anime as most of the time each manga is on a different source\n\n### Considerations\n- like in dantotsu\n\n\n### Additional Context\n\nNo related issues (maybe the one where u add multipl",
+      "body": "### Feature Summary\n\nAbility to choose a different source for each manga/anime as most of the time each manga is on a different source like in dantotsu \n\n### Detailed Description\n\n### Current Behavior\n-sets the chosen source to all manga/anime\n\n### Proposed Solution\n- Ability to choose a different source for each manga/anime as most of the time each manga is on a different source\n\n### Considerations\n- like in dantotsu\n\n\n### Additional Context\n\nNo related issues (maybe the one where u add multiple sources list like in dantotsu)\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "ABdelrahmanAlaa1",
+      "author_avatar": "https://avatars.githubusercontent.com/u/159586604?v=4",
+      "author_url": "https://github.com/ABdelrahmanAlaa1",
       "created_at": "2025-11-27T01:26:04Z",
+      "updated_at": "2025-11-27T01:26:16Z",
       "comment_count": 1,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/222",
       "linked_todo_id": null,
@@ -125,13 +165,18 @@
     {
       "number": 221,
       "title": "MULTIPLE REPOSITORIES",
-      "body": "### Feature Summary\n\nAdd the possibility to add multiply repositories instead of one repository for category\n\n### Detailed Description\n\n### Current Behavior\n- currently you can only add one repository for category(anime,manga and novels)\n\n### Proposed Solution\n- This feature should let the user add more than one repository for category\n\n### Considerations\n- For foreign languages people this would be awesome because only specific repositories contain extensions for our languages but they arent as",
+      "body": "### Feature Summary\n\nAdd the possibility to add multiply repositories instead of one repository for category\n\n### Detailed Description\n\n### Current Behavior\n- currently you can only add one repository for category(anime,manga and novels)\n\n### Proposed Solution\n- This feature should let the user add more than one repository for category\n\n### Considerations\n- For foreign languages people this would be awesome because only specific repositories contain extensions for our languages but they arent as complete as the english repositories so if just one repository we have to choose between english only or a few national extensions instead of having both\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "MathsTTU",
+      "author_avatar": "https://avatars.githubusercontent.com/u/141683017?v=4",
+      "author_url": "https://github.com/MathsTTU",
       "created_at": "2025-11-24T14:00:01Z",
+      "updated_at": "2026-03-15T08:27:25Z",
       "comment_count": 3,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/221",
       "linked_todo_id": null,
@@ -140,13 +185,18 @@
     {
       "number": 209,
       "title": "[Feature Request] PiP support",
-      "body": "### Feature Summary\n\nWould be nice to use PiP as I often find myself wanting to use this feature. Yeah I'm a crazy one for watching shows on a tiny screen Lmao. \n\n### Detailed Description\n\n### Current Behavior\n- Describe the current functionality or lack thereof.\n\n### Proposed Solution\n- Detail how the feature should work and any potential benefits.\n\n### Considerations\n- Mention any potential challenges or alternatives.\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I h",
+      "body": "### Feature Summary\n\nWould be nice to use PiP as I often find myself wanting to use this feature. Yeah I'm a crazy one for watching shows on a tiny screen Lmao. \n\n### Detailed Description\n\n### Current Behavior\n- Describe the current functionality or lack thereof.\n\n### Proposed Solution\n- Detail how the feature should work and any potential benefits.\n\n### Considerations\n- Mention any potential challenges or alternatives.\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "LinuxFinn",
+      "author_avatar": "https://avatars.githubusercontent.com/u/196552660?v=4",
+      "author_url": "https://github.com/LinuxFinn",
       "created_at": "2025-10-24T01:26:09Z",
+      "updated_at": "2025-10-24T01:26:25Z",
       "comment_count": 1,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/209",
       "linked_todo_id": null,
@@ -155,13 +205,18 @@
     {
       "number": 208,
       "title": "Add Torrent Play Support like Dantotsu",
-      "body": "### Feature Summary\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nPlease add Torrent playing support just like Dantotsu has. It will solve most of the watching problem. You can also make it like Stremio app. Playing torrent will help to play any Anime within the app without facing other extension's not showing or playing problem.\n\nPlease add this feature as soon as possible.\n\nThank You.\n\n### Detailed Description\n\n### Current Behavior\n- No functionality of play Torrent extensions video for example Tor",
+      "body": "### Feature Summary\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nPlease add Torrent playing support just like Dantotsu has. It will solve most of the watching problem. You can also make it like Stremio app. Playing torrent will help to play any Anime within the app without facing other extension's not showing or playing problem.\n\nPlease add this feature as soon as possible.\n\nThank You.\n\n### Detailed Description\n\n### Current Behavior\n- No functionality of play Torrent extensions video for example Torrentio Anime extension's Torrent Files\n\n### Proposed Solution\n- Dantotsu can play Torrent Files. Just take some of the coding from Dantotsu\n\n### Considerations\n- If you can improve the Torrent support then please improve the Dantotsu Torrent support to more powerful Torrent Player.\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "rajinstar",
+      "author_avatar": "https://avatars.githubusercontent.com/u/62995823?v=4",
+      "author_url": "https://github.com/rajinstar",
       "created_at": "2025-10-12T13:13:36Z",
+      "updated_at": "2026-02-16T08:38:22Z",
       "comment_count": 1,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/208",
       "linked_todo_id": null,
@@ -170,7 +225,7 @@
     {
       "number": 185,
       "title": "Add Weblate Support",
-      "body": "### Feature Summary\n\nhttps://hosted.weblate.org/\n\nmake an arb file with all strings with their respective key\nreplace all hardcoded string to use the keys\n\nan example app: https://github.com/aayush2622/Dartotsu/blob/main/assets/translations/app_en.arb\n\n### Detailed Description\n\n_No response_\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and desc",
+      "body": "### Feature Summary\n\nhttps://hosted.weblate.org/\n\nmake an arb file with all strings with their respective key\nreplace all hardcoded string to use the keys\n\nan example app: https://github.com/aayush2622/Dartotsu/blob/main/assets/translations/app_en.arb\n\n### Detailed Description\n\n_No response_\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
@@ -178,7 +233,14 @@
       "assignees": [
         "Copilot"
       ],
+      "assignee_avatars": [
+        "https://avatars.githubusercontent.com/in/1143301?v=4"
+      ],
+      "author": "itsmechinmoy",
+      "author_avatar": "https://avatars.githubusercontent.com/u/167056923?v=4",
+      "author_url": "https://github.com/itsmechinmoy",
       "created_at": "2025-09-04T13:49:50Z",
+      "updated_at": "2025-09-04T13:50:04Z",
       "comment_count": 1,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/185",
       "linked_todo_id": null,
@@ -187,7 +249,7 @@
     {
       "number": 165,
       "title": "Improvement to bypass captcha",
-      "body": "### Feature Summary\n\nAdd option WebView\n\n### Detailed Description\n\n### Current Behavior\nThe webview would be on sites that have captcha to bypass it\n\n### Proposed Solution\nAfter clicking on the webview option, it should redirect to the website and do the captcha and after completion it would already recognize the episodes.\n\n### Considerations\nI'll leave some screenshots so you can get an idea of how it could look.\n1\n<img width=\"1528\" height=\"844\" alt=\"Image\" src=\"https://github.com/user-attachme",
+      "body": "### Feature Summary\n\nAdd option WebView\n\n### Detailed Description\n\n### Current Behavior\nThe webview would be on sites that have captcha to bypass it\n\n### Proposed Solution\nAfter clicking on the webview option, it should redirect to the website and do the captcha and after completion it would already recognize the episodes.\n\n### Considerations\nI'll leave some screenshots so you can get an idea of how it could look.\n1\n<img width=\"1528\" height=\"844\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/8dd09de8-f3d7-40fe-88fb-583c51471967\" />\n\n2\n<img width=\"1440\" height=\"310\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/992448ac-075c-4045-972d-27aad1db9389\" />\n\n3\n<img width=\"1527\" height=\"857\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/597a7b0d-dd65-4760-9a36-df1317ec82e8\" />\n\n4\nIn AnymeX does not detect the episodes\n<img width=\"1510\" height=\"820\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/014e7595-80d1-4f7d-bcdd-4ee81e3632c9\" />\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
@@ -195,7 +257,14 @@
       "assignees": [
         "Copilot"
       ],
+      "assignee_avatars": [
+        "https://avatars.githubusercontent.com/in/1143301?v=4"
+      ],
+      "author": "LeGenDaRy15PT",
+      "author_avatar": "https://avatars.githubusercontent.com/u/127091305?v=4",
+      "author_url": "https://github.com/LeGenDaRy15PT",
       "created_at": "2025-08-09T19:12:08Z",
+      "updated_at": "2026-03-27T17:56:16Z",
       "comment_count": 4,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/165",
       "linked_todo_id": null,
@@ -204,13 +273,18 @@
     {
       "number": 33,
       "title": "sorting options for anime/manga list.",
-      "body": "### Feature Summary\n\nSorting for the list only allows you to sort by last updated, either from greatest to smallest or vice versa. However, we currently lack features to sort alphabetically, by chapters/episodes remaining, unread count, latest chapter update, user score, or even randomly.\n\n### Detailed Description\n\n### Current Behavior\r\nSorting for the list only allows sorting by last updated, either from greatest to smallest or vice versa. No other sorting options are currently available.\r\n\r\n##",
+      "body": "### Feature Summary\n\nSorting for the list only allows you to sort by last updated, either from greatest to smallest or vice versa. However, we currently lack features to sort alphabetically, by chapters/episodes remaining, unread count, latest chapter update, user score, or even randomly.\n\n### Detailed Description\n\n### Current Behavior\r\nSorting for the list only allows sorting by last updated, either from greatest to smallest or vice versa. No other sorting options are currently available.\r\n\r\n### Proposed Solution\r\nIntroduce additional sorting features to enhance user experience. These should include:\r\n\r\n    Alphabetical sorting.\r\n    Sorting by chapters/episodes remaining.\r\n    Sorting by unread count.\r\n    Sorting by the latest chapter update.\r\n    Sorting by user score.\r\n    A random sorting option.\r\n\r\n### Considerations\r\na dropdown menu when you click sort might be nice\r\n\n\n### Additional Context\n\nThe mihon app really does this well but it doesent look as nice as your work so meybe take insperation from their utility? \n\n### Submission Checklist\n\n- [X] I have searched the existing issues and confirm that this feature has not been requested before.\n- [X] I have provided a clear and descriptive title.\n- [X] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [X] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.",
       "labels": [
         "enhancement"
       ],
       "state": "open",
       "assignees": [],
+      "assignee_avatars": [],
+      "author": "GodsTitan",
+      "author_avatar": "https://avatars.githubusercontent.com/u/55841188?v=4",
+      "author_url": "https://github.com/GodsTitan",
       "created_at": "2024-12-11T09:24:57Z",
+      "updated_at": "2024-12-11T09:25:16Z",
       "comment_count": 1,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/33",
       "linked_todo_id": null,
