@@ -47,7 +47,7 @@
     "source_message_text": "feat:  more anilist settings",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-03-28T15:52:34.054442+00:00",
+    "last_reminded_at": "2026-04-02T15:51:35.464032+00:00",
     "linked_forum_thread_id": "1485905018782486549",
     "linked_forum_type": "suggestions"
   },
@@ -165,7 +165,7 @@
     "source_message_text": "feat: add “touch grass” reminder after long binge",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-03-30T15:53:08.673582+00:00"
+    "last_reminded_at": "2026-04-02T15:51:35.951067+00:00"
   },
   {
     "id": 11,
@@ -212,7 +212,7 @@
     "source_message_text": "refactor: make list editor minimal (use half screen instead of full)",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-03-30T15:53:08.979584+00:00"
+    "last_reminded_at": "2026-04-02T15:51:36.537801+00:00"
   },
   {
     "id": 14,
@@ -286,7 +286,7 @@
     "source_message_text": "* When the user taps the PiP icon, the video should switch to a floating mini-player inside the app, so the user can continue browsing.\n\n* If the user presses the home button while the mini-player is floating, it should switch to system Picture-in-Picture (PiP) mode.\n\n* It would also be nice to have an Auto PiP option, so when the user presses the home button, PiP opens automatically.",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-03-28T15:52:35.098316+00:00",
+    "last_reminded_at": "2026-04-02T15:51:38.594139+00:00",
     "tags": [],
     "linked_forum_thread_id": "1322620177468096532",
     "linked_forum_type": "suggestions"
