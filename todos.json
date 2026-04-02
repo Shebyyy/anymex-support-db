@@ -20,7 +20,10 @@
     ],
     "source_message_text": "### Fix: Ai Picks\n- Animesprout + Mal native recommendation works but the 18+ button doesn't \n- Animesprout + Al native recommendation doesnt work cause al gets ratelimited",
     "source_images": [],
-    "source_files": []
+    "source_files": [],
+    "watchers": [
+      "612532963938271232"
+    ]
   },
   {
     "id": 5,
