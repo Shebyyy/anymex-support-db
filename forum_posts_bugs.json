@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "last_synced": "2026-04-01T08:37:16.062071",
+    "last_synced": "2026-04-02T03:24:18.745684",
     "channel_id": "1313093858346668133",
     "posts": [
       {
@@ -2198,8 +2198,8 @@
         "created_at_fmt": "Dec 16, 2025",
         "message_count": 38,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "❌ Not an issue"
         ],
