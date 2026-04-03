@@ -239,7 +239,8 @@
     "linked_forum_thread_id": "1482978512427155567",
     "linked_forum_type": "suggestions",
     "tags": [],
-    "due_date": "2026-04-02"
+    "due_date": "2026-04-02",
+    "last_reminded_at": "2026-04-03T15:54:45.097275+00:00"
   },
   {
     "id": 15,
@@ -262,7 +263,8 @@
     ],
     "source_message_text": "Fix : change it back or keep it like that and change the tap zones selection page ui",
     "source_images": [],
-    "source_files": []
+    "source_files": [],
+    "last_reminded_at": "2026-04-03T15:54:45.738560+00:00"
   },
   {
     "id": 16,
