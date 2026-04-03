@@ -1062,5 +1062,91 @@
   "0ad24828d866580123936874981fddf72550f2bcc07c2109d3f35872f9035e11": {
     "oauth_state": "d407813db5c32ef7d18c194be332376d",
     "expires_at": "2026-05-03T08:39:44.090850"
+  },
+  "b8452c3eb9bdf642912c6419a0139761543fd7817c9097e717bedb6dd106d5b1": {
+    "user": {
+      "id": "535831876766793738",
+      "username": "ryan_yuuki",
+      "avatar": "64d0a7798e3ccad244bd5a5d734164de",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ryan >_<",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "729975157011251241",
+        "identity_enabled": true,
+        "tag": "RLA",
+        "badge": "42dc214c739734d4da6a609a199131d1"
+      },
+      "primary_guild": {
+        "identity_guild_id": "729975157011251241",
+        "identity_enabled": true,
+        "tag": "RLA",
+        "badge": "42dc214c739734d4da6a609a199131d1"
+      },
+      "mfa_enabled": false,
+      "locale": "en-US",
+      "premium_type": 0
+    },
+    "access_token": "MTQ4NjU2MTQxMTIwMjE1NDU3OQ.xcGYfY2JXGRMpSKeR3yHVz0bE7wBjY",
+    "access_level": "admin",
+    "member": {
+      "avatar": null,
+      "banner": null,
+      "communication_disabled_until": null,
+      "flags": 2,
+      "joined_at": "2024-11-04T14:18:21.828000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1313085810874253422",
+        "1313085909708570644",
+        "1313346791479054456",
+        "1313085630581968926",
+        "1313133817569087519"
+      ],
+      "unusual_dm_activity_until": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "user": {
+        "id": "535831876766793738",
+        "username": "ryan_yuuki",
+        "avatar": "64d0a7798e3ccad244bd5a5d734164de",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Ryan >_<",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": {
+          "identity_guild_id": "729975157011251241",
+          "identity_enabled": true,
+          "tag": "RLA",
+          "badge": "42dc214c739734d4da6a609a199131d1"
+        },
+        "primary_guild": {
+          "identity_guild_id": "729975157011251241",
+          "identity_enabled": true,
+          "tag": "RLA",
+          "badge": "42dc214c739734d4da6a609a199131d1"
+        }
+      },
+      "mute": false,
+      "deaf": false,
+      "bio": "",
+      "permissions": "18014398509481983"
+    },
+    "expires_at": "2026-05-03T08:40:07.395739"
   }
 }
