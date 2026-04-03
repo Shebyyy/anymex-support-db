@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-04-03T07:45:31.145676",
+  "last_synced": "2026-04-03T08:40:08.752842",
   "guild_id": "1303000390505336893",
   "members": [
     {
@@ -162,32 +162,6 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2024-11-17T02:55:49.375000+00:00",
-      "synced_at": "2026-04-03T07:45:31.145676"
-    },
-    {
-      "id": "535831876766793738",
-      "username": "ryan_yuuki",
-      "global_name": "Ryan >_<",
-      "nick": "",
-      "display_name": "Ryan >_<",
-      "avatar_url": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=128",
-      "roles": [
-        "1313085810874253422",
-        "1313085909708570644",
-        "1313346791479054456",
-        "1313085630581968926",
-        "1313133817569087519"
-      ],
-      "role_names": [
-        "Contributors",
-        "Owner",
-        "Stable Updates",
-        "AnymeX",
-        "OGs"
-      ],
-      "is_admin": false,
-      "is_todo_role": true,
-      "joined_at": "2024-11-04T14:18:21.828000+00:00",
       "synced_at": "2026-04-03T07:45:31.145676"
     },
     {
@@ -507,6 +481,26 @@
       "is_todo_role": true,
       "joined_at": "2026-03-19T14:52:26.359000+00:00",
       "synced_at": "2026-04-03T07:45:31.145676"
+    },
+    {
+      "id": "535831876766793738",
+      "username": "ryan_yuuki",
+      "global_name": "Ryan >_<",
+      "nick": "",
+      "display_name": "Ryan >_<",
+      "avatar_url": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=128",
+      "roles": [
+        "1313085810874253422",
+        "1313085909708570644",
+        "1313346791479054456",
+        "1313085630581968926",
+        "1313133817569087519"
+      ],
+      "role_names": [],
+      "is_admin": true,
+      "is_todo_role": true,
+      "joined_at": "2024-11-04T14:18:21.828000+00:00",
+      "synced_at": "2026-04-03T08:40:08.247559"
     }
   ],
   "total": 2111
