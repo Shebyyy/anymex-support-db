@@ -141,7 +141,12 @@
       "user_name": "This is War Huh Wow",
       "user_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
       "text": "@she",
-      "ts": "2026-04-04T18:08:50.675499Z"
+      "ts": "2026-04-04T18:08:50.675499Z",
+      "reactions": {
+        "<:1_:1317127019934519377>": [
+          "150865547922243584"
+        ]
+      }
     },
     {
       "id": "4ded77237e142a36",
