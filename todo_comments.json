@@ -14,7 +14,12 @@
       "user_name": "nithinspacetime",
       "user_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
       "text": "hello sheby",
-      "ts": "2026-04-02T06:19:26.669228Z"
+      "ts": "2026-04-02T06:19:26.669228Z",
+      "reactions": {
+        "<:1_:1317127019934519377>": [
+          "612532963938271232"
+        ]
+      }
     },
     {
       "id": "ac2211b347e5cd59",
