@@ -342,7 +342,12 @@
       "user_name": "Rieversed 🌠",
       "user_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
       "text": "Making this more complicated than it needs to be is kind of extending development, might just remove all the extra stuff and just keep core functionality so we can finally get this feature out",
-      "ts": "2026-04-04T18:43:34.823730Z"
+      "ts": "2026-04-04T18:43:34.823730Z",
+      "reactions": {
+        "<:42:1317127269906382968>": [
+          "612532963938271232"
+        ]
+      }
     },
     {
       "id": "89627c4e2714cb25",
