@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-03T08:39:37.022187",
+    "last_synced": "2026-04-04T03:26:57.899210",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -928,8 +928,8 @@
         "created_at_fmt": "Feb 27, 2026",
         "message_count": 0,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -948,8 +948,8 @@
         "created_at_fmt": "Feb 21, 2026",
         "message_count": 17,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [
@@ -3857,8 +3857,8 @@
         "created_at_fmt": "Aug 11, 2025",
         "message_count": 8,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [
           "🧑🏻‍🏭 WIP"
         ],
@@ -4377,7 +4377,7 @@
       },
       {
         "id": "1399612151752036384",
-        "title": "TTS For Synopsis & Epub",
+        "title": "TTS For Epub",
         "content": "For the disables\n\nSource: https://github.com/SmashinFries/GorakuPlus\nThis app TTS is bit slow but can be improved",
         "content_raw": "For the disables\n\nSource: https://github.com/SmashinFries/GorakuPlus\nThis app TTS is bit slow but can be improved",
         "preview": "For the disables\n\nSource: https://github.com/SmashinFries/GorakuPlus\nThis app TTS is bit slow but can be improved",
@@ -4386,13 +4386,12 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
         "created_at": "2025-07-29T04:39:00.514000+00:00",
         "created_at_fmt": "Jul 29, 2025",
-        "message_count": 4,
-        "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "message_count": 5,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
         "tags": [
-          "🥹 Delayed",
-          "😳 Potential"
+          "✅ Finished"
         ],
         "linked_todo_id": null,
         "attachments": [
@@ -4443,6 +4442,14 @@
             "content": "up",
             "content_raw": "up",
             "created_at": "2026-03-12T13:09:58.322000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "TTS For Epub",
+            "content_raw": "TTS For Epub",
+            "created_at": "2026-04-03T15:46:07.662000+00:00",
             "attachments": []
           }
         ]
@@ -6922,8 +6929,8 @@
         "created_at_fmt": "Jan 26, 2025",
         "message_count": 9,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [
           "😳 Potential"
         ],
@@ -7750,8 +7757,8 @@
         "created_at_fmt": "Feb 16, 2026",
         "message_count": 2,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -7873,8 +7880,8 @@
         "created_at_fmt": "Dec 11, 2024",
         "message_count": 12,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [
           "🗒️ Planned"
         ],
@@ -7992,8 +7999,8 @@
         "created_at_fmt": "Dec 08, 2024",
         "message_count": 7,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [
           "🥹 Delayed"
         ],
@@ -8071,8 +8078,8 @@
         "created_at_fmt": "Jan 18, 2026",
         "message_count": 9,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -15528,6 +15535,609 @@
             "content": "<span class=\"discord-mention discord-mention-channel\">#🤝︰friends</span>",
             "content_raw": "<#1349802911063867564>",
             "created_at": "2026-04-03T08:34:36.524000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1489560495131459616",
+        "title": "tap on screen to play/pause the video.",
+        "content": "[ Optional feature ] \n\nTap on screen ( anywhere but navbar area ) to play/pause the video and in navbar area to see the player interface\n\nTap on screen ( anywhere ) to play/pause the video with player interface shown\n\nThese two features can be added like this \nPlayer tap action :\n→ 1st option : tap → play / pause \n→ 2nd option : tap + play / pause\n\nAdds an option to use tap-anywhere play/pause instead of showing the player controls.\n\nallow switching the player to a simple play/pause mode. When enabled, tapping anywhere on the screen will just play or pause the video instead of showing the full interface.",
+        "content_raw": "[ Optional feature ] \n\nTap on screen ( anywhere but navbar area ) to play/pause the video and in navbar area to see the player interface\n\nTap on screen ( anywhere ) to play/pause the video with player interface shown\n\nThese two features can be added like this \nPlayer tap action :\n→ 1st option : tap → play / pause \n→ 2nd option : tap + play / pause\n\nAdds an option to use tap-anywhere play/pause instead of showing the player controls.\n\nallow switching the player to a simple play/pause mode. When enabled, tapping anywhere on the screen will just play or pause the video instead of showing the full interface.",
+        "preview": "[ Optional feature ] \n\nTap on screen ( anywhere but navbar area ) to play/pause the video and in navbar area to see the ",
+        "author_id": "1107508599409877013",
+        "author_name": "WAGURI ✿ KAORUKO",
+        "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+        "created_at": "2026-04-03T09:41:36.735000+00:00",
+        "created_at_fmt": "Apr 03, 2026",
+        "message_count": 63,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:95:1317320148302172190>",
+            "created_at": "2026-04-03T09:42:10.035000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@WAGURI ✿ KAORUKO</span> \nYou can do using player theme 👍",
+            "content_raw": "<@1107508599409877013> \nYou can do using player theme 👍",
+            "created_at": "2026-04-03T09:44:55.786000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "How ? I don't know how to use Player theme",
+            "content_raw": "How ? I don't know how to use Player theme",
+            "created_at": "2026-04-03T09:45:20.961000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "First make one (or have someone make it), then you can add and apply it.",
+            "content_raw": "First make one (or have someone make it), then you can add and apply it.",
+            "created_at": "2026-04-03T09:46:34.861000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Do I need to know coding to make one ?",
+            "content_raw": "Do I need to know coding to make one ?",
+            "created_at": "2026-04-03T09:47:36.998000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Not really. It depends, but since it uses a JSON file, you don’t need much coding. You’ll just need to read the docs and follow them, or check a few existing theme JSON file",
+            "content_raw": "Not really. It depends, but since it uses a JSON file, you don’t need much coding. You’ll just need to read the docs and follow them, or check a few existing theme JSON file",
+            "created_at": "2026-04-03T09:51:03.066000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Where can I find docs",
+            "content_raw": "Where can I find docs",
+            "created_at": "2026-04-03T09:51:40.601000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "https://discord.com/channels/1303000390505336893/1474768542305095783",
+            "content_raw": "https://discord.com/channels/1303000390505336893/1474768542305095783",
+            "created_at": "2026-04-03T09:52:18.289000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Not possible ig.. there is no buttons binding option",
+            "content_raw": "Not possible ig.. there is no buttons binding option",
+            "created_at": "2026-04-03T11:06:14.759000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Maybe it would be better if the dev made it",
+            "content_raw": "Maybe it would be better if the dev made it",
+            "created_at": "2026-04-03T11:06:52.375000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "Just use the feature I made that disables players interface animation, that way you can pause unpause almost instantly \n\nOr did I get wrong what you want? Idk if you need to see subtitles while paused",
+            "content_raw": "Just use the feature I made that disables players interface animation, that way you can pause unpause almost instantly \n\nOr did I get wrong what you want? Idk if you need to see subtitles while paused",
+            "created_at": "2026-04-03T15:20:31.798000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Wait ig we can hide option?",
+            "content_raw": "Wait ig we can hide option?",
+            "created_at": "2026-04-03T15:21:15.471000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Atleast few things <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Atleast few things <:95:1317320148302172190>",
+            "created_at": "2026-04-03T15:22:07.347000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260403_205149.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 83519
+              }
+            ]
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "I still don't understand the root cause for what he wants <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "I still don't understand the root cause for what he wants <:95:1317320148302172190>",
+            "created_at": "2026-04-03T15:22:55.575000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "He only wants a play/pause button in the center, and doesn’t want any other controls to appear when tapping the screen while watch",
+            "content_raw": "He only wants a play/pause button in the center, and doesn’t want any other controls to appear when tapping the screen while watch",
+            "created_at": "2026-04-03T15:24:35.528000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "so i can close this rt?",
+            "content_raw": "so i can close this rt?",
+            "created_at": "2026-04-03T15:24:58.315000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "people should really explore the app",
+            "content_raw": "people should really explore the app",
+            "created_at": "2026-04-03T15:25:19.685000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "That option only hide few things not all <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317319877542936616.png?size=24\" alt=\":53:\" title=\":53:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "That option only hide few things not all <:53:1317319877542936616>",
+            "created_at": "2026-04-03T15:26:08.140000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "not all ?",
+            "content_raw": "not all ?",
+            "created_at": "2026-04-03T15:26:12.978000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Well keep it open will see if anything can be done",
+            "content_raw": "Well keep it open will see if anything can be done",
+            "created_at": "2026-04-03T15:26:23.815000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "what more stuff did u all add?",
+            "content_raw": "what more stuff did u all add?",
+            "created_at": "2026-04-03T15:26:26.996000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "i thought rievadded everything",
+            "content_raw": "i thought rievadded everything",
+            "created_at": "2026-04-03T15:26:36.358000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Well just keep it open for now",
+            "content_raw": "Well just keep it open for now",
+            "created_at": "2026-04-03T15:27:03.373000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Y'all getting wrong",
+            "content_raw": "Y'all getting wrong",
+            "created_at": "2026-04-03T15:31:33.470000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Ig it's my fault i should've been more clear",
+            "content_raw": "Ig it's my fault i should've been more clear",
+            "created_at": "2026-04-03T15:31:45.466000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Let's say when you start a video. Normally if we wanna pause the video we have to tap on screen and then tap on pause button. But what I want is a option to change the screen tap .. instead of showing interface on tap it just get pause/play. That way let's say if we are watching sub anime and they're talking really fast. Instead of doing all that we just need to tap on screen ( anywhere on screen ) and it gets pause and tap once again it plays again",
+            "content_raw": "Let's say when you start a video. Normally if we wanna pause the video we have to tap on screen and then tap on pause button. But what I want is a option to change the screen tap .. instead of showing interface on tap it just get pause/play. That way let's say if we are watching sub anime and they're talking really fast. Instead of doing all that we just need to tap on screen ( anywhere on screen ) and it gets pause and tap once again it plays again",
+            "created_at": "2026-04-03T15:35:57.042000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@This is War Huh Wow</span> <span class=\"discord-mention discord-mention-user\">@Sheby</span>",
+            "content_raw": "<@150865547922243584> <@612532963938271232>",
+            "created_at": "2026-04-03T15:36:23.372000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Dude you want double tap to Play or pause 😭",
+            "content_raw": "Dude you want double tap to Play or pause 😭",
+            "created_at": "2026-04-03T15:40:26.119000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "oof",
+            "content_raw": "oof",
+            "created_at": "2026-04-03T15:40:43.435000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "read faster <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127131477839943.png?size=24\" alt=\":kek_2:\" title=\":kek_2:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "read faster <:kek_2:1317127131477839943>",
+            "created_at": "2026-04-03T15:40:52.913000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Only few lines 🤣",
+            "content_raw": "Only few lines 🤣",
+            "created_at": "2026-04-03T15:41:09.023000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Double tap to play/pause the video.",
+            "content_raw": "Double tap to play/pause the video.",
+            "created_at": "2026-04-03T15:42:52.825000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Not double tap gng",
+            "content_raw": "Not double tap gng",
+            "created_at": "2026-04-03T15:47:36.752000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Wait this feature is available on mx player",
+            "content_raw": "Wait this feature is available on mx player",
+            "created_at": "2026-04-03T15:47:51.157000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "send rec",
+            "content_raw": "send rec",
+            "created_at": "2026-04-03T15:48:02.004000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Doing it",
+            "content_raw": "Doing it",
+            "created_at": "2026-04-03T15:48:08.331000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "That's what we say double tap",
+            "content_raw": "That's what we say double tap",
+            "created_at": "2026-04-03T15:48:08.564000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Not single",
+            "content_raw": "Not single",
+            "created_at": "2026-04-03T15:48:12.829000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-03T15:48:23.373000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenrecorder-2026-04-03-21-15-50-819.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 1056,
+                "size": 7315343
+              }
+            ]
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "See",
+            "content_raw": "See",
+            "created_at": "2026-04-03T15:48:27.565000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "congrats, what the name of the girl",
+            "content_raw": "congrats, what the name of the girl",
+            "created_at": "2026-04-03T15:48:37.363000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127131477839943.png?size=24\" alt=\":kek_2:\" title=\":kek_2:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:kek_2:1317127131477839943>",
+            "created_at": "2026-04-03T15:48:46.145000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\"> <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317319877542936616.png?size=24\" alt=\":53:\" title=\":53:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:17:1317127119742173184> <:53:1317319877542936616>",
+            "created_at": "2026-04-03T15:49:44.882000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "bro i think you the only person who would use it...",
+            "content_raw": "bro i think you the only person who would use it...",
+            "created_at": "2026-04-03T15:49:58.881000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "yh",
+            "content_raw": "yh",
+            "created_at": "2026-04-03T15:50:07.281000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "we are debloating the app",
+            "content_raw": "we are debloating the app",
+            "created_at": "2026-04-03T15:50:16.888000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127104839680080.png?size=24\" alt=\":15:\" title=\":15:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:15:1317127104839680080>",
+            "created_at": "2026-04-03T15:50:25.898000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "dont close suggestion but postpone it, is it possible? <span class=\"discord-mention discord-mention-user\">@itsmechinmoy</span>",
+            "content_raw": "dont close suggestion but postpone it, is it possible? <@523539866311720963>",
+            "created_at": "2026-04-03T15:50:46.282000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "I see.. no worries ☺️",
+            "content_raw": "I see.. no worries ☺️",
+            "created_at": "2026-04-03T15:51:02.864000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "We are not closing it",
+            "content_raw": "We are not closing it",
+            "created_at": "2026-04-03T15:51:06.767000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@WAGURI ✿ KAORUKO</span> its good to make new things, and it would be kinda easy to do, but app currently has bigger problems than adding features, and we just can't stop adding them",
+            "content_raw": "<@1107508599409877013> its good to make new things, and it would be kinda easy to do, but app currently has bigger problems than adding features, and we just can't stop adding them",
+            "created_at": "2026-04-03T15:51:48.566000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1314941783452553276.png?size=24\" alt=\":pray:\" title=\":pray:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:pray:1314941783452553276>",
+            "created_at": "2026-04-03T15:51:53.466000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "No it's fine.. it was just a suggestion",
+            "content_raw": "No it's fine.. it was just a suggestion",
+            "created_at": "2026-04-03T15:52:37.573000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "nvr said im closing it",
+            "content_raw": "nvr said im closing it",
+            "created_at": "2026-04-03T15:52:50.865000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Other things are important ig",
+            "content_raw": "Other things are important ig",
+            "created_at": "2026-04-03T15:53:00.028000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Can you just do one thing. Edit description and title and make proper so thy don't have to read top to bottom",
+            "content_raw": "Can you just do one thing. Edit description and title and make proper so thy don't have to read top to bottom",
+            "created_at": "2026-04-03T15:55:22.153000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "tap on screen to play/pause the video.",
+            "content_raw": "tap on screen to play/pause the video.",
+            "created_at": "2026-04-03T16:09:54.277000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Done.. tell me if this is good enough",
+            "content_raw": "Done.. tell me if this is good enough",
+            "created_at": "2026-04-03T16:10:11.111000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Ah good enough 👍",
+            "content_raw": "Ah good enough 👍",
+            "created_at": "2026-04-03T16:12:05.481000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "`Adds an option to use tap-anywhere play/pause instead of showing the player controls.`\n\nOr this \n`allow switching the player to a simple play/pause mode. When enabled, tapping anywhere on the screen will just play or pause the video instead of showing the full interface.`\n\nYou can add on bottom of your description",
+            "content_raw": "`Adds an option to use tap-anywhere play/pause instead of showing the player controls.`\n\nOr this \n`allow switching the player to a simple play/pause mode. When enabled, tapping anywhere on the screen will just play or pause the video instead of showing the full interface.`\n\nYou can add on bottom of your description",
+            "created_at": "2026-04-03T16:15:25.489000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "I'll just add this as extra",
+            "content_raw": "I'll just add this as extra",
+            "created_at": "2026-04-03T19:19:02.080000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "But the thing is what's the point of this if we aren't getting this feature",
+            "content_raw": "But the thing is what's the point of this if we aren't getting this feature",
+            "created_at": "2026-04-03T19:20:34.100000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Then dlt this ig",
+            "content_raw": "Then dlt this ig",
+            "created_at": "2026-04-04T00:31:40.068000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1419330766428442635",
+        "title": "Add Support for libass",
+        "content": "Hey! 👋 I’ve noticed the subtitles in Anymex don’t always show properly, especially with styled ASS/SSA subs. Would it be possible to fix this and add libass support? It would make the anime watching experience so much better. Thanks a lot for your hard work! 🙏",
+        "content_raw": "Hey! 👋 I’ve noticed the subtitles in Anymex don’t always show properly, especially with styled ASS/SSA subs. Would it be possible to fix this and add libass support? It would make the anime watching experience so much better. Thanks a lot for your hard work! 🙏",
+        "preview": "Hey! 👋 I’ve noticed the subtitles in Anymex don’t always show properly, especially with styled ASS/SSA subs. Would it be",
+        "author_id": "1090556977731612722",
+        "author_name": "Shoaib",
+        "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+        "created_at": "2025-09-21T14:33:44.607000+00:00",
+        "created_at_fmt": "Sep 21, 2025",
+        "message_count": 3,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "✅ Finished"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "screen-20250921-195849.mp4",
+            "content_type": "video/mp4",
+            "width": 480,
+            "height": 1068,
+            "size": 1162132
+          },
+          {
+            "filename": "Screenshot_20250921-192627_Animetail.png",
+            "content_type": "image/png",
+            "width": 2400,
+            "height": 1080,
+            "size": 1884869
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "Aayush",
+            "author_avatar": "https://cdn.discordapp.com/avatars/918825160654598224/ca951b008928d14a727dacaaf121cb4c.png?size=64",
+            "content": "Tf is ass/ssa or libass",
+            "content_raw": "Tf is ass/ssa or libass",
+            "created_at": "2025-09-21T16:23:55.809000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Aayush",
+            "author_avatar": "https://cdn.discordapp.com/avatars/918825160654598224/ca951b008928d14a727dacaaf121cb4c.png?size=64",
+            "content": "And tf is the difference",
+            "content_raw": "And tf is the difference",
+            "created_at": "2025-09-21T16:24:05.474000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "💀",
+            "content_raw": "💀",
+            "created_at": "2025-09-22T09:39:55.786000+00:00",
             "attachments": []
           }
         ]
