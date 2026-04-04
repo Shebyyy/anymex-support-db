@@ -1,5 +1,16 @@
 [
   {
+    "ts": "2026-04-04T18:32:28.272344Z",
+    "action": "💬 Comment Added",
+    "extra": "@asheby_2",
+    "todo_id": 1,
+    "todo_title": "Fix Anime Recommendations",
+    "todo_status": "todo",
+    "user_id": "150865547922243584",
+    "user_name": "This is War Huh Wow",
+    "user_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64"
+  },
+  {
     "ts": "2026-04-04T18:28:05.029913Z",
     "action": "💬 Comment Added",
     "extra": "@asheby",
