@@ -1,5 +1,16 @@
 [
   {
+    "ts": "2026-04-04T09:23:17.959536Z",
+    "action": "💬 Comment Added",
+    "extra": "need to fix reaction also",
+    "todo_id": 5,
+    "todo_title": "Add Anilist Settings",
+    "todo_status": "in_progress",
+    "user_id": "612532963938271232",
+    "user_name": "Sheby",
+    "user_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64"
+  },
+  {
     "ts": "2026-04-04T09:21:11.992188Z",
     "action": "💬 Comment Added",
     "extra": "need to fix @mention and will try adding notify😂😂",
