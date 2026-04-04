@@ -1304,5 +1304,116 @@
   "4952c866fd509d8c91b640dc55ee21de0601cfdd50b88276a41a2dcfbb38d7b4": {
     "oauth_state": "821be4b16a807276024b1b9e186e04b6",
     "expires_at": "2026-05-04T16:26:20.708280"
+  },
+  "c00fe301b90a53d1a6b57a8d84377fd021249299bae0f84934746429ccfb7cac": {
+    "user": {
+      "id": "150865547922243584",
+      "username": "neoniq",
+      "avatar": "1c140fb59cf74407aa213de884d305a8",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": 4784130,
+      "global_name": "This is War Huh Wow",
+      "avatar_decoration_data": {
+        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+        "sku_id": "1144308439720394944",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": "#490002",
+      "clan": {
+        "identity_guild_id": "140933721929940992",
+        "identity_enabled": true,
+        "tag": "BF",
+        "badge": "2d5531c7c57d71b34e58805ffc54a473"
+      },
+      "primary_guild": {
+        "identity_guild_id": "140933721929940992",
+        "identity_enabled": true,
+        "tag": "BF",
+        "badge": "2d5531c7c57d71b34e58805ffc54a473"
+      },
+      "mfa_enabled": true,
+      "locale": "en-US",
+      "premium_type": 0
+    },
+    "access_token": "MTQ4Nzg4ODgwNjA1MjEwNjMyMA.B6zcqO0qPc1SGZpOItMjPwwDKmL8Zk",
+    "access_level": "manager",
+    "member": {
+      "avatar": null,
+      "banner": null,
+      "communication_disabled_until": null,
+      "flags": 106,
+      "joined_at": "2026-03-07T19:44:33.983000+00:00",
+      "nick": "🐽",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1488235198087696425",
+        "1313085810874253422",
+        "1313087262539518033",
+        "1333105834384818196",
+        "1317884355753807893",
+        "1313346791479054456",
+        "1317884419746435132",
+        "1313085630581968926"
+      ],
+      "unusual_dm_activity_until": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "user": {
+        "id": "150865547922243584",
+        "username": "neoniq",
+        "avatar": "1c140fb59cf74407aa213de884d305a8",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": 4784130,
+        "global_name": "This is War Huh Wow",
+        "avatar_decoration_data": {
+          "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+          "sku_id": "1144308439720394944",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1349849614257225760",
+            "asset": "nameplates/nameplates/vengeance/",
+            "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": "#490002",
+        "clan": {
+          "identity_guild_id": "140933721929940992",
+          "identity_enabled": true,
+          "tag": "BF",
+          "badge": "2d5531c7c57d71b34e58805ffc54a473"
+        },
+        "primary_guild": {
+          "identity_guild_id": "140933721929940992",
+          "identity_enabled": true,
+          "tag": "BF",
+          "badge": "2d5531c7c57d71b34e58805ffc54a473"
+        }
+      },
+      "mute": false,
+      "deaf": false,
+      "bio": "",
+      "permissions": "251382392544833"
+    },
+    "expires_at": "2026-05-04T16:26:27.621882"
   }
 }
