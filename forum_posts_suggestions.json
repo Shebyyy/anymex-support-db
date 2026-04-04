@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-04T05:23:57.284615",
+    "last_synced": "2026-04-04T17:38:54.879719",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -908,8 +908,8 @@
         "created_at_fmt": "Mar 05, 2026",
         "message_count": 0,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -15541,31 +15541,23 @@
       },
       {
         "id": "1489560495131459616",
-        "title": "tap on screen to play/pause the video.",
-        "content": "[ Optional feature ] \n\nTap on screen ( anywhere but navbar area ) to play/pause the video and in navbar area to see the player interface\n\nTap on screen ( anywhere ) to play/pause the video with player interface shown\n\nThese two features can be added like this \nPlayer tap action :\n→ 1st option : tap → play / pause \n→ 2nd option : tap + play / pause\n\nAdds an option to use tap-anywhere play/pause instead of showing the player controls.\n\nallow switching the player to a simple play/pause mode. When enabled, tapping anywhere on the screen will just play or pause the video instead of showing the full interface.",
-        "content_raw": "[ Optional feature ] \n\nTap on screen ( anywhere but navbar area ) to play/pause the video and in navbar area to see the player interface\n\nTap on screen ( anywhere ) to play/pause the video with player interface shown\n\nThese two features can be added like this \nPlayer tap action :\n→ 1st option : tap → play / pause \n→ 2nd option : tap + play / pause\n\nAdds an option to use tap-anywhere play/pause instead of showing the player controls.\n\nallow switching the player to a simple play/pause mode. When enabled, tapping anywhere on the screen will just play or pause the video instead of showing the full interface.",
-        "preview": "[ Optional feature ] \n\nTap on screen ( anywhere but navbar area ) to play/pause the video and in navbar area to see the ",
+        "title": "Tap on screen to play/pause",
+        "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+        "content_raw": "<:95:1317320148302172190>",
+        "preview": "<:95:1317320148302172190>",
         "author_id": "1107508599409877013",
-        "author_name": "WAGURI ✿ KAORUKO",
-        "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+        "author_name": "itsmechinmoy",
+        "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
         "created_at": "2026-04-03T09:41:36.735000+00:00",
         "created_at_fmt": "Apr 03, 2026",
-        "message_count": 63,
-        "is_locked": false,
+        "message_count": 69,
+        "is_locked": true,
         "is_archived": false,
-        "status_label": "Open",
+        "status_label": "Locked",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
         "messages": [
-          {
-            "author_name": "itsmechinmoy",
-            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
-            "content_raw": "<:95:1317320148302172190>",
-            "created_at": "2026-04-03T09:42:10.035000+00:00",
-            "attachments": []
-          },
           {
             "author_name": "Sheby",
             "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
@@ -16076,6 +16068,54 @@
             "content": "Then dlt this ig",
             "content_raw": "Then dlt this ig",
             "created_at": "2026-04-04T00:31:40.068000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Is something wrong with ?",
+            "content_raw": "Is something wrong with ?",
+            "created_at": "2026-04-04T07:04:25.086000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Why always so rude ?",
+            "content_raw": "Why always so rude ?",
+            "created_at": "2026-04-04T07:04:34.839000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "Be a Lil mature",
+            "content_raw": "Be a Lil mature",
+            "created_at": "2026-04-04T07:04:53.713000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "WAGURI ✿ KAORUKO",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1107508599409877013/1152fefc89008633555942eb8e5b2a80.png?size=64",
+            "content": "You aren't tuff..",
+            "content_raw": "You aren't tuff..",
+            "created_at": "2026-04-04T07:05:12.855000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Bro already gives up\nThen asks me to be mature",
+            "content_raw": "Bro already gives up\nThen asks me to be mature",
+            "created_at": "2026-04-04T07:23:26.277000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Tap on screen to play/pause",
+            "content_raw": "Tap on screen to play/pause",
+            "created_at": "2026-04-04T07:25:16.533000+00:00",
             "attachments": []
           }
         ]
