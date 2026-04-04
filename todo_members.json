@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-04-04T18:37:05.914034",
+  "last_synced": "2026-04-04T18:42:32.400394",
   "guild_id": "1303000390505336893",
   "members": [
     {
@@ -156,40 +156,6 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2024-11-04T14:18:21.828000+00:00",
-      "synced_at": "2026-04-04T09:44:39.283290"
-    },
-    {
-      "id": "617537674084876318",
-      "username": "rieversed",
-      "global_name": "Rieversed 🌠",
-      "nick": "",
-      "display_name": "Rieversed 🌠",
-      "avatar_url": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=128",
-      "roles": [
-        "1317884362888445952",
-        "1466289941938966628",
-        "1488235198087696425",
-        "1313085810874253422",
-        "1313087262539518033",
-        "1317884355753807893",
-        "1313346791479054456",
-        "1317884419746435132",
-        "1313085630581968926"
-      ],
-      "role_names": [
-        "Linux",
-        "Comment mod",
-        "Anilist Status",
-        "Contributors",
-        "Beta Updates",
-        "Android",
-        "Stable Updates",
-        "Windows",
-        "AnymeX"
-      ],
-      "is_admin": false,
-      "is_todo_role": true,
-      "joined_at": "2025-09-07T16:23:43.268000+00:00",
       "synced_at": "2026-04-04T09:44:39.283290"
     },
     {
@@ -484,6 +450,30 @@
       "is_todo_role": true,
       "joined_at": "2026-03-07T19:44:33.983000+00:00",
       "synced_at": "2026-04-04T18:37:05.446693"
+    },
+    {
+      "id": "617537674084876318",
+      "username": "rieversed",
+      "global_name": "Rieversed 🌠",
+      "nick": "",
+      "display_name": "Rieversed 🌠",
+      "avatar_url": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=128",
+      "roles": [
+        "1317884362888445952",
+        "1466289941938966628",
+        "1488235198087696425",
+        "1313085810874253422",
+        "1313087262539518033",
+        "1317884355753807893",
+        "1313346791479054456",
+        "1317884419746435132",
+        "1313085630581968926"
+      ],
+      "role_names": [],
+      "is_admin": false,
+      "is_todo_role": true,
+      "joined_at": "2025-09-07T16:23:43.268000+00:00",
+      "synced_at": "2026-04-04T18:42:31.996944"
     }
   ],
   "total": 2115
