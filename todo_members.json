@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-04-05T05:16:11.942447",
+  "last_synced": "2026-04-05T05:19:02.524869",
   "guild_id": "1303000390505336893",
   "members": [
     {
@@ -415,38 +415,6 @@
       "synced_at": "2026-04-05T05:16:11.942447"
     },
     {
-      "id": "1400504783097561098",
-      "username": "asheby_2",
-      "global_name": "ASheby",
-      "nick": "",
-      "display_name": "ASheby",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1400504783097561098/5d005022c96ccd80f7c18a39cf3387c9.png?size=128",
-      "roles": [
-        "1317884362888445952",
-        "1466289941938966628",
-        "1313085810874253422",
-        "1313087262539518033",
-        "1317884355753807893",
-        "1313346791479054456",
-        "1317884419746435132",
-        "1313085630581968926"
-      ],
-      "role_names": [
-        "Linux",
-        "Comment mod",
-        "Contributors",
-        "Beta Updates",
-        "Android",
-        "Stable Updates",
-        "Windows",
-        "AnymeX"
-      ],
-      "is_admin": false,
-      "is_todo_role": true,
-      "joined_at": "2026-01-29T07:58:49.990000+00:00",
-      "synced_at": "2026-04-05T05:16:11.942447"
-    },
-    {
       "id": "1423387725641416787",
       "username": "jullanggit",
       "global_name": "jullanggit",
@@ -503,6 +471,29 @@
       "is_todo_role": true,
       "joined_at": "2026-03-19T14:52:26.359000+00:00",
       "synced_at": "2026-04-05T05:16:11.942447"
+    },
+    {
+      "id": "1400504783097561098",
+      "username": "asheby_2",
+      "global_name": "ASheby",
+      "nick": "",
+      "display_name": "ASheby",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1400504783097561098/5d005022c96ccd80f7c18a39cf3387c9.png?size=128",
+      "roles": [
+        "1317884362888445952",
+        "1466289941938966628",
+        "1313085810874253422",
+        "1313087262539518033",
+        "1317884355753807893",
+        "1313346791479054456",
+        "1317884419746435132",
+        "1313085630581968926"
+      ],
+      "role_names": [],
+      "is_admin": false,
+      "is_todo_role": true,
+      "joined_at": "2026-01-29T07:58:49.990000+00:00",
+      "synced_at": "2026-04-05T05:19:01.473186"
     }
   ],
   "total": 2118
