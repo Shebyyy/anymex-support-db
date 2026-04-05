@@ -1,5 +1,16 @@
 [
   {
+    "ts": "2026-04-05T14:41:02.564049Z",
+    "action": "💬 Comment Added",
+    "extra": "Implement an “Add to Underrated” action on the anime/manga d",
+    "todo_id": 29,
+    "todo_title": "Add “Add to Underrated” Button on Details Page",
+    "todo_status": "todo",
+    "user_id": "612532963938271232",
+    "user_name": "Sheby",
+    "user_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64"
+  },
+  {
     "ts": "2026-04-05T14:40:01.465924Z",
     "action": "TODO Updated",
     "extra": "",
