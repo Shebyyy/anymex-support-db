@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-04T17:38:54.879719",
+    "last_synced": "2026-04-05T14:37:21.701225",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -15326,7 +15326,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
         "created_at": "2026-03-29T19:10:44.815000+00:00",
         "created_at_fmt": "Mar 29, 2026",
-        "message_count": 17,
+        "message_count": 19,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -15468,6 +15468,22 @@
             "content": "no, i just dunno",
             "content_raw": "no, i just dunno",
             "created_at": "2026-03-29T19:24:34.244000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "btw <span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span>  is this possible (well ik nothing is impossible for you but still) and worth adding?",
+            "content_raw": "btw <@535831876766793738>  is this possible (well ik nothing is impossible for you but still) and worth adding?",
+            "created_at": "2026-04-05T06:05:05.200000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Could be worth adding",
+            "content_raw": "Could be worth adding",
+            "created_at": "2026-04-05T06:54:38.178000+00:00",
             "attachments": []
           }
         ]
