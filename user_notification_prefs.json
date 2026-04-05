@@ -1,0 +1,8 @@
+{
+  "612532963938271232": {
+    "notify_todo_created": true,
+    "notify_todo_edited": true,
+    "notify_assigned": true,
+    "notify_comment": "all"
+  }
+}
