@@ -215,34 +215,6 @@
     "last_reminded_at": "2026-04-04T15:54:32.328572+00:00"
   },
   {
-    "id": 14,
-    "title": "Add tags section",
-    "auto_generated": true,
-    "ai_description": "Add tags to details page",
-    "status": "in_progress",
-    "priority": "medium",
-    "added_by_id": "523539866311720963",
-    "added_by_name": "itsmechinmoy",
-    "assigned_to_id": "944635185423597698",
-    "assigned_to_name": "notsap7",
-    "created_at": "2026-03-26T08:04:37.401748+00:00",
-    "updated_at": "2026-04-01T04:16:13.296958",
-    "source_message_ids": [
-      "1481140226200961066"
-    ],
-    "source_message_links": [
-      "https://discord.com/channels/1303000390505336893/1467831066994938049/1481140226200961066"
-    ],
-    "source_message_text": "feat: add tags section to details page",
-    "source_images": [],
-    "source_files": [],
-    "linked_forum_thread_id": "1482978512427155567",
-    "linked_forum_type": "suggestions",
-    "tags": [],
-    "due_date": "2026-04-02",
-    "last_reminded_at": "2026-04-03T15:54:45.097275+00:00"
-  },
-  {
     "id": 15,
     "title": "Fix Tap Zones UI",
     "auto_generated": true,
