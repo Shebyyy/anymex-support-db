@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-07T14:11:57.014681",
+    "last_synced": "2026-04-10T11:33:28.195264",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -254,11 +254,13 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
         "created_at": "2026-03-16T05:47:09.771000+00:00",
         "created_at_fmt": "Mar 16, 2026",
-        "message_count": 33,
-        "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
-        "tags": [],
+        "message_count": 34,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "✅ Finished"
+        ],
         "linked_todo_id": 14,
         "attachments": [
           {
@@ -555,6 +557,14 @@
             "content_raw": "Btw if u choose 1st then don't need to use seprate box for synonyms and tags.\n\nAdd them in a single box.\n\nSo new 3rd option - Combination of 1st and 2nd.\n\nBtw all look good so either is fine.",
             "created_at": "2026-04-01T04:31:26.630000+00:00",
             "attachments": []
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "Completed.",
+            "content_raw": "Completed.",
+            "created_at": "2026-04-09T02:09:45.498000+00:00",
+            "attachments": []
           }
         ],
         "linked_todo_info": {
@@ -741,11 +751,13 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/1143152698158497822/34856e55d61843d792805ec526407343.png?size=64",
         "created_at": "2026-03-09T08:13:16.853000+00:00",
         "created_at_fmt": "Mar 09, 2026",
-        "message_count": 7,
-        "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
-        "tags": [],
+        "message_count": 9,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "✅ Finished"
+        ],
         "linked_todo_id": null,
         "attachments": [],
         "messages": [
@@ -803,6 +815,22 @@
             "content": "Arigatouex",
             "content_raw": "Arigatouex",
             "created_at": "2026-03-29T18:59:13.761000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "AsatoSaizen🎭",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1143152698158497822/34856e55d61843d792805ec526407343.png?size=64",
+            "content": "Fr",
+            "content_raw": "Fr",
+            "created_at": "2026-04-08T12:02:05.676000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Already implemented.",
+            "content_raw": "Already implemented.",
+            "created_at": "2026-04-08T12:03:42.682000+00:00",
             "attachments": []
           }
         ]
@@ -1963,8 +1991,8 @@
         "created_at_fmt": "Feb 07, 2026",
         "message_count": 6,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -3855,12 +3883,12 @@
         "author_avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
         "created_at": "2025-08-11T06:39:32.736000+00:00",
         "created_at_fmt": "Aug 11, 2025",
-        "message_count": 8,
-        "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "message_count": 11,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
         "tags": [
-          "🧑🏻‍🏭 WIP"
+          "✅ Finished"
         ],
         "linked_todo_id": null,
         "attachments": [
@@ -3949,6 +3977,30 @@
             "content": "<span class=\"discord-mention discord-mention-user\">@ΔS̶𝖍𝐁𝚘𝕣𝘕</span>",
             "content_raw": "<@1446916196229185699>",
             "created_at": "2026-03-01T16:27:47.364000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sheby</span> done?",
+            "content_raw": "<@612532963938271232> done?",
+            "created_at": "2026-04-09T18:38:55.306000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yes",
+            "content_raw": "Yes",
+            "created_at": "2026-04-09T18:55:12.127000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317319877542936616.png?size=24\" alt=\":53:\" title=\":53:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:53:1317319877542936616>",
+            "created_at": "2026-04-09T18:55:26.954000+00:00",
             "attachments": []
           }
         ]
@@ -4106,8 +4158,8 @@
         "created_at_fmt": "Aug 06, 2025",
         "message_count": 9,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -7997,7 +8049,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
         "created_at": "2024-12-08T04:15:01.720000+00:00",
         "created_at_fmt": "Dec 08, 2024",
-        "message_count": 7,
+        "message_count": 6,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -8049,18 +8101,10 @@
           },
           {
             "author_name": "Kyten",
-            "author_avatar": "https://cdn.discordapp.com/avatars/535897251172581406/fdfd4956d432e1be24f4d6fc5e113955.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535897251172581406/040375199a3a24f98a9dd95c9acebbd4.png?size=64",
             "content": "yea someday 🥲",
             "content_raw": "yea someday 🥲",
             "created_at": "2025-08-30T07:15:27.451000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Fast",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1057970921870200852/f03c65e629d0dd3a0b4433b94e29ce85.png?size=64",
-            "content": "Anikku.",
-            "content_raw": "Anikku.",
-            "created_at": "2025-09-01T19:34:56.025000+00:00",
             "attachments": []
           }
         ]
@@ -16194,6 +16238,206 @@
             "content": "💀",
             "content_raw": "💀",
             "created_at": "2025-09-22T09:39:55.786000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1491947156360138752",
+        "title": "Automatically stop auto scrolling",
+        "content": "Automatically stop auto scrolling when accessing settings or some other things and also while switching/exiting the app",
+        "content_raw": "Automatically stop auto scrolling when accessing settings or some other things and also while switching/exiting the app",
+        "preview": "Automatically stop auto scrolling when accessing settings or some other things and also while switching/exiting the app",
+        "author_id": "911000652426145872",
+        "author_name": "Meat_King",
+        "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+        "created_at": "2026-04-09T23:45:21.114000+00:00",
+        "created_at_fmt": "Apr 09, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "ScreenRecording_04-10-2026_01-42-58_1.mov",
+            "content_type": "video/quicktime",
+            "width": 480,
+            "height": 1044,
+            "size": 2542333
+          }
+        ],
+        "messages": []
+      },
+      {
+        "id": "1491233907083837440",
+        "title": "Ability to save current frame as an image",
+        "content": "It would be amazing if you could save a frame like in aniyomi",
+        "content_raw": "It would be amazing if you could save a frame like in aniyomi",
+        "preview": "It would be amazing if you could save a frame like in aniyomi",
+        "author_id": "456146651510472704",
+        "author_name": "Farhy",
+        "author_avatar": "https://cdn.discordapp.com/avatars/456146651510472704/0ea757384d118aeb890794ae15648c82.png?size=64",
+        "created_at": "2026-04-08T00:31:09.235000+00:00",
+        "created_at_fmt": "Apr 08, 2026",
+        "message_count": 9,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenrecorder-2026-04-07-18-28-35-439.mp4",
+            "content_type": "video/mp4",
+            "width": 1094,
+            "height": 480,
+            "size": 565227
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "Farhy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/456146651510472704/0ea757384d118aeb890794ae15648c82.png?size=64",
+            "content": "Or something more simpler like vlc",
+            "content_raw": "Or something more simpler like vlc",
+            "created_at": "2026-04-08T00:31:33.539000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenrecorder-2026-04-07-18-21-00-839.mp4",
+                "content_type": "video/mp4",
+                "width": 1094,
+                "height": 480,
+                "size": 742216
+              }
+            ]
+          },
+          {
+            "author_name": "Farhy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/456146651510472704/0ea757384d118aeb890794ae15648c82.png?size=64",
+            "content": "Unless I'm blind and haven't found you can already do it",
+            "content_raw": "Unless I'm blind and haven't found you can already do it",
+            "created_at": "2026-04-08T00:32:00.924000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Can't we just take screenshot?",
+            "content_raw": "Can't we just take screenshot?",
+            "created_at": "2026-04-09T18:08:07.997000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Never understood the point of saving a frame\n\nScreenshot already does that, also if you're sending this your friend \nYou can already mark stuff while taking ss",
+            "content_raw": "Never understood the point of saving a frame\n\nScreenshot already does that, also if you're sending this your friend \nYou can already mark stuff while taking ss",
+            "created_at": "2026-04-09T18:09:14.450000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sheby</span> close or keep it?",
+            "content_raw": "<@612532963938271232> close or keep it?",
+            "created_at": "2026-04-09T18:09:22.017000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Can keep it we are already doing save imege for profile and poster so we can use that to save",
+            "content_raw": "Can keep it we are already doing save imege for profile and poster so we can use that to save",
+            "created_at": "2026-04-09T18:10:38.543000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Ok\n\nIirc I added save manga page too\n\nBut ig it's not working 🤔",
+            "content_raw": "Ok\n\nIirc I added save manga page too\n\nBut ig it's not working 🤔",
+            "created_at": "2026-04-09T18:11:09.481000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Aniyomi just trigger screenshot i think",
+            "content_raw": "Aniyomi just trigger screenshot i think",
+            "created_at": "2026-04-09T18:11:15.938000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Yh",
+            "content_raw": "Yh",
+            "created_at": "2026-04-09T18:11:40.434000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1491126858488611098",
+        "title": "Ability to control the subtitle timing",
+        "content": "Make it that we are able to delay subtitles",
+        "content_raw": "Make it that we are able to delay subtitles",
+        "preview": "Make it that we are able to delay subtitles",
+        "author_id": "809008508652879873",
+        "author_name": "Qalele",
+        "author_avatar": "https://cdn.discordapp.com/avatars/809008508652879873/a787dca6d76ede0e1dccdc72d2bf6120.png?size=64",
+        "created_at": "2026-04-07T17:25:46.861000+00:00",
+        "created_at_fmt": "Apr 07, 2026",
+        "message_count": 5,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "✅ Finished"
+        ],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "This is War Huh Wow",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "content": "I want this too, don't use softsub because of delay",
+            "content_raw": "I want this too, don't use softsub because of delay",
+            "created_at": "2026-04-07T18:56:29.633000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ayanokōji",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1331083395614380090/b85b30a12038f51ad7b31a34cd52c2ae.png?size=64",
+            "content": "I want this three",
+            "content_raw": "I want this three",
+            "created_at": "2026-04-09T01:37:43.351000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "Then make it… <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317319881997291530.png?size=24\" alt=\":54:\" title=\":54:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Then make it… <:54:1317319881997291530>",
+            "created_at": "2026-04-09T03:47:47.688000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "https://github.com/RyanYuuki/AnymeX/commit/1f9a2509183c97ca283d690e8afca373c6c24e74",
+            "content_raw": "https://github.com/RyanYuuki/AnymeX/commit/1f9a2509183c97ca283d690e8afca373c6c24e74",
+            "created_at": "2026-04-09T18:07:13.884000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Closing this",
+            "content_raw": "Closing this",
+            "created_at": "2026-04-09T18:07:23.884000+00:00",
             "attachments": []
           }
         ]
