@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "last_synced": "2026-04-07T09:30:46.185215",
+    "last_synced": "2026-04-11T10:36:51.324353",
     "channel_id": "1313093858346668133",
     "posts": [
       {
@@ -1348,15 +1348,15 @@
       {
         "id": "1399632935740768296",
         "title": "Crash when trying to watch anime",
-        "content": "Are builds for Anymex done from your individual machines?",
-        "content_raw": "Are builds for Anymex done from your individual machines?",
-        "preview": "Are builds for Anymex done from your individual machines?",
+        "content": "Hmm",
+        "content_raw": "Hmm",
+        "preview": "Hmm",
         "author_id": "944706868310343700",
-        "author_name": "entityJY",
-        "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+        "author_name": "itsmechinmoy",
+        "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
         "created_at": "2025-07-29T06:01:35.803000+00:00",
         "created_at_fmt": "Jul 29, 2025",
-        "message_count": 235,
+        "message_count": 264,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -1367,246 +1367,6 @@
         "linked_todo_id": null,
         "attachments": [],
         "messages": [
-          {
-            "author_name": "Sap",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
-            "content": "“Machines” 😭",
-            "content_raw": "“Machines” 😭",
-            "created_at": "2026-02-02T06:56:00.769000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sap",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
-            "content": "GitHub itself builds them",
-            "content_raw": "GitHub itself builds them",
-            "created_at": "2026-02-02T06:56:15.727000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Nope, nothing is wrong on build it's done, workflow same to same",
-            "content_raw": "Nope, nothing is wrong on build it's done, workflow same to same",
-            "created_at": "2026-02-02T06:56:19.838000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "computers",
-            "content_raw": "computers",
-            "created_at": "2026-02-02T06:57:01.820000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "It's not matter what build it, everything is same",
-            "content_raw": "It's not matter what build it, everything is same",
-            "created_at": "2026-02-02T06:57:06.608000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sap",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
-            "content": "Ye he was asking if something else is building it so I just told him GitHub builds it",
-            "content_raw": "Ye he was asking if something else is building it so I just told him GitHub builds it",
-            "created_at": "2026-02-02T06:57:31.002000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Dude, it's not what ur thinking",
-            "content_raw": "Dude, it's not what ur thinking",
-            "created_at": "2026-02-02T06:57:32.040000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "Got it",
-            "content_raw": "Got it",
-            "created_at": "2026-02-02T06:57:38.403000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Yeah.",
-            "content_raw": "Yeah.",
-            "created_at": "2026-02-02T06:58:15.964000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "Using the old player also doesn't change anything",
-            "content_raw": "Using the old player also doesn't change anything",
-            "created_at": "2026-02-06T18:15:33.362000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Well if beta working use that, hopefully we found what exactly is the issue.",
-            "content_raw": "Well if beta working use that, hopefully we found what exactly is the issue.",
-            "created_at": "2026-02-06T18:46:32.399000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "Just tested with the old player, on beta, using the old player white screens",
-            "content_raw": "Just tested with the old player, on beta, using the old player white screens",
-            "created_at": "2026-02-06T19:32:50.650000+00:00",
-            "attachments": [
-              {
-                "filename": "Screenshot_2026-02-06_at_11.31.53_AM.png",
-                "content_type": "image/png",
-                "width": 1610,
-                "height": 1208,
-                "size": 61864
-              }
-            ]
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "Audio plays, but video is broken",
-            "content_raw": "Audio plays, but video is broken",
-            "created_at": "2026-02-06T19:33:01.057000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "Same bug as here: https://discord.com/channels/1303000390505336893/1467472458927050967",
-            "content_raw": "Same bug as here: https://discord.com/channels/1303000390505336893/1467472458927050967",
-            "created_at": "2026-02-06T19:36:25.821000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "I only tested it because I thought I remember being told to test it on an old build for this bug, but I think I just remembered wrong",
-            "content_raw": "I only tested it because I thought I remember being told to test it on an old build for this bug, but I think I just remembered wrong",
-            "created_at": "2026-02-06T19:40:06.209000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "cons",
-            "author_avatar": "https://cdn.discordapp.com/avatars/379480591550119938/a_91856622fe154ce26e28cd5c057126c2.png?size=64",
-            "content": "my brain probably doesnt work but its definetly a video renderer problem and also maybe it doesn't support macOs 15 well",
-            "content_raw": "my brain probably doesnt work but its definetly a video renderer problem and also maybe it doesn't support macOs 15 well",
-            "created_at": "2026-02-08T10:26:00.438000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Thn why using beta it's working 😭",
-            "content_raw": "Thn why using beta it's working 😭",
-            "created_at": "2026-02-08T10:26:28.856000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "¯\\_(ツ)_/¯",
-            "content_raw": "¯\\_(ツ)_/¯",
-            "created_at": "2026-02-09T02:28:25.278000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "Am I still the only person running into this issue?",
-            "content_raw": "Am I still the only person running into this issue?",
-            "created_at": "2026-02-09T02:28:49.551000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "No, one from telegram",
-            "content_raw": "No, one from telegram",
-            "created_at": "2026-02-09T02:57:56.950000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "itsmechinmoy",
-            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "Anu difference in logs?",
-            "content_raw": "Anu difference in logs?",
-            "created_at": "2026-02-15T13:06:45.788000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Nah",
-            "content_raw": "Nah",
-            "created_at": "2026-02-15T13:30:56.953000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Seeam Shariar",
-            "author_avatar": "https://cdn.discordapp.com/avatars/765848279773609994/f4d7170921a154d4a30868f587cde5d1.png?size=64",
-            "content": "I also ran into similar problem",
-            "content_raw": "I also ran into similar problem",
-            "created_at": "2026-02-25T18:56:42.794000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Seeam Shariar",
-            "author_avatar": "https://cdn.discordapp.com/avatars/765848279773609994/f4d7170921a154d4a30868f587cde5d1.png?size=64",
-            "content": "It seems like that app crashes when certain extensions cannot load those anime or mangas in those extensions and the apps force closes",
-            "content_raw": "It seems like that app crashes when certain extensions cannot load those anime or mangas in those extensions and the apps force closes",
-            "created_at": "2026-02-25T18:59:30.307000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Carl-bot",
-            "author_avatar": "https://cdn.discordapp.com/avatars/235148962103951360/ed3dac3b6e7a851df781632a4295fcb9.png?size=64",
-            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/705791161356517436.png?size=24\" alt=\":kannaheart:\" title=\":kannaheart:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\"> Just so you know, **Manga** plural is still **manga**, not **mangas**",
-            "content_raw": "<:kannaheart:705791161356517436> Just so you know, **Manga** plural is still **manga**, not **mangas**",
-            "created_at": "2026-02-25T18:59:30.563000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Seeam Shariar",
-            "author_avatar": "https://cdn.discordapp.com/avatars/765848279773609994/f4d7170921a154d4a30868f587cde5d1.png?size=64",
-            "content": "I fixed it by changing to a extension that will show result for that anime and it stopped crashing but it needs to get fixed because i thought the app was broken",
-            "content_raw": "I fixed it by changing to a extension that will show result for that anime and it stopped crashing but it needs to get fixed because i thought the app was broken",
-            "created_at": "2026-02-25T19:01:13.465000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "entityJY",
-            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
-            "content": "I'm pretty sure it's not an extension problem, because I was able to use the exact same extensions when using the beta version of the app",
-            "content_raw": "I'm pretty sure it's not an extension problem, because I was able to use the exact same extensions when using the beta version of the app",
-            "created_at": "2026-02-26T00:46:14.272000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Seeam Shariar",
-            "author_avatar": "https://cdn.discordapp.com/avatars/765848279773609994/f4d7170921a154d4a30868f587cde5d1.png?size=64",
-            "content": "Might be a device issue idkthe apps new so it might take some time fix this for devs",
-            "content_raw": "Might be a device issue idkthe apps new so it might take some time fix this for devs",
-            "created_at": "2026-02-26T00:48:25.611000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "itsmechinmoy",
-            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "Hmm",
-            "content_raw": "Hmm",
-            "created_at": "2026-03-01T03:53:37.499000+00:00",
-            "attachments": []
-          },
           {
             "author_name": "Sheby",
             "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
@@ -2181,6 +1941,254 @@
             "content": "Note: Whenever a new stable release is available, please test it and inform if the issue is fixed.",
             "content_raw": "Note: Whenever a new stable release is available, please test it and inform if the issue is fixed.",
             "created_at": "2026-03-07T11:59:59.351000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "Nope, still broken",
+            "content_raw": "Nope, still broken",
+            "created_at": "2026-04-08T05:54:58.808000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-08T05:55:01.334000+00:00",
+            "attachments": [
+              {
+                "filename": "app_logs.txt",
+                "content_type": "text/plain; charset=utf-8",
+                "width": null,
+                "height": null,
+                "size": 1765
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "🤣",
+            "content_raw": "🤣",
+            "created_at": "2026-04-08T06:02:08.982000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Use beta only <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127098351226952.png?size=24\" alt=\":14:\" title=\":14:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Use beta only <:14:1317127098351226952>",
+            "created_at": "2026-04-08T06:02:21.509000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Tang tang tang sahur",
+            "content_raw": "Tang tang tang sahur",
+            "created_at": "2026-04-08T06:10:04.755000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "yep",
+            "content_raw": "yep",
+            "created_at": "2026-04-08T06:19:47.700000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Still crashes?",
+            "content_raw": "Still crashes?",
+            "created_at": "2026-04-08T06:22:46.184000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "yeah",
+            "content_raw": "yeah",
+            "created_at": "2026-04-08T06:23:24.442000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Since you can run the app in debug environment, can you like send a recording when opening the watch page? With console logs?",
+            "content_raw": "Since you can run the app in debug environment, can you like send a recording when opening the watch page? With console logs?",
+            "created_at": "2026-04-08T06:24:09.679000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "Give me a few minutes",
+            "content_raw": "Give me a few minutes",
+            "created_at": "2026-04-08T06:25:22.672000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-08T06:29:39.141000+00:00",
+            "attachments": [
+              {
+                "filename": "Untitled.mov",
+                "content_type": "video/quicktime",
+                "width": 640,
+                "height": 480,
+                "size": 9614007
+              }
+            ]
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "What does this even mean",
+            "content_raw": "What does this even mean",
+            "created_at": "2026-04-08T06:31:09.793000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Meme",
+            "content_raw": "Meme",
+            "created_at": "2026-04-08T06:31:29.898000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@entityJY</span> if you still have everything setted up try to sync my changes then try debug build",
+            "content_raw": "<@944706868310343700> if you still have everything setted up try to sync my changes then try debug build",
+            "created_at": "2026-04-08T06:46:00.551000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-08T08:56:48.314000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@entityJY</span> try",
+            "content_raw": "<@944706868310343700> try",
+            "created_at": "2026-04-08T08:57:03.084000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "WOrks just fine",
+            "content_raw": "WOrks just fine",
+            "created_at": "2026-04-08T16:46:54.612000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "Tested both mangayomi and aniyomi extensions",
+            "content_raw": "Tested both mangayomi and aniyomi extensions",
+            "created_at": "2026-04-08T16:47:01.230000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Okay, new stable should be fine",
+            "content_raw": "Okay, new stable should be fine",
+            "created_at": "2026-04-08T20:23:06.120000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "entityJY",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944706868310343700/9219610414ca351be2ae45cf4fb00abd.png?size=64",
+            "content": "What exactly do you think is causing the problem?",
+            "content_raw": "What exactly do you think is causing the problem?",
+            "created_at": "2026-04-08T23:57:40.287000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "This one works right?",
+            "content_raw": "This one works right?",
+            "created_at": "2026-04-09T00:49:51.848000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Not sure <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Not sure <:95:1317320148302172190>",
+            "created_at": "2026-04-09T00:50:10.948000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "I just build stable for testing",
+            "content_raw": "I just build stable for testing",
+            "created_at": "2026-04-09T00:50:21.968000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Whatever ryan commit",
+            "content_raw": "Whatever ryan commit",
+            "created_at": "2026-04-09T00:50:31.751000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@entityJY</span> <span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> fixes rt?",
+            "content_raw": "<@944706868310343700> <@535831876766793738> fixes rt?",
+            "created_at": "2026-04-09T18:32:06.636000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "*fixed",
+            "content_raw": "*fixed",
+            "created_at": "2026-04-09T18:32:14.360000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Wait for update",
+            "content_raw": "Wait for update",
+            "created_at": "2026-04-09T18:32:26.216000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Mostly fixed but still",
+            "content_raw": "Mostly fixed but still",
+            "created_at": "2026-04-09T18:32:35.259000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "👍🏻",
+            "content_raw": "👍🏻",
+            "created_at": "2026-04-09T18:34:01.214000+00:00",
             "attachments": []
           }
         ]
@@ -13415,6 +13423,750 @@
             "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> how to center a div",
             "content_raw": "<@535831876766793738> how to center a div",
             "created_at": "2025-10-13T02:24:50.456000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1492340562899243132",
+        "title": "Create Activity accessible without login",
+        "content": "When a user is not logged in and visits a profile, they are still able to click on the “Create Activity (+)” button.\n\nSteps to Reproduce:\n1. Open the app without logging in\n2. Click on author username (comunity recommendations aka underrated)\n3. Click on the Create Activity (+) button\n4. Try posting an activity\n\nCurrent Behavior:\n- The button is clickable\n- It allows posting\n- Shows message: \"Message posted successfully\"\n\nExpected Behavior:\n- User should NOT be allowed to create an activity when not logged in\n- Instead:\n  - Show prompt: \"Please login first\" OR\n  - Redirect user to login screen\n\n**Small improvement:** \nBetter error message for profile loading\n\nCurrent Message:\n\"Failed to load profile\"\n\nIssue:\nToo generic and unclear\n\nSuggested Improvement:\nReplace with:\n\"Failed to load profile — account may be private or not found\"\n\nAdditional Info\n- Device: vivo V2222\n- Brand: vivo\n- Device ID: AP3A.240905.015.A2_CS\n- Android Version: 15 (SDK 35)\n- App Version: v3.0.6 and v3.0.7+14-beta\n- Logs: Attached",
+        "content_raw": "When a user is not logged in and visits a profile, they are still able to click on the “Create Activity (+)” button.\n\nSteps to Reproduce:\n1. Open the app without logging in\n2. Click on author username (comunity recommendations aka underrated)\n3. Click on the Create Activity (+) button\n4. Try posting an activity\n\nCurrent Behavior:\n- The button is clickable\n- It allows posting\n- Shows message: \"Message posted successfully\"\n\nExpected Behavior:\n- User should NOT be allowed to create an activity when not logged in\n- Instead:\n  - Show prompt: \"Please login first\" OR\n  - Redirect user to login screen\n\n**Small improvement:** \nBetter error message for profile loading\n\nCurrent Message:\n\"Failed to load profile\"\n\nIssue:\nToo generic and unclear\n\nSuggested Improvement:\nReplace with:\n\"Failed to load profile — account may be private or not found\"\n\nAdditional Info\n- Device: vivo V2222\n- Brand: vivo\n- Device ID: AP3A.240905.015.A2_CS\n- Android Version: 15 (SDK 35)\n- App Version: v3.0.6 and v3.0.7+14-beta\n- Logs: Attached",
+        "preview": "When a user is not logged in and visits a profile, they are still able to click on the “Create Activity (+)” button.\n\nSt",
+        "author_id": "612532963938271232",
+        "author_name": "Sheby",
+        "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+        "created_at": "2026-04-11T01:48:36.542000+00:00",
+        "created_at_fmt": "Apr 11, 2026",
+        "message_count": 1,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [
+          "💻 PC",
+          "📱 Mobile"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "app_logs_1.txt",
+            "content_type": "text/plain; charset=ISO-8859-1",
+            "width": null,
+            "height": null,
+            "size": 796
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "Carl-bot",
+            "author_avatar": "https://cdn.discordapp.com/avatars/235148962103951360/ed3dac3b6e7a851df781632a4295fcb9.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-11T01:48:36.976000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sapphire",
+            "author_avatar": "https://cdn.discordapp.com/avatars/678344927997853742/37e0fb2dcf8d219aa92bf02f47ea60eb.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-11T01:48:37.061000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1492236911442657502",
+        "title": "Cloudstream addon issue",
+        "content": "Hi everyone, I'm getting an error while installing the streaming community addon from two cloudstream repos. \nWhen I press the install button it doesn't install.\nThe Addons on cloudstream It self are installed and working perfectly.\nThe logs show permission denied, yet the app has third-party installation permission enabled.\nThis happens to me with other addons but they are not relevant to me at the moment, while for other addons from the same repo the installation works without problems.\nI would also like to point out that these are addons for movies and TV series and not anime.\n\nThank you for the work you do.",
+        "content_raw": "Hi everyone, I'm getting an error while installing the streaming community addon from two cloudstream repos. \nWhen I press the install button it doesn't install.\nThe Addons on cloudstream It self are installed and working perfectly.\nThe logs show permission denied, yet the app has third-party installation permission enabled.\nThis happens to me with other addons but they are not relevant to me at the moment, while for other addons from the same repo the installation works without problems.\nI would also like to point out that these are addons for movies and TV series and not anime.\n\nThank you for the work you do.",
+        "preview": "Hi everyone, I'm getting an error while installing the streaming community addon from two cloudstream repos. \nWhen I pre",
+        "author_id": "685198526686298183",
+        "author_name": "SĒVĒN",
+        "author_avatar": "https://cdn.discordapp.com/avatars/685198526686298183/558ee9adbf6115d09365736596b790eb.png?size=64",
+        "created_at": "2026-04-10T18:56:44.109000+00:00",
+        "created_at_fmt": "Apr 10, 2026",
+        "message_count": 8,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [
+          "📱 Mobile"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "screen-20260410-2043332.mp4",
+            "content_type": "video/mp4",
+            "width": 768,
+            "height": 480,
+            "size": 251718
+          },
+          {
+            "filename": "app_logs.txt",
+            "content_type": "text/plain; charset=utf-8",
+            "width": null,
+            "height": null,
+            "size": 7538
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Afaik only extensions of phiser repo is supported \nTry them if you're not using phiser repo",
+            "content_raw": "Afaik only extensions of phiser repo is supported \nTry them if you're not using phiser repo",
+            "created_at": "2026-04-10T19:00:10.066000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "SĒVĒN",
+            "author_avatar": "https://cdn.discordapp.com/avatars/685198526686298183/558ee9adbf6115d09365736596b790eb.png?size=64",
+            "content": "Okay, I added the repo, but unfortunately I'm Italian and there aren't any sources in Italian. I'll try to see if there's a source that can find audio in Italian. Thanks a lot in the meantime.",
+            "content_raw": "Okay, I added the repo, but unfortunately I'm Italian and there aren't any sources in Italian. I'll try to see if there's a source that can find audio in Italian. Thanks a lot in the meantime.",
+            "created_at": "2026-04-10T19:15:31.320000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "SĒVĒN",
+            "author_avatar": "https://cdn.discordapp.com/avatars/685198526686298183/558ee9adbf6115d09365736596b790eb.png?size=64",
+            "content": "Nope, all the extensions with multi-audio do not have Italian, I hope it can be solved.\nFor completeness, can I leave the links to the repos?",
+            "content_raw": "Nope, all the extensions with multi-audio do not have Italian, I hope it can be solved.\nFor completeness, can I leave the links to the repos?",
+            "created_at": "2026-04-10T19:31:46.319000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Uh not true",
+            "content_raw": "Uh not true",
+            "created_at": "2026-04-10T20:51:17.202000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "We supports most of the anime,tv,movie type exts",
+            "content_raw": "We supports most of the anime,tv,movie type exts",
+            "created_at": "2026-04-10T20:51:34.622000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Not all live tv type extensions or other podcast and stuff that cs got",
+            "content_raw": "Not all live tv type extensions or other podcast and stuff that cs got",
+            "created_at": "2026-04-10T20:51:51.328000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "But i'll check it out",
+            "content_raw": "But i'll check it out",
+            "created_at": "2026-04-10T20:52:03.834000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "SĒVĒN",
+            "author_avatar": "https://cdn.discordapp.com/avatars/685198526686298183/558ee9adbf6115d09365736596b790eb.png?size=64",
+            "content": "Thank you so much for the work you do",
+            "content_raw": "Thank you so much for the work you do",
+            "created_at": "2026-04-11T08:16:26.685000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1491969994991341669",
+        "title": "⚠️ Read Before Creating Any Bug Report",
+        "content": "**Reports that don't follow these guidelines may be deleted without notice.**\n\n**Step 1 - Enable Logs**\nGo to **Profile → Settings → Logs**\n- Enable **Write log to file**\n- Set a **logs directory**\n\n**Step 2 - Reproduce the Issue**\n- Perform the steps that trigger the bug\n- Make sure logging is active while it happens\n\n**Step 3 - Write Your Report**\nClearly describe:\n- What you did\n- What happened\n- What you expected\n\nAnd include:\n- The **log file**\n- **Device info** (model + OS version)\n- **App version**\n\nFollowing these steps helps the devs fix issues faster. Thank you!",
+        "content_raw": "**Reports that don't follow these guidelines may be deleted without notice.**\n\n**Step 1 - Enable Logs**\nGo to **Profile → Settings → Logs**\n- Enable **Write log to file**\n- Set a **logs directory**\n\n**Step 2 - Reproduce the Issue**\n- Perform the steps that trigger the bug\n- Make sure logging is active while it happens\n\n**Step 3 - Write Your Report**\nClearly describe:\n- What you did\n- What happened\n- What you expected\n\nAnd include:\n- The **log file**\n- **Device info** (model + OS version)\n- **App version**\n\nFollowing these steps helps the devs fix issues faster. Thank you!",
+        "preview": "**Reports that don't follow these guidelines may be deleted without notice.**\n\n**Step 1 - Enable Logs**\nGo to **Profile ",
+        "author_id": "612532963938271232",
+        "author_name": "Sheby",
+        "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+        "created_at": "2026-04-10T01:16:06.268000+00:00",
+        "created_at_fmt": "Apr 10, 2026",
+        "message_count": 0,
+        "is_locked": true,
+        "is_archived": false,
+        "status_label": "Locked",
+        "tags": [
+          "❌ Not an issue"
+        ],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": []
+      },
+      {
+        "id": "1491945409319272478",
+        "title": "Can still see other colors in search when Oled mode is on",
+        "content": "",
+        "content_raw": "",
+        "preview": "",
+        "author_id": "911000652426145872",
+        "author_name": "Meat_King",
+        "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+        "created_at": "2026-04-09T23:38:24.587000+00:00",
+        "created_at_fmt": "Apr 09, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [
+          "🖼️ UI/UX",
+          "📱 Mobile"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "IMG_1893.png",
+            "content_type": "image/jpeg",
+            "width": 1206,
+            "height": 2622,
+            "size": 295540
+          }
+        ],
+        "messages": []
+      },
+      {
+        "id": "1491825179540848650",
+        "title": "Set start date both anime and manga.",
+        "content": "No matter, how many times I do it. I can't set the start date and finish date for both anime and manga. And also exist date, i set in other anilist app don't show in anymex stable version.",
+        "content_raw": "No matter, how many times I do it. I can't set the start date and finish date for both anime and manga. And also exist date, i set in other anilist app don't show in anymex stable version.",
+        "preview": "No matter, how many times I do it. I can't set the start date and finish date for both anime and manga. And also exist d",
+        "author_id": "438256569218760704",
+        "author_name": "kinshuk gupta",
+        "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+        "created_at": "2026-04-09T15:40:39.574000+00:00",
+        "created_at_fmt": "Apr 09, 2026",
+        "message_count": 39,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "✅ Fixed"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenshot_2026-04-09-20-52-43-43_5481473086c6d1e1f4583a266e7dbd26.jpg",
+            "content_type": "image/jpeg",
+            "width": 1440,
+            "height": 3216,
+            "size": 120649
+          },
+          {
+            "filename": "Screenshot_2026-04-09-20-55-01-03_8090ff421eb8a7caaa4bac331120a211.jpg",
+            "content_type": "image/jpeg",
+            "width": 1440,
+            "height": 3216,
+            "size": 118416
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sap</span> I think you broky broky when updating the ui",
+            "content_raw": "<@944635185423597698> I think you broky broky when updating the ui",
+            "created_at": "2026-04-09T15:43:13.696000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Btw did this bug existed in beta?",
+            "content_raw": "Btw did this bug existed in beta?",
+            "created_at": "2026-04-09T15:43:39.270000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Cause idont remember seeing it there",
+            "content_raw": "Cause idont remember seeing it there",
+            "created_at": "2026-04-09T15:43:48.169000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Yes, It also in latest beta",
+            "content_raw": "Yes, It also in latest beta",
+            "created_at": "2026-04-09T15:44:48.681000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Hmm ig it got ignored there",
+            "content_raw": "Hmm ig it got ignored there",
+            "created_at": "2026-04-09T15:45:48.049000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Maybe no one noticed it before stable update 🤷",
+            "content_raw": "Maybe no one noticed it before stable update 🤷",
+            "created_at": "2026-04-09T15:51:15.888000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "That was broken before, I forgot to tell you",
+            "content_raw": "That was broken before, I forgot to tell you",
+            "created_at": "2026-04-09T15:58:45.540000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "One more bug I want to report it but idk how to describe it but here this video",
+            "content_raw": "One more bug I want to report it but idk how to describe it but here this video",
+            "created_at": "2026-04-09T15:58:46.482000+00:00",
+            "attachments": [
+              {
+                "filename": "Record_2026-04-09-21-27-22_b49fd872567104f538b9abe879208cbb.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 1072,
+                "size": 3972441
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "List editor from Popup not showing Existing progress?",
+            "content_raw": "List editor from Popup not showing Existing progress?",
+            "created_at": "2026-04-09T16:07:41.912000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Nah i updated the ui, i just didn't test stuff",
+            "content_raw": "Nah i updated the ui, i just didn't test stuff",
+            "created_at": "2026-04-09T16:35:44.455000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Btw this works for me",
+            "content_raw": "Btw this works for me",
+            "created_at": "2026-04-09T17:00:31.720000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Yeah",
+            "content_raw": "Yeah",
+            "created_at": "2026-04-09T17:01:27.029000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "It shows start date properly",
+            "content_raw": "It shows start date properly",
+            "created_at": "2026-04-09T17:01:41.398000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Hmm not for me both beta and stable version",
+            "content_raw": "Hmm not for me both beta and stable version",
+            "created_at": "2026-04-09T17:02:05.649000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Don't update using AnymeX \nUpdate using anilist site and check its showing",
+            "content_raw": "Don't update using AnymeX \nUpdate using anilist site and check its showing",
+            "created_at": "2026-04-09T17:03:19.597000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-09T17:03:30.977000+00:00",
+            "attachments": [
+              {
+                "filename": "video_20260409_223307.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 854,
+                "size": 2009476
+              }
+            ]
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Try manual in new anime or manga",
+            "content_raw": "Try manual in new anime or manga",
+            "created_at": "2026-04-09T17:04:19.986000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "In anymex",
+            "content_raw": "In anymex",
+            "created_at": "2026-04-09T17:04:31.934000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Ah it's showing <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Ah it's showing <:17:1317127119742173184>",
+            "created_at": "2026-04-09T17:05:52.782000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Bro had to send screen recording",
+            "content_raw": "Bro had to send screen recording",
+            "created_at": "2026-04-09T17:06:14.945000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Also what the hell with this ui",
+            "content_raw": "Also what the hell with this ui",
+            "created_at": "2026-04-09T17:06:18.389000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Why is there a container behind the bottom sheet",
+            "content_raw": "Why is there a container behind the bottom sheet",
+            "created_at": "2026-04-09T17:06:32.836000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "You have to check, its showing same for me",
+            "content_raw": "You have to check, its showing same for me",
+            "created_at": "2026-04-09T17:07:55.487000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "From inside details popup",
+            "content_raw": "From inside details popup",
+            "created_at": "2026-04-09T17:08:44.673000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260409_223811.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 84475
+              }
+            ]
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-09T17:10:37.127000+00:00",
+            "attachments": [
+              {
+                "filename": "Record_2026-04-09-22-38-54_5481473086c6d1e1f4583a266e7dbd26.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 1072,
+                "size": 4616292
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span>",
+            "content_raw": "<@535831876766793738>",
+            "created_at": "2026-04-09T17:11:45.361000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Manga too from normal and inside popup",
+            "content_raw": "Manga too from normal and inside popup",
+            "created_at": "2026-04-09T17:12:52.409000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "I tried same thing with anime but anime don't have problem set date",
+            "content_raw": "I tried same thing with anime but anime don't have problem set date",
+            "created_at": "2026-04-09T17:13:08.831000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-09T17:14:08.020000+00:00",
+            "attachments": [
+              {
+                "filename": "Record_2026-04-09-22-43-15_5481473086c6d1e1f4583a266e7dbd26.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 1072,
+                "size": 5189048
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Bro you said anime and manga both",
+            "content_raw": "Bro you said anime and manga both",
+            "created_at": "2026-04-09T17:14:23.734000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "It happens anime before but now somehow it got fix for anime but not for manga",
+            "content_raw": "It happens anime before but now somehow it got fix for anime but not for manga",
+            "created_at": "2026-04-09T17:14:54.080000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "I tried that again with other manga but same results, not show start date",
+            "content_raw": "I tried that again with other manga but same results, not show start date",
+            "created_at": "2026-04-09T17:15:32.603000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Ig only manga have this issue now",
+            "content_raw": "Ig only manga have this issue now",
+            "created_at": "2026-04-09T17:16:26.873000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Try with manga",
+            "content_raw": "Try with manga",
+            "created_at": "2026-04-09T17:18:20.723000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Nope. I don't want to To sync any Manga <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">  \n\nI need to create one test anilist, mal and simkl account 😭",
+            "content_raw": "Nope. I don't want to To sync any Manga <:17:1317127119742173184>  \n\nI need to create one test anilist, mal and simkl account 😭",
+            "created_at": "2026-04-09T17:19:35.694000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Not I said try with existing Manga",
+            "content_raw": "Not I said try with existing Manga",
+            "created_at": "2026-04-09T17:23:03.781000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Ok I try then...",
+            "content_raw": "Ok I try then...",
+            "created_at": "2026-04-09T17:25:51.819000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "kinshuk gupta",
+            "author_avatar": "https://cdn.discordapp.com/avatars/438256569218760704/80420398c33a786d5e03b9aa4a5c204e.png?size=64",
+            "content": "Ig only manga have this problem/issue, not anime.",
+            "content_raw": "Ig only manga have this problem/issue, not anime.",
+            "created_at": "2026-04-09T17:27:14.150000+00:00",
+            "attachments": [
+              {
+                "filename": "Record_2026-04-09-22-56-05_5481473086c6d1e1f4583a266e7dbd26.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 1072,
+                "size": 5114040
+              }
+            ]
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Seem fixed to me\nhttps://github.com/RyanYuuki/AnymeX/commit/2cf94eae82a9a64c670f527c57519827db8a683d\n\nI'll lock this thread \nWill reopen if wasn't fixed or any issues occurs",
+            "content_raw": "Seem fixed to me\nhttps://github.com/RyanYuuki/AnymeX/commit/2cf94eae82a9a64c670f527c57519827db8a683d\n\nI'll lock this thread \nWill reopen if wasn't fixed or any issues occurs",
+            "created_at": "2026-04-09T18:10:25.689000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1491368051633819790",
+        "title": "Subtitles Not Showing After Latest UpdateCan anyone tell me how to fix it?",
+        "content": "",
+        "content_raw": "",
+        "preview": "",
+        "author_id": "1102412975479996477",
+        "author_name": "Harsit Das",
+        "author_avatar": "https://cdn.discordapp.com/avatars/1102412975479996477/17248dd7e7bcfe9b6a2d921a813dbe42.png?size=64",
+        "created_at": "2026-04-08T09:24:11.788000+00:00",
+        "created_at_fmt": "Apr 08, 2026",
+        "message_count": 13,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "✅ Fixed"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "VID_20260408_143702.mp4",
+            "content_type": "video/mp4",
+            "width": 1074,
+            "height": 480,
+            "size": 2391600
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Try switching to mpv player from player settings and see if that works",
+            "content_raw": "Try switching to mpv player from player settings and see if that works",
+            "created_at": "2026-04-08T09:53:21.477000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Harsit Das",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1102412975479996477/17248dd7e7bcfe9b6a2d921a813dbe42.png?size=64",
+            "content": "Can you give me step by step instructions because I don't know about it",
+            "content_raw": "Can you give me step by step instructions because I don't know about it",
+            "created_at": "2026-04-08T09:54:23.797000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Open settings > player > use libmpv",
+            "content_raw": "Open settings > player > use libmpv",
+            "created_at": "2026-04-08T09:55:19.084000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Then restart the app",
+            "content_raw": "Then restart the app",
+            "created_at": "2026-04-08T09:55:23.293000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Now try loading the same episode and see if subs appears",
+            "content_raw": "Now try loading the same episode and see if subs appears",
+            "created_at": "2026-04-08T09:55:35.273000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Harsit Das",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1102412975479996477/17248dd7e7bcfe9b6a2d921a813dbe42.png?size=64",
+            "content": "After the libmpv use, the subs doesn't appear 😢",
+            "content_raw": "After the libmpv use, the subs doesn't appear 😢",
+            "created_at": "2026-04-08T09:58:15.420000+00:00",
+            "attachments": [
+              {
+                "filename": "image0.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2414,
+                "size": 110926
+              }
+            ]
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Harsit Das</span> can you confirm if the same extension and same episode was showing sub on older version?",
+            "content_raw": "<@1102412975479996477> can you confirm if the same extension and same episode was showing sub on older version?",
+            "created_at": "2026-04-08T10:05:55.627000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Harsit Das",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1102412975479996477/17248dd7e7bcfe9b6a2d921a813dbe42.png?size=64",
+            "content": "Yes",
+            "content_raw": "Yes",
+            "created_at": "2026-04-08T10:26:16.808000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Harsit Das",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1102412975479996477/17248dd7e7bcfe9b6a2d921a813dbe42.png?size=64",
+            "content": "It's happening in 9anime TV extension",
+            "content_raw": "It's happening in 9anime TV extension",
+            "created_at": "2026-04-08T11:55:37.266000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Shadat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/910222882255286352/c8e557d0edd2e53cad9c0530bb470df5.png?size=64",
+            "content": "Still facing this sub issue...\nPlese provide solution for this",
+            "content_raw": "Still facing this sub issue...\nPlese provide solution for this",
+            "created_at": "2026-04-08T20:17:31.689000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "❀ 幸夫|• Yυƙɪσ",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1036108286816165988/49db5476dbac8ca5caebe8c932930d6a.png?size=64",
+            "content": "Same to me no subtitles showing",
+            "content_raw": "Same to me no subtitles showing",
+            "created_at": "2026-04-09T06:58:53.370000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Shadat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/910222882255286352/c8e557d0edd2e53cad9c0530bb470df5.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@❀ 幸夫|• Yυƙɪσ</span> downgrade to version 3.0.4...sub works",
+            "content_raw": "<@1036108286816165988> downgrade to version 3.0.4...sub works",
+            "created_at": "2026-04-09T15:46:35.238000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "https://github.com/RyanYuuki/AnymeX/commit/a734d196ff0c63b3b0b331a2c2f9b588f17c817b\n\nFixed wait for update \nIm closing this as done",
+            "content_raw": "https://github.com/RyanYuuki/AnymeX/commit/a734d196ff0c63b3b0b331a2c2f9b588f17c817b\n\nFixed wait for update \nIm closing this as done",
+            "created_at": "2026-04-09T18:31:21.744000+00:00",
             "attachments": []
           }
         ]
