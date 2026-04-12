@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "last_synced": "2026-04-11T11:21:18.842089",
+    "last_synced": "2026-04-12T09:18:40.566293",
     "channel_id": "1313093858346668133",
     "posts": [
       {
@@ -511,7 +511,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
         "created_at": "2025-10-12T19:52:03.147000+00:00",
         "created_at_fmt": "Oct 12, 2025",
-        "message_count": 9,
+        "message_count": 22,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -591,6 +591,110 @@
             "content": "App crash when updating extensions if there's an ext package conflicts",
             "content_raw": "App crash when updating extensions if there's an ext package conflicts",
             "created_at": "2026-03-09T13:09:07.909000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "is this fixed?",
+            "content_raw": "is this fixed?",
+            "created_at": "2026-04-11T11:22:06.726000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "nop",
+            "content_raw": "nop",
+            "created_at": "2026-04-11T11:28:47.305000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "tbh idk",
+            "content_raw": "tbh idk",
+            "created_at": "2026-04-11T11:28:51.037000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "ive not receive any ext update",
+            "content_raw": "ive not receive any ext update",
+            "created_at": "2026-04-11T11:29:02.137000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "to test",
+            "content_raw": "to test",
+            "created_at": "2026-04-11T11:29:03.935000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Fix update Fully (not working anymore)",
+            "content_raw": "Fix update Fully (not working anymore)",
+            "created_at": "2026-04-11T11:32:10.680000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "speak english nga",
+            "content_raw": "speak english nga",
+            "created_at": "2026-04-11T11:33:21.560000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Just say update not working \nNo crashing <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Just say update not working \nNo crashing <:17:1317127119742173184>",
+            "created_at": "2026-04-11T11:34:15.944000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "so you cant update at all anymore?",
+            "content_raw": "so you cant update at all anymore?",
+            "created_at": "2026-04-11T11:45:35.811000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yup",
+            "content_raw": "Yup",
+            "created_at": "2026-04-11T11:46:30.520000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "question is how do i even test if this works 😭",
+            "content_raw": "question is how do i even test if this works 😭",
+            "created_at": "2026-04-11T12:10:35.257000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "anyway to download old extension versions>?",
+            "content_raw": "anyway to download old extension versions>?",
+            "created_at": "2026-04-11T12:10:49.090000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Will check.\n\nMostly not for cs, sora, mangayomi.",
+            "content_raw": "Will check.\n\nMostly not for cs, sora, mangayomi.",
+            "created_at": "2026-04-11T12:12:25.766000+00:00",
             "attachments": []
           }
         ]
@@ -13610,7 +13714,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
         "created_at": "2026-04-09T23:38:24.587000+00:00",
         "created_at_fmt": "Apr 09, 2026",
-        "message_count": 0,
+        "message_count": 5,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -13628,7 +13732,56 @@
             "size": 295540
           }
         ],
-        "messages": []
+        "messages": [
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Meat_King</span> Does this only happen in search or other pages too?",
+            "content_raw": "<@911000652426145872> Does this only happen in search or other pages too?",
+            "created_at": "2026-04-12T02:34:22.439000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Meat_King",
+            "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+            "content": "no but",
+            "content_raw": "no but",
+            "created_at": "2026-04-12T07:08:29.504000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Meat_King",
+            "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+            "content": "when I go to extensions or local media",
+            "content_raw": "when I go to extensions or local media",
+            "created_at": "2026-04-12T07:09:01.104000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Meat_King",
+            "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+            "content": "the oled mode isn’t available",
+            "content_raw": "the oled mode isn’t available",
+            "created_at": "2026-04-12T07:09:12.710000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Meat_King",
+            "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-12T07:09:23.163000+00:00",
+            "attachments": [
+              {
+                "filename": "ScreenRecording_04-12-2026_09-07-48_1.mov",
+                "content_type": "video/quicktime",
+                "width": 480,
+                "height": 1044,
+                "size": 499407
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "1491825179540848650",
@@ -14170,6 +14323,73 @@
             "attachments": []
           }
         ]
+      },
+      {
+        "id": "1492811229658349598",
+        "title": "Private entry not working properly",
+        "content": "You can only put something as private once and you won’t see it again if it’s private or not for example for this manga I put it as private on Anilist but it doesn’t show as private on AnymeX",
+        "content_raw": "You can only put something as private once and you won’t see it again if it’s private or not for example for this manga I put it as private on Anilist but it doesn’t show as private on AnymeX",
+        "preview": "You can only put something as private once and you won’t see it again if it’s private or not for example for this manga ",
+        "author_id": "911000652426145872",
+        "author_name": "Meat_King",
+        "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+        "created_at": "2026-04-12T08:58:52.242000+00:00",
+        "created_at_fmt": "Apr 12, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [
+          "📱 Mobile"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "ScreenRecording_04-12-2026_10-56-48_1.mov",
+            "content_type": "video/quicktime",
+            "width": 480,
+            "height": 1044,
+            "size": 442308
+          },
+          {
+            "filename": "ScreenRecording_04-12-2026_10-56-24_1.mov",
+            "content_type": "video/quicktime",
+            "width": 480,
+            "height": 1044,
+            "size": 870889
+          }
+        ],
+        "messages": []
+      },
+      {
+        "id": "1492640175480897737",
+        "title": "Completed tv AND movies show same entries",
+        "content": "v3.0.6\n\n```\n[00:39:54][SYSTEM] === Logger initialized ===\nApp Info:\nName: AnymeX\nPackage: com.ryan.anymex\nVersion: 3.0.6 (Build 2028)\n\nDevice Info:\nDevice: Google Pixel 6\nBrand: google\nDevice ID: BP4A.251205.006\nAndroid Version: 16 (SDK 36)\nFingerprint: google/oriole/oriole:16/BP4A.251205.006/2026040801:user/release-keys\n==========================\n[00:40:50][INFO] Anime List Fetched Successfully!\n\n```",
+        "content_raw": "v3.0.6\n\n```\n[00:39:54][SYSTEM] === Logger initialized ===\nApp Info:\nName: AnymeX\nPackage: com.ryan.anymex\nVersion: 3.0.6 (Build 2028)\n\nDevice Info:\nDevice: Google Pixel 6\nBrand: google\nDevice ID: BP4A.251205.006\nAndroid Version: 16 (SDK 36)\nFingerprint: google/oriole/oriole:16/BP4A.251205.006/2026040801:user/release-keys\n==========================\n[00:40:50][INFO] Anime List Fetched Successfully!\n\n```",
+        "preview": "v3.0.6\n\n```\n[00:39:54][SYSTEM] === Logger initialized ===\nApp Info:\nName: AnymeX\nPackage: com.ryan.anymex\nVersion: 3.0.6",
+        "author_id": "150865547922243584",
+        "author_name": "This is War Huh Wow",
+        "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+        "created_at": "2026-04-11T21:39:09.748000+00:00",
+        "created_at_fmt": "Apr 11, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [
+          "📱 Mobile"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenshot_20260412-002222.png",
+            "content_type": "image/png",
+            "width": 1080,
+            "height": 2400,
+            "size": 2527529
+          }
+        ],
+        "messages": []
       }
     ]
   }
