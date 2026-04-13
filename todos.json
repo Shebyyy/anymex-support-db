@@ -382,32 +382,5 @@
     "source_files": [
       "https://cdn.discordapp.com/attachments/1313096878988066817/1489900220568305714/ScreenRecording_04-04-2026_10-07-19_1.mov?ex=69d21935&is=69d0c7b5&hm=0fce90417278b5c650579ad8699e499ee4cd60415b7959bc9af2f3d8531dfd15&"
     ]
-  },
-  {
-    "id": 30,
-    "title": "Fix Audio Track",
-    "auto_generated": true,
-    "ai_description": "Audio track is not visible",
-    "status": "in_progress",
-    "priority": "medium",
-    "tags": [],
-    "added_by_id": "612532963938271232",
-    "added_by_name": "asheby",
-    "assigned_to_id": "535831876766793738",
-    "assigned_to_name": "ryan_yuuki",
-    "created_at": "2026-04-13T13:25:27.109033+00:00",
-    "updated_at": "2026-04-13T16:51:12.305902+00:00",
-    "last_reminded_at": null,
-    "source_message_ids": [
-      "1493218895618773103"
-    ],
-    "source_message_links": [
-      "https://discord.com/channels/1303000390505336893/1313096878988066817/1493218895618773103"
-    ],
-    "source_message_text": "Audio track is not showing",
-    "source_images": [
-      "https://cdn.discordapp.com/attachments/1313096878988066817/1493218895396602061/image0.png?ex=69de2bf7&is=69dcda77&hm=3eb632f2046f45c94c9ca64728a37d03deefaa9974061995c13c754264e2cfbf&"
-    ],
-    "source_files": []
   }
 ]
