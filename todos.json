@@ -392,15 +392,16 @@
     "tags": [
       "bug"
     ],
-    "assigned_to_id": null,
+    "assigned_to_id": "617537674084876318",
     "due_date": null,
     "added_by_id": "617537674084876318",
     "added_by": "rieversed",
     "created_at": "2026-04-13T19:15:00.484143",
-    "updated_at": "2026-04-13T19:15:00.484153",
+    "updated_at": "2026-04-13T19:15:38.836440",
     "auto_generated": false,
     "source": "web_dashboard",
     "linked_forum_thread_id": "1492981750366998579",
-    "linked_forum_type": "bug"
+    "linked_forum_type": "bug",
+    "assigned_to_name": "Rieversed 🌠"
   }
 ]
