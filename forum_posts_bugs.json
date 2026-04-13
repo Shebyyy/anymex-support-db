@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "last_synced": "2026-04-12T09:18:40.566293",
+    "last_synced": "2026-04-13T19:12:50.822292",
     "channel_id": "1313093858346668133",
     "posts": [
       {
@@ -2310,8 +2310,8 @@
         "created_at_fmt": "Dec 16, 2025",
         "message_count": 38,
         "is_locked": false,
-        "is_archived": true,
-        "status_label": "Archived",
+        "is_archived": false,
+        "status_label": "Open",
         "tags": [
           "❌ Not an issue"
         ],
@@ -13714,7 +13714,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
         "created_at": "2026-04-09T23:38:24.587000+00:00",
         "created_at_fmt": "Apr 09, 2026",
-        "message_count": 5,
+        "message_count": 6,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -13780,6 +13780,14 @@
                 "size": 499407
               }
             ]
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "Ok I’ll take care of it",
+            "content_raw": "Ok I’ll take care of it",
+            "created_at": "2026-04-12T15:16:02.609000+00:00",
+            "attachments": []
           }
         ]
       },
@@ -14387,6 +14395,36 @@
             "width": 1080,
             "height": 2400,
             "size": 2527529
+          }
+        ],
+        "messages": []
+      },
+      {
+        "id": "1492981750366998579",
+        "title": "Player flips the wrong way",
+        "content": "",
+        "content_raw": "",
+        "preview": "",
+        "author_id": "911000652426145872",
+        "author_name": "Meat_King",
+        "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+        "created_at": "2026-04-12T20:16:27.547000+00:00",
+        "created_at_fmt": "Apr 12, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [
+          "📱 Mobile"
+        ],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "ScreenRecording_04-12-2026_22-12-25_1.mov",
+            "content_type": "video/quicktime",
+            "width": 480,
+            "height": 1044,
+            "size": 1367952
           }
         ],
         "messages": []
