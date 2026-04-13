@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-11T10:36:48.887724",
+    "last_synced": "2026-04-13T19:12:59.215215",
     "channel_id": "1313093779254677524",
     "posts": [
       {
@@ -1141,8 +1141,8 @@
         "created_at_fmt": "Feb 15, 2026",
         "message_count": 92,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [
@@ -2060,8 +2060,8 @@
         "created_at_fmt": "Feb 07, 2026",
         "message_count": 13,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "😳 Potential"
         ],
@@ -2187,8 +2187,8 @@
         "created_at_fmt": "Feb 01, 2026",
         "message_count": 23,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": 24,
         "attachments": [],
@@ -2475,8 +2475,8 @@
         "created_at_fmt": "Jan 25, 2026",
         "message_count": 2,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [
@@ -2520,8 +2520,8 @@
         "created_at_fmt": "Jan 09, 2026",
         "message_count": 11,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -2629,8 +2629,8 @@
         "created_at_fmt": "Dec 04, 2025",
         "message_count": 2,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [
@@ -2674,8 +2674,8 @@
         "created_at_fmt": "Nov 19, 2025",
         "message_count": 10,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -3492,8 +3492,8 @@
         "created_at_fmt": "Oct 02, 2025",
         "message_count": 7,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -3569,8 +3569,8 @@
         "created_at_fmt": "Sep 03, 2025",
         "message_count": 10,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [
@@ -3856,8 +3856,8 @@
         "created_at_fmt": "Sep 01, 2025",
         "message_count": 1,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -4018,8 +4018,8 @@
         "created_at_fmt": "Aug 10, 2025",
         "message_count": 1,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [
@@ -4055,8 +4055,8 @@
         "created_at_fmt": "Aug 08, 2025",
         "message_count": 7,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "😳 Potential"
         ],
@@ -4259,8 +4259,8 @@
         "created_at_fmt": "Aug 04, 2025",
         "message_count": 1,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🥹 Delayed"
         ],
@@ -4290,8 +4290,8 @@
         "created_at_fmt": "Aug 03, 2025",
         "message_count": 5,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "😳 Potential"
         ],
@@ -4361,8 +4361,8 @@
         "created_at_fmt": "Jul 30, 2025",
         "message_count": 7,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🥹 Delayed"
         ],
@@ -4519,8 +4519,8 @@
         "created_at_fmt": "Jul 28, 2025",
         "message_count": 27,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🥹 Delayed",
           "😳 Potential"
@@ -5013,8 +5013,8 @@
         "created_at_fmt": "Jul 27, 2025",
         "message_count": 4,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🥹 Delayed"
         ],
@@ -5113,8 +5113,8 @@
         "created_at_fmt": "Jul 09, 2025",
         "message_count": 9,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🧑🏻‍🏭 WIP"
         ],
@@ -6099,8 +6099,8 @@
         "created_at_fmt": "Jun 12, 2025",
         "message_count": 16,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -6256,8 +6256,8 @@
         "created_at_fmt": "Jun 05, 2025",
         "message_count": 8,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "😳 Potential"
         ],
@@ -6343,8 +6343,8 @@
         "created_at_fmt": "Jun 01, 2025",
         "message_count": 2,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🗒️ Planned"
         ],
@@ -6382,8 +6382,8 @@
         "created_at_fmt": "May 31, 2025",
         "message_count": 5,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🥹 Delayed"
         ],
@@ -6445,8 +6445,8 @@
         "created_at_fmt": "May 30, 2025",
         "message_count": 15,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🧑🏻‍🏭 WIP"
         ],
@@ -6596,8 +6596,8 @@
         "created_at_fmt": "May 10, 2025",
         "message_count": 2,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "😳 Potential"
         ],
@@ -6728,8 +6728,8 @@
         "created_at_fmt": "Mar 13, 2025",
         "message_count": 28,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [],
         "linked_todo_id": null,
         "attachments": [],
@@ -7313,8 +7313,8 @@
         "created_at_fmt": "Dec 17, 2024",
         "message_count": 26,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🥹 Delayed"
         ],
@@ -7544,8 +7544,8 @@
         "created_at_fmt": "Dec 14, 2024",
         "message_count": 7,
         "is_locked": false,
-        "is_archived": false,
-        "status_label": "Open",
+        "is_archived": true,
+        "status_label": "Archived",
         "tags": [
           "🗒️ Planned"
         ],
@@ -8041,20 +8041,20 @@
       {
         "id": "1315169744328069202",
         "title": "Bulk Anime Episode Download & Download Queue",
-        "content": "A feature that allows users to download anime episodes in bulk. This feature aims to enhance user convenience by enabling them to download multiple episodes at once without the need for individual selection.",
-        "content_raw": "A feature that allows users to download anime episodes in bulk. This feature aims to enhance user convenience by enabling them to download multiple episodes at once without the need for individual selection.",
-        "preview": "A feature that allows users to download anime episodes in bulk. This feature aims to enhance user convenience by enablin",
+        "content": "First testing downloading 1",
+        "content_raw": "First testing downloading 1",
+        "preview": "First testing downloading 1",
         "author_id": "523539866311720963",
-        "author_name": "itsmechinmoy",
-        "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+        "author_name": "Sheby",
+        "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
         "created_at": "2024-12-08T04:15:01.720000+00:00",
         "created_at_fmt": "Dec 08, 2024",
-        "message_count": 6,
-        "is_locked": false,
+        "message_count": 119,
+        "is_locked": true,
         "is_archived": false,
-        "status_label": "Open",
+        "status_label": "Locked",
         "tags": [
-          "🥹 Delayed"
+          "✅ Finished"
         ],
         "linked_todo_id": null,
         "attachments": [],
@@ -8062,49 +8062,857 @@
           {
             "author_name": "itsmechinmoy",
             "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "https://cdn.discordapp.com/attachments/1229717855398924380/1229718276548857962/YLAy2pf.png?ex=67560924&is=6754b7a4&hm=c0df26a8b58db298f8e69bcafdb4eb6bbdd6e42ec561f30fac761b3f2ab9d289&",
-            "content_raw": "https://cdn.discordapp.com/attachments/1229717855398924380/1229718276548857962/YLAy2pf.png?ex=67560924&is=6754b7a4&hm=c0df26a8b58db298f8e69bcafdb4eb6bbdd6e42ec561f30fac761b3f2ab9d289&",
-            "created_at": "2024-12-08T04:15:14.243000+00:00",
+            "content": "Can't wait for my phone to crash 😼\nDuring bulk dl",
+            "content_raw": "Can't wait for my phone to crash 😼\nDuring bulk dl",
+            "created_at": "2026-04-13T05:42:59.949000+00:00",
             "attachments": []
           },
           {
             "author_name": "itsmechinmoy",
             "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "https://cdn.discordapp.com/attachments/1229717855398924380/1229718291023663175/AeF3tya.png?ex=67560927&is=6754b7a7&hm=3cd516eecc7071c2e8ee32c49f15aa49fab462a944c24f237fe14465ae0e268b&",
-            "content_raw": "https://cdn.discordapp.com/attachments/1229717855398924380/1229718291023663175/AeF3tya.png?ex=67560927&is=6754b7a7&hm=3cd516eecc7071c2e8ee32c49f15aa49fab462a944c24f237fe14465ae0e268b&",
-            "created_at": "2024-12-08T04:15:22.049000+00:00",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> just like jxl any plan on adding compression for anime dl too? \n\nPeople who stream anime from apps like these cares more about the size \nOr else they would have torrent setups",
+            "content_raw": "<@535831876766793738> just like jxl any plan on adding compression for anime dl too? \n\nPeople who stream anime from apps like these cares more about the size \nOr else they would have torrent setups",
+            "created_at": "2026-04-13T05:44:29.382000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "That's a dumb",
+            "content_raw": "That's a dumb",
+            "created_at": "2026-04-13T05:45:56.753000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Adding compression on videos is gonna take a while",
+            "content_raw": "Adding compression on videos is gonna take a while",
+            "created_at": "2026-04-13T05:46:06.587000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "For few mbs",
+            "content_raw": "For few mbs",
+            "created_at": "2026-04-13T05:46:09.689000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-13T05:46:10.892000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260413_111550.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 55637
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Add notification for all download stuff",
+            "content_raw": "Add notification for all download stuff",
+            "created_at": "2026-04-13T05:46:29.492000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "And i feel like it's more about the drag then the storage for these peoples",
+            "content_raw": "And i feel like it's more about the drag then the storage for these peoples",
+            "created_at": "2026-04-13T05:46:30.638000+00:00",
             "attachments": []
           },
           {
             "author_name": "itsmechinmoy",
             "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "https://cdn.discordapp.com/attachments/1229717855398924380/1229718297377902612/09TXS1I.png?ex=67560929&is=6754b7a9&hm=fce8a8c543a789897897bdae90eae6aed66b34cb00b85d2001a2584546085397&",
-            "content_raw": "https://cdn.discordapp.com/attachments/1229717855398924380/1229718297377902612/09TXS1I.png?ex=67560929&is=6754b7a9&hm=fce8a8c543a789897897bdae90eae6aed66b34cb00b85d2001a2584546085397&",
-            "created_at": "2024-12-08T04:15:28.147000+00:00",
+            "content": "Size?",
+            "content_raw": "Size?",
+            "created_at": "2026-04-13T05:46:30.697000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "I plan to",
+            "content_raw": "I plan to",
+            "created_at": "2026-04-13T05:46:47.729000+00:00",
             "attachments": []
           },
           {
             "author_name": "itsmechinmoy",
             "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "Current downloads/parallel downloads not working properly",
-            "content_raw": "Current downloads/parallel downloads not working properly",
-            "created_at": "2024-12-08T07:15:02.958000+00:00",
+            "content": "Majority users are phone",
+            "content_raw": "Majority users are phone",
+            "created_at": "2026-04-13T05:46:48.202000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Missing",
+            "content_raw": "Missing",
+            "created_at": "2026-04-13T05:47:12.195000+00:00",
             "attachments": []
           },
           {
             "author_name": "itsmechinmoy",
             "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
-            "content": "Someday 🤞🏻",
-            "content_raw": "Someday 🤞🏻",
-            "created_at": "2025-08-05T08:48:54.626000+00:00",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> try to add ep size while dl\n\nYou should check\nEcho's download extension",
+            "content_raw": "<@535831876766793738> try to add ep size while dl\n\nYou should check\nEcho's download extension",
+            "created_at": "2026-04-13T05:47:36.141000+00:00",
             "attachments": []
           },
           {
-            "author_name": "Kyten",
-            "author_avatar": "https://cdn.discordapp.com/avatars/535897251172581406/040375199a3a24f98a9dd95c9acebbd4.png?size=64",
-            "content": "yea someday 🥲",
-            "content_raw": "yea someday 🥲",
-            "created_at": "2025-08-30T07:15:27.451000+00:00",
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Iirc luft added that",
+            "content_raw": "Iirc luft added that",
+            "created_at": "2026-04-13T05:47:41.670000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Why<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Why<:17:1317127119742173184>",
+            "created_at": "2026-04-13T05:47:43.045000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260413_111730.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 53623
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "No background support or what?",
+            "content_raw": "No background support or what?",
+            "created_at": "2026-04-13T05:47:48.496000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Lol",
+            "content_raw": "Lol",
+            "created_at": "2026-04-13T05:50:36.127000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Very gay",
+            "content_raw": "Very gay",
+            "created_at": "2026-04-13T05:50:39.846000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Add pause, resume, retry for failed",
+            "content_raw": "Add pause, resume, retry for failed",
+            "created_at": "2026-04-13T05:50:42.778000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Pause and resume most likely won't work",
+            "content_raw": "Pause and resume most likely won't work",
+            "created_at": "2026-04-13T05:50:55.256000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "That's y Aniyomi remove tht",
+            "content_raw": "That's y Aniyomi remove tht",
+            "created_at": "2026-04-13T05:51:03.139000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Ig i'll have to see if it's possible.\n\nI can show size if it's mp4 but haven't looked into for m3u8",
+            "content_raw": "Ig i'll have to see if it's possible.\n\nI can show size if it's mp4 but haven't looked into for m3u8",
+            "created_at": "2026-04-13T05:51:37.752000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Its was working whn i last tested it",
+            "content_raw": "Its was working whn i last tested it",
+            "created_at": "2026-04-13T05:51:45.430000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "I'll share the repo wait",
+            "content_raw": "I'll share the repo wait",
+            "created_at": "2026-04-13T05:51:59.186000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "It wasn't tested on android, only on pc that too across debug sessions so I can't be too sure",
+            "content_raw": "It wasn't tested on android, only on pc that too across debug sessions so I can't be too sure",
+            "created_at": "2026-04-13T05:52:13.069000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "As of now we need to keep open AnymeX can't switch to dif app",
+            "content_raw": "As of now we need to keep open AnymeX can't switch to dif app",
+            "created_at": "2026-04-13T05:53:01.426000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Otherwise it will stuck or after that failed",
+            "content_raw": "Otherwise it will stuck or after that failed",
+            "created_at": "2026-04-13T05:53:21.935000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "https://github.com/LuftVerbot/echo-echodown-extension",
+            "content_raw": "https://github.com/LuftVerbot/echo-echodown-extension",
+            "created_at": "2026-04-13T05:53:30.226000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Your fault for switching \nNot a bug but a feature ryan added",
+            "content_raw": "Your fault for switching \nNot a bug but a feature ryan added",
+            "created_at": "2026-04-13T05:54:02.028000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Nothing to check he's using ffmpeg",
+            "content_raw": "Nothing to check he's using ffmpeg",
+            "created_at": "2026-04-13T05:56:40.742000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Its working, need to set unrestricted \"allow background usage",
+            "content_raw": "Its working, need to set unrestricted \"allow background usage",
+            "created_at": "2026-04-13T05:56:48.747000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "That's the easy way out but i can't add it'll bulk up my shi",
+            "content_raw": "That's the easy way out but i can't add it'll bulk up my shi",
+            "created_at": "2026-04-13T05:56:56.428000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "I guess i'll add option for that perm",
+            "content_raw": "I guess i'll add option for that perm",
+            "created_at": "2026-04-13T05:57:13.318000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Ig ios users will have to suffer again",
+            "content_raw": "Ig ios users will have to suffer again",
+            "created_at": "2026-04-13T05:57:38.465000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yes that will be helpful",
+            "content_raw": "Yes that will be helpful",
+            "created_at": "2026-04-13T05:57:43.276000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "I will add it later as a plugin",
+            "content_raw": "I will add it later as a plugin",
+            "created_at": "2026-04-13T05:57:51.488000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Btw how it's checking already downloaded ep?",
+            "content_raw": "Btw how it's checking already downloaded ep?",
+            "created_at": "2026-04-13T05:58:26.415000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "metadata.json",
+            "content_raw": "metadata.json",
+            "created_at": "2026-04-13T05:58:41.542000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "While selecting episode to download",
+            "content_raw": "While selecting episode to download",
+            "created_at": "2026-04-13T05:58:43.049000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Saved in the same directory as episodes",
+            "content_raw": "Saved in the same directory as episodes",
+            "created_at": "2026-04-13T05:58:47.231000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Here?",
+            "content_raw": "Here?",
+            "created_at": "2026-04-13T05:58:58.735000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260413_112831.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 75196
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Anyway? That will show that episode is already downloaded",
+            "content_raw": "Anyway? That will show that episode is already downloaded",
+            "created_at": "2026-04-13T05:59:09.929000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "I thought it was custom made",
+            "content_raw": "I thought it was custom made",
+            "created_at": "2026-04-13T05:59:18.187000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Or its in queue",
+            "content_raw": "Or its in queue",
+            "created_at": "2026-04-13T05:59:30.511000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Yea there is",
+            "content_raw": "Yea there is",
+            "created_at": "2026-04-13T05:59:32.369000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-04-13T06:00:02.538000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260413_112951.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 54435
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Already downloaded 1157",
+            "content_raw": "Already downloaded 1157",
+            "created_at": "2026-04-13T06:00:15.266000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "And again selected and it's added queue",
+            "content_raw": "And again selected and it's added queue",
+            "created_at": "2026-04-13T06:00:54.339000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "And starts downloading also",
+            "content_raw": "And starts downloading also",
+            "created_at": "2026-04-13T06:01:24.300000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260413_113103.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 54737
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "I think its replace instead of checking",
+            "content_raw": "I think its replace instead of checking",
+            "created_at": "2026-04-13T06:02:42.658000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Change default location <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Change default location <:17:1317127119742173184>",
+            "created_at": "2026-04-13T06:05:48.116000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "There's a option in settings for that",
+            "content_raw": "There's a option in settings for that",
+            "created_at": "2026-04-13T06:06:45.582000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Ig i should add a icon in the header of active downloads",
+            "content_raw": "Ig i should add a icon in the header of active downloads",
+            "created_at": "2026-04-13T06:06:56.736000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "You should ask when user downloading first time or not set location.\n\nDon't use android> data>  package name>  file>  download <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "You should ask when user downloading first time or not set location.\n\nDon't use android> data>  package name>  file>  download <:17:1317127119742173184>",
+            "created_at": "2026-04-13T06:08:12.313000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "I was looking on storage> AnymeX> \nOr download> AnymeX",
+            "content_raw": "I was looking on storage> AnymeX> \nOr download> AnymeX",
+            "created_at": "2026-04-13T06:08:55.964000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Concurrent settings not working ig i just check it was set as 3\nAnd and it was still downloading one by one",
+            "content_raw": "Concurrent settings not working ig i just check it was set as 3\nAnd and it was still downloading one by one",
+            "created_at": "2026-04-13T06:10:27.965000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "It all depends if the servers for that video was fetched or not",
+            "content_raw": "It all depends if the servers for that video was fetched or not",
+            "created_at": "2026-04-13T06:11:51.605000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "The only way you can detect is if there's a queued status",
+            "content_raw": "The only way you can detect is if there's a queued status",
+            "created_at": "2026-04-13T06:12:04.883000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Yea prolly need to start debugging on android instead of windows",
+            "content_raw": "Yea prolly need to start debugging on android instead of windows",
+            "created_at": "2026-04-13T06:12:31.469000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yes pls <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Yes pls <:17:1317127119742173184>",
+            "created_at": "2026-04-13T06:12:45.817000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sheby</span> gang",
+            "content_raw": "<@612532963938271232> gang",
+            "created_at": "2026-04-13T06:19:15.848000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Can you properly test it",
+            "content_raw": "Can you properly test it",
+            "created_at": "2026-04-13T06:19:21.161000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "The background downloads",
+            "content_raw": "The background downloads",
+            "created_at": "2026-04-13T06:19:24.483000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Is it really working as it should?",
+            "content_raw": "Is it really working as it should?",
+            "created_at": "2026-04-13T06:19:33.158000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Tested \nIf set unrestricted \n\nIts working \n\nWait let me testwhat happened if i closed app from recent",
+            "content_raw": "Tested \nIf set unrestricted \n\nIts working \n\nWait let me testwhat happened if i closed app from recent",
+            "created_at": "2026-04-13T06:20:11.407000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sap</span> test when u cum online",
+            "content_raw": "<@944635185423597698> test when u cum online",
+            "created_at": "2026-04-13T06:20:33.102000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sap",
+            "author_avatar": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=64",
+            "content": "I’ll test tomorrow, merge my pr",
+            "content_raw": "I’ll test tomorrow, merge my pr",
+            "created_at": "2026-04-13T06:21:22.551000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> if you just switch app (without closing from recent)\nIts working with unrestricted allow \n\nAnd if you closed app Fully\nIts not working as expected",
+            "content_raw": "<@535831876766793738> if you just switch app (without closing from recent)\nIts working with unrestricted allow \n\nAnd if you closed app Fully\nIts not working as expected",
+            "created_at": "2026-04-13T06:23:07.428000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260413_115225.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 2400,
+                "size": 42342
+              }
+            ]
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Typos",
+            "content_raw": "Typos",
+            "created_at": "2026-04-13T06:23:54.448000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Ffs",
+            "content_raw": "Ffs",
+            "created_at": "2026-04-13T06:23:56.108000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Remove battery restriction",
+            "content_raw": "Remove battery restriction",
+            "created_at": "2026-04-13T06:24:10.390000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Fk",
+            "content_raw": "Fk",
+            "created_at": "2026-04-13T06:24:12.031000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Does the same thing work on dantotsu, aniyomi?",
+            "content_raw": "Does the same thing work on dantotsu, aniyomi?",
+            "created_at": "2026-04-13T06:24:13.766000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Try again",
+            "content_raw": "Try again",
+            "created_at": "2026-04-13T06:24:14.254000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Does it still continue even after closing from recent?",
+            "content_raw": "Does it still continue even after closing from recent?",
+            "created_at": "2026-04-13T06:24:40.936000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Need to add a dl manager in dan 😼🙏🏻\nThnx for reminding",
+            "content_raw": "Need to add a dl manager in dan 😼🙏🏻\nThnx for reminding",
+            "created_at": "2026-04-13T06:24:55.240000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Already did (allow unrestricted)",
+            "content_raw": "Already did (allow unrestricted)",
+            "created_at": "2026-04-13T06:25:11.528000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Let me test",
+            "content_raw": "Let me test",
+            "created_at": "2026-04-13T06:25:22.365000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yes working",
+            "content_raw": "Yes working",
+            "created_at": "2026-04-13T06:27:50.208000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenrecording_20260413_115639.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 1068,
+                "size": 9593476
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Don't even need unrestricted <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Don't even need unrestricted <:95:1317320148302172190>",
+            "created_at": "2026-04-13T06:28:18.666000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "It asks for that when you first start the app gang",
+            "content_raw": "It asks for that when you first start the app gang",
+            "created_at": "2026-04-13T06:31:00.220000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "I checked it selected optimize",
+            "content_raw": "I checked it selected optimize",
+            "created_at": "2026-04-13T06:31:30.616000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "I'll remove the pause thing",
+            "content_raw": "I'll remove the pause thing",
+            "created_at": "2026-04-13T06:35:09.155000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "It won't work properly anyways",
+            "content_raw": "It won't work properly anyways",
+            "created_at": "2026-04-13T06:35:27.736000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Okay, but it works in Aniyomi, I’m not sure how they’re doing it.",
+            "content_raw": "Okay, but it works in Aniyomi, I’m not sure how they’re doing it.",
+            "created_at": "2026-04-13T06:37:35.250000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "It doesn't tho",
+            "content_raw": "It doesn't tho",
+            "created_at": "2026-04-13T06:37:59.192000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "For me atleast it doesn't work",
+            "content_raw": "For me atleast it doesn't work",
+            "created_at": "2026-04-13T06:38:05.565000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "It starts from 0 if i pause and continue",
+            "content_raw": "It starts from 0 if i pause and continue",
+            "created_at": "2026-04-13T06:38:13.828000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "But you can use this way \n\nShow server selecter \nAnd let thm select server",
+            "content_raw": "But you can use this way \n\nShow server selecter \nAnd let thm select server",
+            "created_at": "2026-04-13T06:39:06.621000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "And our app already resuming perfectly \n\nI meant if it was downloaded 2% it's starting from that point",
+            "content_raw": "And our app already resuming perfectly \n\nI meant if it was downloaded 2% it's starting from that point",
+            "created_at": "2026-04-13T06:39:48.138000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Wait let me show you",
+            "content_raw": "Wait let me show you",
+            "created_at": "2026-04-13T06:40:14.469000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "I mean yea it should for hls streams cuz i have added remember last segment index and then continuing on from that index",
+            "content_raw": "I mean yea it should for hls streams cuz i have added remember last segment index and then continuing on from that index",
+            "created_at": "2026-04-13T06:47:24.339000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "But for mp4 streams and stuff i am not too sure if the library i am using is properly doing it",
+            "content_raw": "But for mp4 streams and stuff i am not too sure if the library i am using is properly doing it",
+            "created_at": "2026-04-13T06:47:38.724000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Okay",
+            "content_raw": "Okay",
+            "created_at": "2026-04-13T06:48:14.140000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Should i try? Idk which extentions gives mp4",
+            "content_raw": "Should i try? Idk which extentions gives mp4",
+            "created_at": "2026-04-13T06:49:19.225000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "All anime gives mp4 and cs extensions too",
+            "content_raw": "All anime gives mp4 and cs extensions too",
+            "created_at": "2026-04-13T06:50:02.572000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Okay let try with all anime <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127098351226952.png?size=24\" alt=\":14:\" title=\":14:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Okay let try with all anime <:14:1317127098351226952>",
+            "created_at": "2026-04-13T06:51:29.120000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> So for mp4\nIts working without unrestricted permission (not tested closing app from recent)\n\nAbout \nResume and pause \nIt's downloading from start.\n<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317320148302172190.png?size=24\" alt=\":95:\" title=\":95:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<@535831876766793738> So for mp4\nIts working without unrestricted permission (not tested closing app from recent)\n\nAbout \nResume and pause \nIt's downloading from start.\n<:95:1317320148302172190>",
+            "created_at": "2026-04-13T07:05:30.864000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenrecording_20260413_123227.mp4",
+                "content_type": "video/mp4",
+                "width": 720,
+                "height": 1600,
+                "size": 5469460
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "500% <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1317127119742173184.png?size=24\" alt=\":17:\" title=\":17:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "500% <:17:1317127119742173184>",
+            "created_at": "2026-04-13T07:06:13.772000+00:00",
             "attachments": []
           }
         ]
