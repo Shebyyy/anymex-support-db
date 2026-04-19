@@ -338,25 +338,6 @@
     "due_date": null
   },
   {
-    "id": 27,
-    "title": "Comments Backend (Quota Issue)",
-    "ai_description": "Backend will stop working after 17 Apr (quota exceeded)\n* Decide solution before deadline:\n    1 Move backend to new account OR\n    2 Switch to different hosting\n* Update API URL in app after migration\n* Add fallback message if backend fails (comments unavailable)\n* Test comments after moving backend",
-    "status": "todo",
-    "priority": "high",
-    "tags": [
-      "Comment"
-    ],
-    "assigned_to_id": "612532963938271232",
-    "due_date": "2026-04-17",
-    "added_by_id": "612532963938271232",
-    "added_by": "asheby",
-    "created_at": "2026-04-01T16:25:51.101604",
-    "updated_at": "2026-04-01T16:25:51.101605",
-    "auto_generated": false,
-    "source": "web_dashboard",
-    "watchers": []
-  },
-  {
     "id": 28,
     "title": "Update Auto Scroll Info",
     "auto_generated": true,
