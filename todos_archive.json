@@ -357,5 +357,27 @@
     "done_by_id": "612532963938271232",
     "done_by_name": "asheby",
     "done_at": "2026-04-13T16:51:23.063267+00:00"
+  },
+  {
+    "id": 27,
+    "title": "Comments Backend (Quota Issue)",
+    "ai_description": "Backend will stop working after 17 Apr (quota exceeded)\n* Decide solution before deadline:\n    1 Move backend to new account OR\n    2 Switch to different hosting\n* Update API URL in app after migration\n* Add fallback message if backend fails (comments unavailable)\n* Test comments after moving backend",
+    "status": "done",
+    "priority": "high",
+    "tags": [
+      "Comment"
+    ],
+    "assigned_to_id": "612532963938271232",
+    "due_date": "2026-04-17",
+    "added_by_id": "612532963938271232",
+    "added_by": "asheby",
+    "created_at": "2026-04-01T16:25:51.101604",
+    "updated_at": "2026-04-19T13:52:28.879636+00:00",
+    "auto_generated": false,
+    "source": "web_dashboard",
+    "watchers": [],
+    "done_by_id": "612532963938271232",
+    "done_by_name": "asheby",
+    "done_at": "2026-04-19T13:52:28.879663+00:00"
   }
 ]
