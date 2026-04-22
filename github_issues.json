@@ -1,26 +1,74 @@
 {
-  "last_synced": "2026-04-10T11:33:06.311885",
+  "last_synced": "2026-04-22T13:48:59.691922",
   "repo": "RyanYuuki/AnymeX",
   "issues": [
     {
-      "number": 382,
-      "title": "Anime currently airing without episodes in its profile, I can't add it",
-      "body": "### Steps to Reproduce\n\n1. Select anime that, although currently airing, appears with 0 episodes in the profile, in the android app.\n2. I can't increase the number of episodes\n\n### Expected Outcome\n\nThe option to add episodes remains active.\n\n### Actual Outcome\n\nIn my case, I have see this issue in two animes: \n - One piece: I added 1155 episodes in myanimelist web, but I can't add the new episode of this week. Also, if I deduct an episode, it won't let me add it back.\n - Jojo Steel Ball Round: for the moment only have 1 episode in airing, but i can't add it.\n\nI've attached screenshots of the error in both profiles and the disabled \"add episodes\" button.\n\n<img width=\"1080\" height=\"2340\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/416c2bff-a017-44bf-9e76-2412c0f4a358\" />\n<img width=\"1080\" height=\"2340\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0521245e-0f0f-4aff-9040-972504fa64d6\" />\n<img width=\"1080\" height=\"2340\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4a065c2f-aef3-4255-80bd-3dd027d0ae3b\" />\n<img width=\"1080\" height=\"2340\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d33d9c04-4170-4378-80ab-f4ecfc5c1b43\" />\n\n### Error Logs (if applicable)\n\n_No response_\n\n### AnymeX Version\n\n3.0.4\n\n### Operating System Version\n\nAndroid 16\n\n### Device Information\n\nGoogle pixel 7 pro\n\n### Additional Information\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "number": 408,
+      "title": "extension not install",
+      "body": "### Steps to Reproduce\n\nGo on extension\ntry to install plugin Streamingcommunty from repo for cloudstream of diegon and dogiors\n\nhttps://github.com/user-attachments/assets/ebc323d7-9d0f-4389-ae2a-6026b394bd9e\n\n### Expected Outcome\n\nThe app should install the plugin \n\n### Actual Outcome\n\nThe app is trying to install the plugin but is unable to do so\n\n### Error Logs (if applicable)\n\n[app_logs.txt](https://github.com/user-attachments/files/26969739/app_logs.txt)\n\n[14:25:22][SYSTEM] === Logger initialized ===\nApp Info:\nName: AnymeX\nPackage: com.ryan.anymex\nVersion: 3.0.6 (Build 2028)\n\nDevice Info:\nDevice: Alldocube iPlay60 mini Turbo\nBrand: Alldocube\nDevice ID: UKQ1.240321.001\nAndroid Version: 14 (SDK 34)\nFingerprint: Alldocube/iPlay60_mini_Turbo/U812:14/UKQ1.240321.001/108:user/release-keys\n==========================\n[14:26:09][INFO] AnymeXExtensionBridge: Downloading CloudStream plugin: StreamingCommunity from https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3\n[14:26:09][INFO] AnymeXExtensionBridge: Error installing CloudStream source StreamingCommunity: PathAccessException: Cannot open file, path = '/data/user/0/com.ryan.anymex/app_flutter/cloudstream_plugins/StreamingCommunity.cs3' (OS Error: Permission denied, errno = 13)\n[14:26:09][INFO] PathAccessException: Cannot open file, path = '/data/user/0/com.ryan.anymex/app_flutter/cloudstream_plugins/StreamingCommunity.cs3' (OS Error: Permission denied, errno = 13)\n[14:26:10][INFO] AnymeXExtensionBridge: Downloading CloudStream plugin: StreamingCommunity from https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/StreamingCommunity.cs3\n[14:26:10][INFO] AnymeXExtensionBridge: Error installing CloudStream source StreamingCommunity: PathAccessException: Cannot open file, path = '/data/user/0/com.ryan.anymex/app_flutter/cloudstream_plugins/StreamingCommunity.cs3' (OS Error: Permission denied, errno = 13)\n[14:26:10][INFO] PathAccessException: Cannot open file, path = '/data/user/0/com.ryan.anymex/app_flutter/cloudstream_plugins/StreamingCommunity.cs3' (OS Error: Permission denied, errno = 13)\n\n### AnymeX Version\n\nVersion: 3.0.6 (Build 2028)\n\n### Operating System Version\n\nAndroid Version: 14 (SDK 34)\n\n### Device Information\n\nDevice: Alldocube iPlay60 mini Turbo\n\n### Additional Information\n\nPlease note that the add-ons are for movies and TV shows.\nThe plugins on CloudStream work perfectly.\nThe log shows “Permission denied, errno = 13,” but the app has third-party installation permissions enabled.\nThe issue occurs in both the stable and beta versions of the app.\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
       "labels": [
         "bug"
       ],
       "state": "open",
       "assignees": [],
       "assignee_avatars": [],
-      "author": "Andrea-Miin",
-      "author_avatar": "https://avatars.githubusercontent.com/u/44163732?v=4",
-      "author_url": "https://github.com/Andrea-Miin",
-      "created_at": "2026-04-06T10:45:06Z",
-      "updated_at": "2026-04-07T19:50:41Z",
-      "comment_count": 2,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/382",
+      "author": "Al3ss107",
+      "author_avatar": "https://avatars.githubusercontent.com/u/43543796?v=4",
+      "author_url": "https://github.com/Al3ss107",
+      "created_at": "2026-04-22T12:50:06Z",
+      "updated_at": "2026-04-22T12:50:18Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/408",
       "linked_todo_id": null,
       "platform": "android"
+    },
+    {
+      "number": 401,
+      "title": "High-Quality Image Scaling in Manga Reader (Lanczos / Selectable Filter Quality)",
+      "body": "### Problem\n\nThe manga reader currently uses `FilterQuality.medium` (bilinear interpolation) for all page\nrendering via `ExtendedImage` in `reader_view.dart`:\n\n```dart\nfilterQuality: FilterQuality.medium,\n```\n\nThis produces blurry or aliased output especially on low-resolution manga pages or when zooming in.\nFlutter's built-in `FilterQuality` enum only goes up to `FilterQuality.high` (bicubic), which is\nstill noticeably softer than Lanczos. Mihon has the same limitation — neither app currently offers\nLanczos-quality rendering.\n\n### Proposed Solution\n\nAdd a selectable **Image Filter Quality** setting under **Reader Settings → General** with the\nfollowing options:\n\n| Option | Method | Notes |\n|---|---|---|\n| None | `FilterQuality.none` | Nearest-neighbor, pixelated |\n| Low | `FilterQuality.low` | Bilinear |\n| Medium *(default)* | `FilterQuality.medium` | Current behavior |\n| High | `FilterQuality.high` | Bicubic via Skia |\n| **Lanczos** | `image_scaler` package | Best quality, slower |\n\nFor Lanczos specifically, the [`image_scaler`](https://pub.dev/packages/image_scaler) Flutter\npackage exposes a pure-Dart Lanczos implementation that runs in a separate isolate so the main\nthread is not blocked:\n\n```dart\nimport 'package:image_scaler/image_scaler.dart';\n\nfinal scaled = await scale(\n  image,\n  IntSize(targetWidth, targetHeight),\n  ScaleAlgorithm.lanczos,\n);\n```\n\nSince AnymeX already processes images natively (JXL support), Lanczos pre-processing can be applied\nafter decode and before handing the bitmap to `ExtendedImage`, using `RawImage` or\n`canvas.drawImage` to render the pre-scaled `dart:ui Image`.\n\nThe algorithm works by taking a sinc-windowed kernel around each output pixel, computing weighted\nsums of input pixels based on distance — producing sharp, clean results with minimal aliasing,\nwidely regarded as the best general-purpose downscaling filter.\n\n> ⚠️ Lanczos is CPU-intensive (multiple `sqrt` and `sin` ops per pixel). It should only be applied\n> as a pre-processing step on load, not per-frame. The `image_scaler` isolate approach handles\n> this correctly. It should be off by default.\n\n### Affected File\n\n`lib/screens/manga/widgets/reader/reader_view.dart` — `_buildImageForPaged()`, both the\n`ExtendedImage.network` and `ExtendedImage.file` paths.\n\n### References\n\n- `image_scaler` pub.dev: https://pub.dev/packages/image_scaler\n- `image_scaler` Lanczos API docs: https://pub.dev/documentation/image_scaler/latest/lanczos/lanczos.html\n- Flutter `FilterQuality` enum: https://api.flutter.dev/flutter/dart-ui/FilterQuality.html\n- Flutter `dart:ui ImageFilter`: https://api.flutter.dev/flutter/dart-ui/ImageFilter-class.html\n- `extended_image` package: https://pub.dev/packages/extended_image\n- Lanczos resampling (Wikipedia): https://en.wikipedia.org/wiki/Lanczos_resampling\n- Lanczos deep-dive: https://mazzo.li/posts/lanczos.html",
+      "labels": [
+        "enhancement"
+      ],
+      "state": "open",
+      "assignees": [
+        "RyanYuuki",
+        "itsmechinmoy",
+        "Copilot"
+      ],
+      "assignee_avatars": [
+        "https://avatars.githubusercontent.com/u/108048963?v=4",
+        "https://avatars.githubusercontent.com/u/167056923?v=4",
+        "https://avatars.githubusercontent.com/in/1143301?v=4"
+      ],
+      "author": "itsmechinmoy",
+      "author_avatar": "https://avatars.githubusercontent.com/u/167056923?v=4",
+      "author_url": "https://github.com/itsmechinmoy",
+      "created_at": "2026-04-17T05:13:17Z",
+      "updated_at": "2026-04-17T05:14:33Z",
+      "comment_count": 0,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/401",
+      "linked_todo_id": null,
+      "platform": ""
+    },
+    {
+      "number": 396,
+      "title": "Manga reader enhancements like Komikku",
+      "body": "### Feature Summary\n\nPlease add the following enhancements to the Manga reader. These enhancements are currently implemented in Komikku.\n1. Progress slider should be flipped (if reading mode is right to left (manga style)).\n2. Double pages should be zoomed into (start from full overview of the double page then zoom into the right part) and when the next page button is pressed the zoom should advance to the left.\n\n### Detailed Description\n\n### Current Behavior\n- Describe the current functionality or lack thereof.\n\n1. The progress bar advances as usual, from left to right. When the reading mode is changed to Manga style, the progress bar feels out of place and inconsistent (since you'd probably change the next button to be on the left as well and when you advance the progress bar moves right, the opposite of what you press). It's also awkward to use the progress bar to seek through pages because you'd be going the opposite way of the bar.\n\n2. Double pages are shown as a full overview, sometimes being too small to read so you'd have to double press to zoom in or pinch (this can sometimes lead into misclicks and advance the page instead which is annoying). \n\n### Proposed Solution\n- Detail how the feature should work and any potential benefits.\n\n1. Progress bar should be flipped if your reading mode is right to left. This would make it more consistent with the reading mode and you can seek through the pages through the bar more easily.\n \n2. Double pages should be zoomed in (start from a double page overview and zoom into the right part of the page, basically acting like a single page). When you press the 'next page' button the zoom should move to the other part of the double page and then proceed onto the next page when that button is pressed again.\n\n### Considerations\n- Mention any potential challenges or alternatives.\nNot sure, will update if I can think/find any.\n\n### Additional Context\n\nDemo of the progress bar from Komikku\n\nhttps://github.com/user-attachments/assets/0e4eea45-7cc2-4f56-a199-bafb94f5414f\n\nDemo of the zoom feature from Komikku (When I enter a double page the zoom is automatic)\n\nhttps://github.com/user-attachments/assets/c5aba4e8-9a23-4fa1-aee5-c34a36041b1a\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
+      "labels": [
+        "enhancement"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "MBA380",
+      "author_avatar": "https://avatars.githubusercontent.com/u/60070534?v=4",
+      "author_url": "https://github.com/MBA380",
+      "created_at": "2026-04-12T18:07:44Z",
+      "updated_at": "2026-04-12T18:11:39Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/396",
+      "linked_todo_id": null,
+      "platform": ""
     },
     {
       "number": 347,
@@ -70,37 +118,23 @@
         "bug"
       ],
       "state": "open",
-      "assignees": [],
-      "assignee_avatars": [],
+      "assignees": [
+        "itsmechinmoy",
+        "Copilot"
+      ],
+      "assignee_avatars": [
+        "https://avatars.githubusercontent.com/u/167056923?v=4",
+        "https://avatars.githubusercontent.com/in/1143301?v=4"
+      ],
       "author": "rajinstar",
       "author_avatar": "https://avatars.githubusercontent.com/u/62995823?v=4",
       "author_url": "https://github.com/rajinstar",
       "created_at": "2026-02-16T00:16:58Z",
-      "updated_at": "2026-04-09T05:00:37Z",
-      "comment_count": 12,
+      "updated_at": "2026-04-14T10:19:36Z",
+      "comment_count": 16,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/302",
       "linked_todo_id": null,
       "platform": "windows"
-    },
-    {
-      "number": 301,
-      "title": "Please add an offline download mode for anime, manga, and novels on both desktop and smartphone platforms",
-      "body": "### Feature Summary\n\n**Dear @RyanYuuki and @itsmechinmoy,**\n\nThis is my last feature request for now, but this feature is very crucial for us. I know I’ve been requesting a lot, but these features help us watch anime, read manga, and novels offline. A friend of mine previously wanted to download an anime from Anymex but failed because there was no offline download option. In the end, he had to go to the official YouTube anime channel, Muse Asia, to manually download all the episodes, as he had WiFi issues at the time. Therefore, I am requesting that this feature be included in the next version of the app.\n\nThank you.\n\n### Detailed Description\n\n### Current Behavior\n- Currently, the app does not support offline downloads for anime, manga, or novels.\n- Users who want to access content without an active internet connection cannot do so.\n\n### Proposed Solution\n- Implement an offline download mode for anime, manga, and novels on both desktop and smartphone platforms.\n- Users should be able to download episodes, chapters, or volumes directly to their device for offline access.\n- This feature will improve accessibility, allow uninterrupted content consumption, and enhance user satisfaction, particularly for those with unstable or limited internet connections.\n\n### Considerations\n- Storage management will be important; the app should allow users to choose download quality and location, and manage downloaded content.\n- An option to automatically delete watched/read content or manage downloads efficiently could further improve the user experience.\n\n\n### Additional Context\n\nI will also include a screen recording from my Android phone’s Anymex app. Although this video was recorded on the Android version, the same issue exists on the desktop version for Windows 11. The screen recording is attached below:\n\nhttps://github.com/user-attachments/assets/6c148c0b-b5bd-48b1-8efb-bce99aa2accc\n\nIn the screen recording, I will show exactly where the offline download feature should be added in the Anymex app. Please consider my request and address all of my concerns as soon as possible in the next update.\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
-      "labels": [
-        "enhancement"
-      ],
-      "state": "open",
-      "assignees": [],
-      "assignee_avatars": [],
-      "author": "rajinstar",
-      "author_avatar": "https://avatars.githubusercontent.com/u/62995823?v=4",
-      "author_url": "https://github.com/rajinstar",
-      "created_at": "2026-02-15T23:21:56Z",
-      "updated_at": "2026-02-26T15:08:48Z",
-      "comment_count": 2,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/301",
-      "linked_todo_id": null,
-      "platform": "android"
     },
     {
       "number": 272,
@@ -116,36 +150,16 @@
       "author_avatar": "https://avatars.githubusercontent.com/u/259383542?v=4",
       "author_url": "https://github.com/joestardiobrando705-creator",
       "created_at": "2026-02-04T16:14:32Z",
-      "updated_at": "2026-02-17T20:01:54Z",
-      "comment_count": 8,
+      "updated_at": "2026-04-14T10:07:27Z",
+      "comment_count": 9,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/272",
       "linked_todo_id": null,
       "platform": ""
     },
     {
-      "number": 241,
-      "title": "Multiple features/Enhancements request",
-      "body": "### Feature Summary\n\n## Feature Summary:  \nSome list of feat request:\n\n## Detailed Description \n\n1.  **Profile page for MAL** \nFeature : We already have MAL integration in app so, we can also add a new  \"dedicated view  profile\" for MyAnimeList \n\n2. **Improving Mange Reader** ✅️\n- Ahh,  I would like to request a feature to quickly switch between chapters without leaving the reader like When the user taps the Chapter Title / Header inside the reader, it should open a popup or modal list of all available chapters. (ig you guys know).. ✅ \n- Dual Pages for Tabs and Laptop  (i think it will be useful) ✅ \n- Adding a setting to rotate manga panels in reader \n- Maybe Adding \"Tap Zones\" in manga reader like \"mihon\" and other forks have already... It helps in Easy reading by tapping on screen  ✅ \n- \"Keep Screen On\" setting to keep screen on , from turning off maybe  ✅ \n\n3.  Adding a download feature to the App (for manga and Anime)\n\n4. Add Characters detailed page and Staff and other stuff \n Feature: By clicking on a character card should open character detailed page (scrapped from Anlist as of now) and also doing the same for studios , VA... ✅ \n\n5. Ability to Add to fav a show or manga inside the manga/Anime page \n\n6. Add Start and End dates feature inside the List Editor ✅ \n\n7. Also Add a toggle to private or publc a anime entry inside list editor\n\n8. Add a enhancement/Feat : When long pressed on a anime or manga should open List editor ✅ \n\n\n\n\n\n### Additional Context\n\nAhh none\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
-      "labels": [
-        "enhancement"
-      ],
-      "state": "open",
-      "assignees": [],
-      "assignee_avatars": [],
-      "author": "NITHINSPACETIME",
-      "author_avatar": "https://avatars.githubusercontent.com/u/166204452?v=4",
-      "author_url": "https://github.com/NITHINSPACETIME",
-      "created_at": "2026-01-25T07:34:48Z",
-      "updated_at": "2026-03-10T04:57:47Z",
-      "comment_count": 11,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/241",
-      "linked_todo_id": null,
-      "platform": "ios"
-    },
-    {
       "number": 226,
       "title": "Need a Hide from Homepage option",
-      "body": "### Feature Summary\n\nI would like an option to private or Hide certain titles from the homepage from the recommended and continue Watching/reading Section.\n\n### Detailed Description\n\n### Current Behavior\n- No such option exists\n\n### Proposed Solution\n- when we assign/edit the current tracking of a manga add a option button to assign it a private/hide from homepage tag which hides it from homepage\n\n### Considerations\n- Mention any potential challenges or alternatives.\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
+      "body": "### Feature Summary\n\nI would like an option to private or Hide certain titles from the homepage from the recommended and continue Watching/reading Section.\n\n### Detailed Description\n\n### Current Behavior\n- No such option exists\n\n### Proposed Solution\n- when we assign/edit the current tracking of a manga add a option button to assign it a private/hide from homepage tag which hides it from homepage\n\n### Considerations\n- Mention any potential challenges or alternatives.\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
       "labels": [
         "enhancement"
       ],
@@ -156,49 +170,9 @@
       "author_avatar": "https://avatars.githubusercontent.com/u/146179467?v=4",
       "author_url": "https://github.com/CS-Krishna",
       "created_at": "2025-12-14T08:39:46Z",
-      "updated_at": "2026-03-10T05:01:24Z",
+      "updated_at": "2026-04-14T10:12:30Z",
       "comment_count": 2,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/226",
-      "linked_todo_id": null,
-      "platform": ""
-    },
-    {
-      "number": 222,
-      "title": "Ability to choose a different source for each manga/anime",
-      "body": "### Feature Summary\n\nAbility to choose a different source for each manga/anime as most of the time each manga is on a different source like in dantotsu \n\n### Detailed Description\n\n### Current Behavior\n-sets the chosen source to all manga/anime\n\n### Proposed Solution\n- Ability to choose a different source for each manga/anime as most of the time each manga is on a different source\n\n### Considerations\n- like in dantotsu\n\n\n### Additional Context\n\nNo related issues (maybe the one where u add multiple sources list like in dantotsu)\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
-      "labels": [
-        "enhancement"
-      ],
-      "state": "open",
-      "assignees": [],
-      "assignee_avatars": [],
-      "author": "ABdelrahmanAlaa1",
-      "author_avatar": "https://avatars.githubusercontent.com/u/159586604?v=4",
-      "author_url": "https://github.com/ABdelrahmanAlaa1",
-      "created_at": "2025-11-27T01:26:04Z",
-      "updated_at": "2025-11-27T01:26:16Z",
-      "comment_count": 1,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/222",
-      "linked_todo_id": null,
-      "platform": ""
-    },
-    {
-      "number": 221,
-      "title": "MULTIPLE REPOSITORIES",
-      "body": "### Feature Summary\n\nAdd the possibility to add multiply repositories instead of one repository for category\n\n### Detailed Description\n\n### Current Behavior\n- currently you can only add one repository for category(anime,manga and novels)\n\n### Proposed Solution\n- This feature should let the user add more than one repository for category\n\n### Considerations\n- For foreign languages people this would be awesome because only specific repositories contain extensions for our languages but they arent as complete as the english repositories so if just one repository we have to choose between english only or a few national extensions instead of having both\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository.",
-      "labels": [
-        "enhancement"
-      ],
-      "state": "open",
-      "assignees": [],
-      "assignee_avatars": [],
-      "author": "MathsTTU",
-      "author_avatar": "https://avatars.githubusercontent.com/u/141683017?v=4",
-      "author_url": "https://github.com/MathsTTU",
-      "created_at": "2025-11-24T14:00:01Z",
-      "updated_at": "2026-03-15T08:27:25Z",
-      "comment_count": 3,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/221",
       "linked_todo_id": null,
       "platform": ""
     },
