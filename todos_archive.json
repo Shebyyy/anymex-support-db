@@ -379,5 +379,26 @@
     "done_by_id": "612532963938271232",
     "done_by_name": "asheby",
     "done_at": "2026-04-19T13:52:28.879663+00:00"
+  },
+  {
+    "id": 31,
+    "title": "Player flips the wrong way",
+    "ai_description": "player flips the opposite way from the way it should",
+    "status": "done",
+    "priority": "low",
+    "tags": [
+      "bug"
+    ],
+    "assigned_to_id": "617537674084876318",
+    "due_date": null,
+    "added_by_id": "617537674084876318",
+    "added_by": "rieversed",
+    "created_at": "2026-04-13T19:15:00.484143",
+    "updated_at": "2026-04-25T10:50:42.355920",
+    "auto_generated": false,
+    "source": "web_dashboard",
+    "linked_forum_thread_id": "1492981750366998579",
+    "linked_forum_type": "bug",
+    "assigned_to_name": "Rieversed 🌠"
   }
 ]
