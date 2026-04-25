@@ -148,14 +148,14 @@
     "title": "Add touch grass reminder",
     "auto_generated": true,
     "ai_description": "Remind user to take break after long binge",
-    "status": "in_progress",
+    "status": "blocked",
     "priority": "medium",
     "added_by_id": "612532963938271232",
     "added_by_name": "asheby",
-    "assigned_to_id": "617537674084876318",
+    "assigned_to_id": null,
     "assigned_to_name": "rieversed",
     "created_at": "2026-03-26T08:00:50.587174+00:00",
-    "updated_at": "2026-04-25T10:20:35.817370",
+    "updated_at": "2026-04-25T10:21:26.220484",
     "source_message_ids": [
       "1480975277864648876"
     ],
@@ -165,7 +165,9 @@
     "source_message_text": "feat: add “touch grass” reminder after long binge",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-04-04T15:54:31.878586+00:00"
+    "last_reminded_at": "2026-04-04T15:54:31.878586+00:00",
+    "tags": [],
+    "due_date": null
   },
   {
     "id": 11,
