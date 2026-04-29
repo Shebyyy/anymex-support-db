@@ -1,7 +1,67 @@
 {
-  "last_synced": "2026-04-22T13:48:59.691922",
+  "last_synced": "2026-04-29T09:47:55.527834",
   "repo": "RyanYuuki/AnymeX",
   "issues": [
+    {
+      "number": 424,
+      "title": "Soft-subs aren't displaying on the media, but are loaded.",
+      "body": "### Steps to Reproduce\n\n1. Pick one island and a media\n2. Media loads, subtitle loads(subtitle sync shows it does)\n3. No subtitle displayed on the player\n\n### Expected Outcome\n\n1. Pick one island and a media\n2. Media loads, subtitle loads(subtitle sync shows it does)\n3. Media should play with subtitle\n\n### Actual Outcome\n\n1. Pick one island and a media\n2. Media loads, subtitle loads(subtitle sync shows it does)\n3. No subtitle gets displayed\n\n### Error Logs (if applicable)\n\n```log\n[15:20:32][SYSTEM] === Logger initialized ===\nApp Info:\nName: AnymeX\nPackage: com.ryan.anymex\nVersion: 3.0.7 (Build 2029)\n\nDevice Info:\nDevice: Xiaomi 24108PCE2I\nBrand: POCO\nDevice ID: BP2A.250605.031.A3\nAndroid Version: 16 (SDK 36)\nFingerprint: POCO/flame_p_in/flame:16/BP2A.250605.031.A3/OS3.0.5.0.WGUINXM:user/release-keys\n==========================\n[15:20:33][INFO] Fetched 4 community movies\n[15:20:33][INFO] Fetched 5 community shows\n[15:20:33][INFO] Fetched 29 community manga\n[15:20:33][INFO] Fetched 68 community anime\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.initialize\n[15:20:33][INFO] Connected to Discord Gateway (Mobile)\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Method 'initialize' completed successfully\n[15:20:33][INFO] AnymeXExtensionBridge: AnymeX Bridge auto-detected and initialized from: /data/user/0/com.ryan.anymex/app_flutter/AnymeX/Runtime/anymex_runtime_host.apk\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.getInstalledAnimeExtensions\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.getInstalledMangaExtensions\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.initialize\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Method 'initialize' completed successfully\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.csGetRegisteredProviders\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Method 'csGetRegisteredProviders' completed successfully\n[15:20:34][NATIVE] [NATIVE] [BRIDGE] Method 'getInstalledMangaExtensions' completed successfully\n[15:20:34][NATIVE] [NATIVE] [BRIDGE] Method 'getInstalledAnimeExtensions' completed successfully\n[15:20:34][INFO] User profile fetched: InternetNinja (ID: 6393467)\n[15:20:35][ERROR] CRASH: FormatException: Unexpected character (at line 7, character 1)\n<!DOCTYPE html>\n^\n\n[15:20:35][ERROR] STACK: #0      _ChunkedJsonParser.fail (dart:convert-patch/convert_patch.dart:1467)\n#1      _ChunkedJsonParser.parseNumber (dart:convert-patch/convert_patch.dart:1333)\n#2      _ChunkedJsonParser.parse (dart:convert-patch/convert_patch.dart:935)\n#3      _parseJson (dart:convert-patch/convert_patch.dart:35)\n#4      JsonDecoder.convert (dart:convert/json.dart:641)\n#5      JsonCodec.decode (dart:convert/json.dart:223)\n#6      jsonDecode (dart:convert/json.dart:160)\n#7      MangayomiExtensions._parseExtensions (package:anymex_extension_runtime_bridge/Services/Mangayomi/MangayomiExtensions.dart:260)\n#8      compute.<anonymous closure> (package:flutter/src/foundation/_isolates_io.dart:23)\n#9      _RemoteRunner._run (dart:isolate:1116)\n#10     _RemoteRunner._remoteExecute (dart:isolate:1110)\n#11     _delayEntrypointInvocation.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:317)\n#12     _RawReceivePort._handleMessage (dart:isolate-patch/isolate_patch.dart:193)\n\n[15:20:35][DEBUG] Instance \"CacheController\" has been created\n[15:20:35][DEBUG] Instance \"CacheController\" has been initialized\n[15:20:36][INFO] Error checking for updates: FormatException: Invalid radix-10 number (at character 1)\n[15:20:36][INFO] 8+16\n[15:20:36][INFO] ^\n[15:20:36][INFO] \n[15:20:39][INFO] Anime List Fetched Successfully!\n```\n\n### AnymeX Version\n\n3.0.7\n\n### Operating System Version\n\nAndroid 16\n\n### Device Information\n\nPOCO M7 5G\n\n### Additional Information\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "bug"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "zer0ninja",
+      "author_avatar": "https://avatars.githubusercontent.com/u/179892182?v=4",
+      "author_url": "https://github.com/zer0ninja",
+      "created_at": "2026-04-27T09:53:55Z",
+      "updated_at": "2026-04-27T09:54:06Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/424",
+      "linked_todo_id": null,
+      "platform": "android"
+    },
+    {
+      "number": 421,
+      "title": "Default Speed Not Working",
+      "body": "### Steps to Reproduce\n\n1. Set the default speed in player settings to 2x\n2. I still have to manually change it each time\n\n### Expected Outcome\n\nThe default speed that I set it to should be automatically set when I start an episode.\n I switched from android to iOS recently and so I can’t use Dantotsu anymore so I’ve fully switched to Anymex. That is the only issue other than the lack of working Sora and Mangayomi extensions :)\n\n### Actual Outcome\n\nIt still plays at 1x even though 2x is default\n\n### Error Logs (if applicable)\n\n_No response_\n\n### AnymeX Version\n\n3.0.7 but its been a problem throughout the version even on my android\n\n### Operating System Version\n\niOS 26.4.1\n\n### Device Information\n\niPhone 15 Pro\n\n### Additional Information\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "bug"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "Try-Tried",
+      "author_avatar": "https://avatars.githubusercontent.com/u/279340806?v=4",
+      "author_url": "https://github.com/Try-Tried",
+      "created_at": "2026-04-25T21:31:31Z",
+      "updated_at": "2026-04-26T01:36:28Z",
+      "comment_count": 2,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/421",
+      "linked_todo_id": null,
+      "platform": "android"
+    },
+    {
+      "number": 409,
+      "title": "Problem with reading",
+      "body": "### Steps to Reproduce\n\nChoose the Manga\nopen\nopen the chapter\n\n### Expected Outcome\n\nRead the whole chapter\n\n### Actual Outcome\n\nSometimes appears only the first page\n\n### Error Logs (if applicable)\n\n_No response_\n\n### AnymeX Version\n\nThe last\n\n### Operating System Version\n\nAndroid\n\n### Device Information\n\nSamsung galaxy 25 ultra\n\n### Additional Information\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "bug"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "rossy92",
+      "author_avatar": "https://avatars.githubusercontent.com/u/60351669?v=4",
+      "author_url": "https://github.com/rossy92",
+      "created_at": "2026-04-23T05:06:43Z",
+      "updated_at": "2026-04-23T05:06:55Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/409",
+      "linked_todo_id": null,
+      "platform": "android"
+    },
     {
       "number": 408,
       "title": "extension not install",
@@ -16,8 +76,8 @@
       "author_avatar": "https://avatars.githubusercontent.com/u/43543796?v=4",
       "author_url": "https://github.com/Al3ss107",
       "created_at": "2026-04-22T12:50:06Z",
-      "updated_at": "2026-04-22T12:50:18Z",
-      "comment_count": 1,
+      "updated_at": "2026-04-27T16:31:10Z",
+      "comment_count": 8,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/408",
       "linked_todo_id": null,
       "platform": "android"
