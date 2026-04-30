@@ -1,0 +1,878 @@
+{
+  "suggestions": {
+    "last_synced": "2026-04-30T04:21:53.733873",
+    "channel_id": "1496731497783099443",
+    "posts": [
+      {
+        "id": "1498758441257140294",
+        "title": "audio pause on play",
+        "content": "should make audio like dpotify etc pause when you start to watch something",
+        "content_raw": "should make audio like dpotify etc pause when you start to watch something",
+        "preview": "should make audio like dpotify etc pause when you start to watch something",
+        "author_id": "759363957482979340",
+        "author_name": "rememberlight",
+        "author_avatar": "https://cdn.discordapp.com/avatars/759363957482979340/33427918c1f7c5baa6d19bdf273c7abe.png?size=64",
+        "created_at": "2026-04-28T18:50:57.981000+00:00",
+        "created_at_fmt": "Apr 28, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": []
+      },
+      {
+        "id": "1498285653740486666",
+        "title": "Improve Library History Card",
+        "content": "Touch on Thumbnail to go into info page.\n\nTouch rest of the area to directly play the current episode like we currently do.",
+        "content_raw": "Touch on Thumbnail to go into info page.\n\nTouch rest of the area to directly play the current episode like we currently do.",
+        "preview": "Touch on Thumbnail to go into info page.\n\nTouch rest of the area to directly play the current episode like we currently ",
+        "author_id": "886674437448040489",
+        "author_name": "vkAwesome",
+        "author_avatar": "https://cdn.discordapp.com/avatars/886674437448040489/22a9942a7a1f5c5984bb5ee31ce590a5.png?size=64",
+        "created_at": "2026-04-27T11:32:16.653000+00:00",
+        "created_at_fmt": "Apr 27, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenshot_2026-04-27-16-59-00-404_com.ryan.anymexbeta-edit.jpg",
+            "content_type": "image/jpeg",
+            "width": 1280,
+            "height": 1703,
+            "size": 136194
+          }
+        ],
+        "messages": []
+      },
+      {
+        "id": "1497669545295478865",
+        "title": "Custom theme",
+        "content": "In custom theme section let us choose the colour from hex code and same for palette",
+        "content_raw": "In custom theme section let us choose the colour from hex code and same for palette",
+        "preview": "In custom theme section let us choose the colour from hex code and same for palette",
+        "author_id": "826730448688250890",
+        "author_name": "CosmicMaaw",
+        "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+        "created_at": "2026-04-25T18:44:04.953000+00:00",
+        "created_at_fmt": "Apr 25, 2026",
+        "message_count": 24,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenshot_20260426_001220.jpg",
+            "content_type": "image/jpeg",
+            "width": 1080,
+            "height": 2400,
+            "size": 97270
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "6 different colours in one type shi",
+            "content_raw": "6 different colours in one type shi",
+            "created_at": "2026-04-25T18:46:53.761000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "hex color def possible",
+            "content_raw": "hex color def possible",
+            "created_at": "2026-04-26T11:58:36.508000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "dont know about palette",
+            "content_raw": "dont know about palette",
+            "created_at": "2026-04-26T11:58:48.460000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Try hex first then and after its working look if palette is possible",
+            "content_raw": "Try hex first then and after its working look if palette is possible",
+            "created_at": "2026-04-26T12:01:12.310000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "any example hex colors you wanna gimme?",
+            "content_raw": "any example hex colors you wanna gimme?",
+            "created_at": "2026-04-26T12:16:34.549000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "🙏",
+            "content_raw": "🙏",
+            "created_at": "2026-04-26T12:25:55.663000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Sure thing",
+            "content_raw": "Sure thing",
+            "created_at": "2026-04-26T14:35:08.612000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Muted Gray — #AAB1BB\nSoft Off-White — #F0FAF7\nNeon Cyan — #00FFFF\nAlert Red — #FF0000\nDeep Blue-Black — #0A0F1F\nNeon Pink — #FF2E88",
+            "content_raw": "Muted Gray — #AAB1BB\nSoft Off-White — #F0FAF7\nNeon Cyan — #00FFFF\nAlert Red — #FF0000\nDeep Blue-Black — #0A0F1F\nNeon Pink — #FF2E88",
+            "created_at": "2026-04-26T14:38:05.280000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "ty",
+            "content_raw": "ty",
+            "created_at": "2026-04-26T14:47:19.805000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "I should have specified where to put and stuff mb",
+            "content_raw": "I should have specified where to put and stuff mb",
+            "created_at": "2026-04-26T14:48:09.306000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Will it come by next update?",
+            "content_raw": "Will it come by next update?",
+            "created_at": "2026-04-27T17:22:55.490000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "Stable or beta?",
+            "content_raw": "Stable or beta?",
+            "created_at": "2026-04-27T18:02:26.656000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "I'm using stable so",
+            "content_raw": "I'm using stable so",
+            "created_at": "2026-04-27T18:03:50.298000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "I can wait so just tell me when it's gonna come out",
+            "content_raw": "I can wait so just tell me when it's gonna come out",
+            "created_at": "2026-04-27T18:04:10.188000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "If I understand what you are asking for then most likely",
+            "content_raw": "If I understand what you are asking for then most likely",
+            "created_at": "2026-04-27T18:05:46.814000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "We are talking about the ability to set the custom theme color to a hex code right?",
+            "content_raw": "We are talking about the ability to set the custom theme color to a hex code right?",
+            "created_at": "2026-04-27T18:06:28.198000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Making our own custom colors on our own... Yeah",
+            "content_raw": "Making our own custom colors on our own... Yeah",
+            "created_at": "2026-04-27T18:07:54.156000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "I like customising things alot so that's why I'm asking this feature",
+            "content_raw": "I like customising things alot so that's why I'm asking this feature",
+            "created_at": "2026-04-27T18:08:16.440000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "Should be pretty easy then",
+            "content_raw": "Should be pretty easy then",
+            "created_at": "2026-04-27T18:08:37.317000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "If I survive my exams this week 😭",
+            "content_raw": "If I survive my exams this week 😭",
+            "created_at": "2026-04-27T18:08:46.969000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Take your time bruh and may kami sama be with you and give strength, memory and especially mental health for the exam... Honestly today was just maybe exam and I was watching anime till 2 30am hehe",
+            "content_raw": "Take your time bruh and may kami sama be with you and give strength, memory and especially mental health for the exam... Honestly today was just maybe exam and I was watching anime till 2 30am hehe",
+            "created_at": "2026-04-27T18:10:41.720000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "Thanks :)",
+            "content_raw": "Thanks :)",
+            "created_at": "2026-04-27T18:35:23.359000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "Watching till 2:30 on exam day is crazy",
+            "content_raw": "Watching till 2:30 on exam day is crazy",
+            "created_at": "2026-04-27T18:35:40.465000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Hehe",
+            "content_raw": "Hehe",
+            "created_at": "2026-04-27T18:35:55.190000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1497648485686579201",
+        "title": "Cast support",
+        "content": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
+        "content_raw": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
+        "preview": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
+        "author_id": "895131555608002560",
+        "author_name": "Cat",
+        "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+        "created_at": "2026-04-25T17:20:23.951000+00:00",
+        "created_at_fmt": "Apr 25, 2026",
+        "message_count": 7,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "content": "Okey will do....<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190595427434626.png?size=24\" alt=\":perfect:\" title=\":perfect:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Okey will do....<:perfect:1497190595427434626>",
+            "created_at": "2026-04-30T03:02:10.208000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "content": "/todo assign me",
+            "content_raw": "/todo assign me",
+            "created_at": "2026-04-30T03:02:26.986000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-04-30T03:02:30.510000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Need to add bot <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Need to add bot <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-04-30T03:06:27.515000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "content": "It was the Most useful feature",
+            "content_raw": "It was the Most useful feature",
+            "created_at": "2026-04-30T03:43:27.836000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "content": "And u didn't",
+            "content_raw": "And u didn't",
+            "created_at": "2026-04-30T03:43:30.754000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-04-30T03:43:32.401000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1496926423024144485",
+        "title": "Unified service",
+        "content": "A combined service section where we can access all contents of anilist , mal , simkl and extensions",
+        "content_raw": "A combined service section where we can access all contents of anilist , mal , simkl and extensions",
+        "preview": "A combined service section where we can access all contents of anilist , mal , simkl and extensions",
+        "author_id": "943387736457490462",
+        "author_name": "AxU",
+        "author_avatar": "https://cdn.discordapp.com/avatars/943387736457490462/57d5189e5aeca960edc1a154450341ac.png?size=64",
+        "created_at": "2026-04-23T17:31:10.797000+00:00",
+        "created_at_fmt": "Apr 23, 2026",
+        "message_count": 24,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "I rejected this in the previous server",
+            "content_raw": "I rejected this in the previous server",
+            "created_at": "2026-04-23T17:35:10.917000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Will gwt rejected again here too",
+            "content_raw": "Will gwt rejected again here too",
+            "created_at": "2026-04-23T17:35:18.940000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "AxU",
+            "author_avatar": "https://cdn.discordapp.com/avatars/943387736457490462/57d5189e5aeca960edc1a154450341ac.png?size=64",
+            "content": "...",
+            "content_raw": "...",
+            "created_at": "2026-04-24T03:47:39.782000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "AxU",
+            "author_avatar": "https://cdn.discordapp.com/avatars/943387736457490462/57d5189e5aeca960edc1a154450341ac.png?size=64",
+            "content": "Ill ask again and again , i literally want this thing so badly 😭",
+            "content_raw": "Ill ask again and again , i literally want this thing so badly 😭",
+            "created_at": "2026-04-24T03:48:11.262000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Add it yourself \nAlso you would probably get banned for asking it again and again",
+            "content_raw": "Add it yourself \nAlso you would probably get banned for asking it again and again",
+            "created_at": "2026-04-24T03:50:44.742000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "😂",
+            "content_raw": "😂",
+            "created_at": "2026-04-24T03:50:47.146000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "AxU",
+            "author_avatar": "https://cdn.discordapp.com/avatars/943387736457490462/57d5189e5aeca960edc1a154450341ac.png?size=64",
+            "content": "Dude whyyy ...",
+            "content_raw": "Dude whyyy ...",
+            "created_at": "2026-04-24T04:52:00.753000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "You want the app to download 100-200mb of data everytime you open jt? \n\n\nThat's the reply <span class=\"discord-mention discord-mention-user\">@Aayush</span> made when I asked him to do it for Dartotsu in 2024",
+            "content_raw": "You want the app to download 100-200mb of data everytime you open jt? \n\n\nThat's the reply <@918825160654598224> made when I asked him to do it for Dartotsu in 2024",
+            "created_at": "2026-04-24T14:26:11.644000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Speaking from experience fr",
+            "content_raw": "Speaking from experience fr",
+            "created_at": "2026-04-24T14:28:02.705000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Yh and already rejected this suggestion in the previous server but bro thinks making it here again will make ryan to add it 😭",
+            "content_raw": "Yh and already rejected this suggestion in the previous server but bro thinks making it here again will make ryan to add it 😭",
+            "created_at": "2026-04-24T14:29:12.301000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Even if he does most mobile user without wifi won't be using it anyway",
+            "content_raw": "Even if he does most mobile user without wifi won't be using it anyway",
+            "created_at": "2026-04-24T14:29:32.071000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Aayush",
+            "author_avatar": "https://cdn.discordapp.com/avatars/918825160654598224/ca951b008928d14a727dacaaf121cb4c.png?size=64",
+            "content": "100 mb🤨 did I say that much \n\nIt's just when you unify services every service and every extension will send requests all together even if you don't use it and it's not a good practice",
+            "content_raw": "100 mb🤨 did I say that much \n\nIt's just when you unify services every service and every extension will send requests all together even if you don't use it and it's not a good practice",
+            "created_at": "2026-04-24T15:12:23.241000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "U said more",
+            "content_raw": "U said more",
+            "created_at": "2026-04-24T15:13:09.834000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Ig",
+            "content_raw": "Ig",
+            "created_at": "2026-04-24T15:13:11.290000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Idont remember",
+            "content_raw": "Idont remember",
+            "created_at": "2026-04-24T15:13:13.970000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "It was 2 yrs ago",
+            "content_raw": "It was 2 yrs ago",
+            "created_at": "2026-04-24T15:13:17.895000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Actually 100 mb is way too much it won't be going even higher than 5 if i exclude extensions service",
+            "content_raw": "Actually 100 mb is way too much it won't be going even higher than 5 if i exclude extensions service",
+            "created_at": "2026-04-24T16:09:25.065000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Tbh this was said by aayush in 2024 \n\nAlot happened after that so ig 100mb was over statment",
+            "content_raw": "Tbh this was said by aayush in 2024 \n\nAlot happened after that so ig 100mb was over statment",
+            "created_at": "2026-04-24T16:10:52.836000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "So are you considering this, or rejecting it",
+            "content_raw": "So are you considering this, or rejecting it",
+            "created_at": "2026-04-24T16:13:10.124000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "I wonder how it will look tho",
+            "content_raw": "I wonder how it will look tho",
+            "created_at": "2026-04-24T16:13:46.180000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Might've said it in a sarcastic way",
+            "content_raw": "Might've said it in a sarcastic way",
+            "created_at": "2026-04-24T16:13:53.877000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Which one will have priority",
+            "content_raw": "Which one will have priority",
+            "created_at": "2026-04-24T16:14:00.951000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "I'd say just keep it might do it later but not in my todo list rn",
+            "content_raw": "I'd say just keep it might do it later but not in my todo list rn",
+            "created_at": "2026-04-24T16:14:30.347000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Okay",
+            "content_raw": "Okay",
+            "created_at": "2026-04-24T16:14:54.252000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1496767837224702003",
+        "title": "Sync backups from other forks",
+        "content": "It's more like a question than a suggestion that can we sync our anime list or manga list from other forks like anikku, kotatsu-redo and others?\nIf this is possible then shifting everything from other forks would be nice.",
+        "content_raw": "It's more like a question than a suggestion that can we sync our anime list or manga list from other forks like anikku, kotatsu-redo and others?\nIf this is possible then shifting everything from other forks would be nice.",
+        "preview": "It's more like a question than a suggestion that can we sync our anime list or manga list from other forks like anikku, ",
+        "author_id": "895131555608002560",
+        "author_name": "Cat",
+        "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+        "created_at": "2026-04-23T07:01:00.996000+00:00",
+        "created_at_fmt": "Apr 23, 2026",
+        "message_count": 4,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Ni",
+            "content_raw": "Ni",
+            "created_at": "2026-04-23T07:03:56.064000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "*no",
+            "content_raw": "*no",
+            "created_at": "2026-04-23T07:03:59.226000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Possible but will be messy i think",
+            "content_raw": "Possible but will be messy i think",
+            "created_at": "2026-04-23T07:05:23.326000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Oww okie",
+            "content_raw": "Oww okie",
+            "created_at": "2026-04-23T07:21:36.979000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1496745229976338543",
+        "title": "Notification",
+        "content": "Notification for both anime and manga whenever a new ep or chapter drops that way you don't need to open and close every anime/manga to see if new ep or chapter came",
+        "content_raw": "Notification for both anime and manga whenever a new ep or chapter drops that way you don't need to open and close every anime/manga to see if new ep or chapter came",
+        "preview": "Notification for both anime and manga whenever a new ep or chapter drops that way you don't need to open and close every",
+        "author_id": "826730448688250890",
+        "author_name": "CosmicMaaw",
+        "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+        "created_at": "2026-04-23T05:31:11.008000+00:00",
+        "created_at_fmt": "Apr 23, 2026",
+        "message_count": 10,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "IMG_20260423_105936.jpg",
+            "content_type": "image/jpeg",
+            "width": 1080,
+            "height": 2400,
+            "size": 140190
+          },
+          {
+            "filename": "IMG_20260423_105956.jpg",
+            "content_type": "image/jpeg",
+            "width": 1080,
+            "height": 2400,
+            "size": 113582
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "This will require app to be running on background at all times",
+            "content_raw": "This will require app to be running on background at all times",
+            "created_at": "2026-04-23T07:05:03.218000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Or it will show notification on next app open",
+            "content_raw": "Or it will show notification on next app open",
+            "created_at": "2026-04-23T07:05:12.401000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Battery draining issues huh then put it as toggle off and on for people who don't want it can turn it off... Easier said than done ig",
+            "content_raw": "Battery draining issues huh then put it as toggle off and on for people who don't want it can turn it off... Easier said than done ig",
+            "created_at": "2026-04-23T07:09:02.872000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Just add alarm scheduler",
+            "content_raw": "Just add alarm scheduler",
+            "created_at": "2026-04-23T08:02:04.580000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Also he's asking for subscription",
+            "content_raw": "Also he's asking for subscription",
+            "created_at": "2026-04-23T08:02:12.818000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Feat not notif",
+            "content_raw": "Feat not notif",
+            "created_at": "2026-04-23T08:02:21.029000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Notif will fall under service",
+            "content_raw": "Notif will fall under service",
+            "created_at": "2026-04-23T08:02:29.765000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "While sub gives notifs if the source has the stuff",
+            "content_raw": "While sub gives notifs if the source has the stuff",
+            "created_at": "2026-04-23T08:02:42.468000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Wait it falls infer subscription?",
+            "content_raw": "Wait it falls infer subscription?",
+            "created_at": "2026-04-23T08:02:52.343000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "Under*",
+            "content_raw": "Under*",
+            "created_at": "2026-04-23T08:04:11.023000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1499238858968141840",
+        "title": "Auto-Sync across trackers",
+        "content": "There are some people who use both Anilist and MAL, but mostly use one, is there a way to sync changes to either of these services to reflect to the other, since Anilist has more data while MAL is most widely used (at-least the people I know)\n\nI’ve heard of a chrome extension but it stoped working for me like an year ago",
+        "content_raw": "There are some people who use both Anilist and MAL, but mostly use one, is there a way to sync changes to either of these services to reflect to the other, since Anilist has more data while MAL is most widely used (at-least the people I know)\n\nI’ve heard of a chrome extension but it stoped working for me like an year ago",
+        "preview": "There are some people who use both Anilist and MAL, but mostly use one, is there a way to sync changes to either of thes",
+        "author_id": "850681931774427166",
+        "author_name": "Qwertyz0",
+        "author_avatar": "https://cdn.discordapp.com/avatars/850681931774427166/1191b2948bb60fac3fbc18a21886969b.png?size=64",
+        "created_at": "2026-04-30T02:39:58.489000+00:00",
+        "created_at_fmt": "Apr 30, 2026",
+        "message_count": 4,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "Already Available"
+        ],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sheby</span> dlt asking questions in suggestions",
+            "content_raw": "<@612532963938271232> dlt asking questions in suggestions",
+            "created_at": "2026-04-30T02:42:51.294000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Qwertyz0",
+            "author_avatar": "https://cdn.discordapp.com/avatars/850681931774427166/1191b2948bb60fac3fbc18a21886969b.png?size=64",
+            "content": "I’m saying it would be good to have such a feature if possible",
+            "content_raw": "I’m saying it would be good to have such a feature if possible",
+            "created_at": "2026-04-30T02:43:54.451000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Already available and its working.",
+            "content_raw": "Already available and its working.",
+            "created_at": "2026-04-30T02:44:10.561000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "It's more like suggestion <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">  \n\n<span class=\"discord-mention discord-mention-user\">@Qwertyz0</span> just login (both) and watch/read if its available on other it will be Sync.",
+            "content_raw": "It's more like suggestion <:PepeCrybaby:1497164342372601926>  \n\n<@850681931774427166> just login (both) and watch/read if its available on other it will be Sync.",
+            "created_at": "2026-04-30T02:47:50.466000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1497606315579674694",
+        "title": "New feature",
+        "content": "Hey, I have a feature idea for Anymex.\nIt would be a tool to help people who make edits. While watching an anime, users could mark specific timestamps or clip ranges they want to use (for example, from one moment to another).\nThen, they could save those clips as visual notes — not just text, but something more organized and aesthetic, with colors, layouts, and maybe thumbnails.\nIt would basically work like a built-in workspace to plan edits before actually making them.\nAlso, this wouldn’t require including or redistributing any video content, just saving timestamps and notes, so it should avoid copyright issues.",
+        "content_raw": "Hey, I have a feature idea for Anymex.\nIt would be a tool to help people who make edits. While watching an anime, users could mark specific timestamps or clip ranges they want to use (for example, from one moment to another).\nThen, they could save those clips as visual notes — not just text, but something more organized and aesthetic, with colors, layouts, and maybe thumbnails.\nIt would basically work like a built-in workspace to plan edits before actually making them.\nAlso, this wouldn’t require including or redistributing any video content, just saving timestamps and notes, so it should avoid copyright issues.",
+        "preview": "Hey, I have a feature idea for Anymex.\nIt would be a tool to help people who make edits. While watching an anime, users ",
+        "author_id": "921969797850349641",
+        "author_name": "Ivann",
+        "author_avatar": "https://cdn.discordapp.com/avatars/921969797850349641/4f002b4e3aa60e2f43ab5b8430e99085.png?size=64",
+        "created_at": "2026-04-25T14:32:49.814000+00:00",
+        "created_at_fmt": "Apr 25, 2026",
+        "message_count": 8,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [
+          "❌ Rejected"
+        ],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Out of scope",
+            "content_raw": "Out of scope",
+            "created_at": "2026-04-25T14:39:04.179000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Will get rejected",
+            "content_raw": "Will get rejected",
+            "created_at": "2026-04-25T14:39:07.190000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Anyway",
+            "content_raw": "Anyway",
+            "created_at": "2026-04-25T14:39:10.073000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "We are debloating the app",
+            "content_raw": "We are debloating the app",
+            "created_at": "2026-04-25T14:39:19.302000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ayanokōji",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1331083395614380090/b85b30a12038f51ad7b31a34cd52c2ae.png?size=64",
+            "content": "I feel conflicted about this, idk why",
+            "content_raw": "I feel conflicted about this, idk why",
+            "created_at": "2026-04-25T14:45:39.484000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Ok nvm I read it wrong but yh I don't think it will get added",
+            "content_raw": "Ok nvm I read it wrong but yh I don't think it will get added",
+            "created_at": "2026-04-25T15:17:46.896000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "This same thing was suggested before and got rejected \nWhy do people think remaking the same suggestion in the new server will get it added 😭",
+            "content_raw": "This same thing was suggested before and got rejected \nWhy do people think remaking the same suggestion in the new server will get it added 😭",
+            "created_at": "2026-04-25T15:18:20.274000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "```feature: mark timestamps/clip ranges while watching anime and save them as organized visual notes for planning edits (no actual video saving, just metadata).```\n\n\n<span class=\"discord-mention discord-mention-user\">@Sheby</span> <span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> \nP.S. was already rejected by us in previous server",
+            "content_raw": "```feature: mark timestamps/clip ranges while watching anime and save them as organized visual notes for planning edits (no actual video saving, just metadata).```\n\n\n<@612532963938271232> <@535831876766793738> \nP.S. was already rejected by us in previous server",
+            "created_at": "2026-04-25T15:20:44.740000+00:00",
+            "attachments": []
+          }
+        ]
+      }
+    ]
+  }
+}
