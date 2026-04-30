@@ -26,32 +26,6 @@
     ]
   },
   {
-    "id": 5,
-    "title": "Add Anilist Settings",
-    "auto_generated": true,
-    "ai_description": "Implement more Anilist settings",
-    "status": "in_progress",
-    "priority": "medium",
-    "added_by_id": "612532963938271232",
-    "added_by_name": "asheby",
-    "assigned_to_id": "1474618752912851064",
-    "assigned_to_name": "nithinspacetime",
-    "created_at": "2026-03-26T07:57:03.361298+00:00",
-    "updated_at": "2026-03-29T18:35:35.698634",
-    "source_message_ids": [
-      "1480966482665017355"
-    ],
-    "source_message_links": [
-      "https://discord.com/channels/1303000390505336893/1467831066994938049/1480966482665017355"
-    ],
-    "source_message_text": "feat:  more anilist settings",
-    "source_images": [],
-    "source_files": [],
-    "last_reminded_at": "2026-04-04T15:54:31.608685+00:00",
-    "linked_forum_thread_id": "1485905018782486549",
-    "linked_forum_type": "suggestions"
-  },
-  {
     "id": 6,
     "title": "Implement item hiding",
     "auto_generated": true,
