@@ -370,20 +370,21 @@
     "id": 32,
     "title": "Cast support",
     "ai_description": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
-    "status": "todo",
+    "status": "in_progress",
     "priority": "medium",
     "tags": [
       "feat"
     ],
-    "assigned_to_id": null,
+    "assigned_to_id": "1474618752912851064",
     "due_date": null,
     "added_by_id": "612532963938271232",
     "added_by": "asheby",
     "created_at": "2026-04-30T04:31:13.380833",
-    "updated_at": "2026-04-30T04:31:13.380844",
+    "updated_at": "2026-04-30T04:31:59.124192+00:00",
     "auto_generated": false,
     "source": "web_dashboard",
     "linked_forum_thread_id": "1497648485686579201",
-    "linked_forum_type": "suggestion"
+    "linked_forum_type": "suggestion",
+    "assigned_to_name": "nithinspacetime"
   }
 ]
