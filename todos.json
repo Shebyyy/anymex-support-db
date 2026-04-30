@@ -365,5 +365,25 @@
     "source_files": [
       "https://cdn.discordapp.com/attachments/1313096878988066817/1489900220568305714/ScreenRecording_04-04-2026_10-07-19_1.mov?ex=69d21935&is=69d0c7b5&hm=0fce90417278b5c650579ad8699e499ee4cd60415b7959bc9af2f3d8531dfd15&"
     ]
+  },
+  {
+    "id": 32,
+    "title": "Cast support",
+    "ai_description": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
+    "status": "todo",
+    "priority": "medium",
+    "tags": [
+      "feat"
+    ],
+    "assigned_to_id": null,
+    "due_date": null,
+    "added_by_id": "612532963938271232",
+    "added_by": "asheby",
+    "created_at": "2026-04-30T04:31:13.380833",
+    "updated_at": "2026-04-30T04:31:13.380844",
+    "auto_generated": false,
+    "source": "web_dashboard",
+    "linked_forum_thread_id": "1497648485686579201",
+    "linked_forum_type": "suggestion"
   }
 ]
