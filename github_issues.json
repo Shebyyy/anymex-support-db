@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-04-29T09:47:55.527834",
+  "last_synced": "2026-04-30T04:14:14.415629",
   "repo": "RyanYuuki/AnymeX",
   "issues": [
     {
@@ -321,26 +321,6 @@
       "updated_at": "2026-03-27T17:56:16Z",
       "comment_count": 4,
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/165",
-      "linked_todo_id": null,
-      "platform": ""
-    },
-    {
-      "number": 33,
-      "title": "sorting options for anime/manga list.",
-      "body": "### Feature Summary\n\nSorting for the list only allows you to sort by last updated, either from greatest to smallest or vice versa. However, we currently lack features to sort alphabetically, by chapters/episodes remaining, unread count, latest chapter update, user score, or even randomly.\n\n### Detailed Description\n\n### Current Behavior\r\nSorting for the list only allows sorting by last updated, either from greatest to smallest or vice versa. No other sorting options are currently available.\r\n\r\n### Proposed Solution\r\nIntroduce additional sorting features to enhance user experience. These should include:\r\n\r\n    Alphabetical sorting.\r\n    Sorting by chapters/episodes remaining.\r\n    Sorting by unread count.\r\n    Sorting by the latest chapter update.\r\n    Sorting by user score.\r\n    A random sorting option.\r\n\r\n### Considerations\r\na dropdown menu when you click sort might be nice\r\n\n\n### Additional Context\n\nThe mihon app really does this well but it doesent look as nice as your work so meybe take insperation from their utility? \n\n### Submission Checklist\n\n- [X] I have searched the existing issues and confirm that this feature has not been requested before.\n- [X] I have provided a clear and descriptive title.\n- [X] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [X] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.",
-      "labels": [
-        "enhancement"
-      ],
-      "state": "open",
-      "assignees": [],
-      "assignee_avatars": [],
-      "author": "GodsTitan",
-      "author_avatar": "https://avatars.githubusercontent.com/u/55841188?v=4",
-      "author_url": "https://github.com/GodsTitan",
-      "created_at": "2024-12-11T09:24:57Z",
-      "updated_at": "2024-12-11T09:25:16Z",
-      "comment_count": 1,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/33",
       "linked_todo_id": null,
       "platform": ""
     }
