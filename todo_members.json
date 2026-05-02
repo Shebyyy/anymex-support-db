@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-04-30T04:57:17.600669",
+  "last_synced": "2026-05-02T10:35:52.268416",
   "guild_id": "1496377698837069875",
   "members": [
     {
@@ -36,7 +36,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-23T06:24:46.856000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
     },
     {
       "id": "523539866311720963",
@@ -68,7 +68,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-23T06:13:44.343000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
     },
     {
       "id": "535831876766793738",
@@ -98,7 +98,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T05:10:53.419000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
     },
     {
       "id": "612532963938271232",
@@ -136,14 +136,14 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T05:13:48.249000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
     },
     {
       "id": "617537674084876318",
       "username": "rieversed",
       "global_name": "Rieversed 🌠",
-      "nick": "",
-      "display_name": "Rieversed 🌠",
+      "nick": "anymex slave 👌",
+      "display_name": "anymex slave 👌",
       "avatar_url": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=128",
       "roles": [
         "1497082688417300611",
@@ -172,7 +172,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-23T05:22:03.575000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
     },
     {
       "id": "918825160654598224",
@@ -200,14 +200,14 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T14:06:35.887000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
     },
     {
       "id": "944635185423597698",
       "username": "notsap7",
       "global_name": "Sap",
-      "nick": "AnymeX Co-Owner 😏",
-      "display_name": "AnymeX Co-Owner 😏",
+      "nick": "Sap [AnymeX Co-Owner 😏]",
+      "display_name": "Sap [AnymeX Co-Owner 😏]",
       "avatar_url": "https://cdn.discordapp.com/avatars/944635185423597698/1d4e2d21fa0a9ccca8f7599b088c3f8c.png?size=128",
       "roles": [
         "1496581599557582950",
@@ -234,14 +234,42 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T09:30:58.450000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
+    },
+    {
+      "id": "1400504783097561098",
+      "username": "asheby_2",
+      "global_name": "ASheby",
+      "nick": "",
+      "display_name": "ASheby",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1400504783097561098/5d005022c96ccd80f7c18a39cf3387c9.png?size=128",
+      "roles": [
+        "1496741554994548776",
+        "1498530528343621864",
+        "1496768971096064140",
+        "1496744982055223408",
+        "1497087929020059668",
+        "1496771866986287134"
+      ],
+      "role_names": [
+        "AnymeX",
+        "comment mod",
+        "Beta Update",
+        "Contributor",
+        "OG",
+        "Stable Update"
+      ],
+      "is_admin": false,
+      "is_todo_role": true,
+      "joined_at": "2026-04-24T00:40:22.531000+00:00",
+      "synced_at": "2026-05-02T10:35:52.268416"
     },
     {
       "id": "1474618752912851064",
       "username": "nithinspacetime",
       "global_name": "nithinspacetime",
-      "nick": "Sap’s Master",
-      "display_name": "Sap’s Master",
+      "nick": "Spa",
+      "display_name": "Spa",
       "avatar_url": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=128",
       "roles": [
         "1497082650605785159",
@@ -268,8 +296,8 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T14:06:56.372000+00:00",
-      "synced_at": "2026-04-30T04:57:17.600669"
+      "synced_at": "2026-05-02T10:35:52.268416"
     }
   ],
-  "total": 443
+  "total": 466
 }
