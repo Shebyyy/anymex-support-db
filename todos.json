@@ -246,14 +246,14 @@
     "title": "Fix TTS Highlights",
     "auto_generated": true,
     "ai_description": "Fix skipping highlights in TTS",
-    "status": "todo",
+    "status": "in_progress",
     "priority": "medium",
     "added_by_id": "612532963938271232",
     "added_by_name": "asheby",
-    "assigned_to_id": null,
-    "assigned_to_name": null,
+    "assigned_to_id": "847701329534386216",
+    "assigned_to_name": "nitenerd",
     "created_at": "2026-03-26T08:14:59.508222+00:00",
-    "updated_at": "2026-03-26T08:14:59.508235+00:00",
+    "updated_at": "2026-05-03T12:01:29.638921+00:00",
     "source_message_ids": [
       "1482057722378850414"
     ],
