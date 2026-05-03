@@ -148,14 +148,14 @@
     "title": "Fix Chapter Card Display",
     "auto_generated": true,
     "ai_description": "Display scanlator name instead of extension name",
-    "status": "todo",
+    "status": "in_progress",
     "priority": "medium",
     "added_by_id": "612532963938271232",
     "added_by_name": "asheby",
-    "assigned_to_id": null,
-    "assigned_to_name": null,
+    "assigned_to_id": "1474618752912851064",
+    "assigned_to_name": "nithinspacetime",
     "created_at": "2026-03-26T08:01:12.448070+00:00",
-    "updated_at": "2026-03-26T08:01:12.448082+00:00",
+    "updated_at": "2026-05-03T12:00:37.158102+00:00",
     "source_message_ids": [
       "1480975469246545970"
     ],
