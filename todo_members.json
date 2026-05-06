@@ -1,5 +1,5 @@
 {
-  "last_synced": "2026-05-03T12:29:59.356136",
+  "last_synced": "2026-05-06T21:37:36.232333",
   "guild_id": "1496377698837069875",
   "members": [
     {
@@ -8,7 +8,7 @@
       "global_name": "This is War Huh Wow",
       "nick": "cOnFuSed",
       "display_name": "cOnFuSed",
-      "avatar_url": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=128",
+      "avatar_url": "https://cdn.discordapp.com/avatars/150865547922243584/4f8a111d83bccc124f5059dbdde5c2fd.png?size=128",
       "roles": [
         "1497082688417300611",
         "1496741554994548776",
@@ -36,7 +36,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-23T06:24:46.856000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "523539866311720963",
@@ -68,7 +68,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-23T06:13:44.343000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "535831876766793738",
@@ -98,7 +98,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T05:10:53.419000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "612532963938271232",
@@ -136,7 +136,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T05:13:48.249000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "617537674084876318",
@@ -172,7 +172,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-23T05:22:03.575000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "918825160654598224",
@@ -200,7 +200,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T14:06:35.887000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "944635185423597698",
@@ -234,7 +234,7 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T09:30:58.450000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "1400504783097561098",
@@ -262,15 +262,15 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-24T00:40:22.531000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     },
     {
       "id": "1474618752912851064",
       "username": "nithinspacetime",
       "global_name": "nithinspacetime",
-      "nick": "Spa",
-      "display_name": "Spa",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=128",
+      "nick": "itsmechinmoy",
+      "display_name": "itsmechinmoy",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=128",
       "roles": [
         "1497082650605785159",
         "1496741554994548776",
@@ -296,8 +296,8 @@
       "is_admin": false,
       "is_todo_role": true,
       "joined_at": "2026-04-22T14:06:56.372000+00:00",
-      "synced_at": "2026-05-03T12:29:59.356136"
+      "synced_at": "2026-05-06T21:37:36.232333"
     }
   ],
-  "total": 478
+  "total": 520
 }
