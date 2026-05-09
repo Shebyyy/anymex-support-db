@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "last_synced": "2026-04-30T04:54:29.352716",
+    "last_synced": "2026-05-09T04:24:16.135079",
     "channel_id": "1496731451880640563",
     "posts": [
       {
@@ -14,7 +14,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/1094238826861428747/a75c08c595da713cfdfd4249b6b3dbaa.png?size=64",
         "created_at": "2026-04-29T12:26:30.226000+00:00",
         "created_at_fmt": "Apr 29, 2026",
-        "message_count": 4,
+        "message_count": 8,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -61,6 +61,38 @@
                 "size": 55492
               }
             ]
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "try a different extension",
+            "content_raw": "try a different extension",
+            "created_at": "2026-05-08T13:51:22.272000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "its talking about requiring a captcha",
+            "content_raw": "its talking about requiring a captcha",
+            "created_at": "2026-05-08T13:51:43.062000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "and we dont have the ability to save cookies and complete captchas in app webview yet",
+            "content_raw": "and we dont have the ability to save cookies and complete captchas in app webview yet",
+            "created_at": "2026-05-08T13:52:20.872000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Rieversed 🌠",
+            "author_avatar": "https://cdn.discordapp.com/avatars/617537674084876318/e00731a7dccffba80e77006950b5344d.png?size=64",
+            "content": "in short use a diff extension until we add the ability to complete captchas",
+            "content_raw": "in short use a diff extension until we add the ability to complete captchas",
+            "created_at": "2026-05-08T13:52:47.671000+00:00",
+            "attachments": []
           }
         ]
       },
@@ -272,7 +304,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/719602355921879123/8067ba96a12c1edbdb5759422cb7e9cc.png?size=64",
         "created_at": "2026-04-25T21:28:48.500000+00:00",
         "created_at_fmt": "Apr 25, 2026",
-        "message_count": 39,
+        "message_count": 42,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -298,7 +330,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "they are working tho",
             "content_raw": "they are working tho",
             "created_at": "2026-04-29T10:21:03.189000+00:00",
@@ -338,7 +370,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "but babe i can't recreate it [Dartotsu_SmirkHEHEHE](https://cdn.discordapp.com/emojis/1327198610227728424.webp?size=48&animated=true&name=Dartotsu_SmirkHEHEHE&lossless=true)",
             "content_raw": "but babe i can't recreate it [Dartotsu_SmirkHEHEHE](https://cdn.discordapp.com/emojis/1327198610227728424.webp?size=48&animated=true&name=Dartotsu_SmirkHEHEHE&lossless=true)",
             "created_at": "2026-04-29T15:02:21.177000+00:00",
@@ -354,7 +386,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "https://files.catbox.moe/o234l0.mp4",
             "content_raw": "https://files.catbox.moe/o234l0.mp4",
             "created_at": "2026-04-29T15:11:08.139000+00:00",
@@ -362,7 +394,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "it works for me tags..... u must be on bugged version , update",
             "content_raw": "it works for me tags..... u must be on bugged version , update",
             "created_at": "2026-04-29T15:11:22.270000+00:00",
@@ -378,7 +410,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "okey then update the app and try",
             "content_raw": "okey then update the app and try",
             "created_at": "2026-04-29T15:12:16.764000+00:00",
@@ -386,7 +418,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "maybe try beta",
             "content_raw": "maybe try beta",
             "created_at": "2026-04-29T15:12:22.187000+00:00",
@@ -394,7 +426,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "as u can see it works <span class=\"discord-mention discord-mention-user\">@Eyepatch</span> , still any prob, message !!",
             "content_raw": "as u can see it works <@719602355921879123> , still any prob, message !!",
             "created_at": "2026-04-29T15:13:06.469000+00:00",
@@ -426,7 +458,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "use the 3.0.7 version",
             "content_raw": "use the 3.0.7 version",
             "created_at": "2026-04-29T15:26:42.860000+00:00",
@@ -434,7 +466,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "it should work",
             "content_raw": "it should work",
             "created_at": "2026-04-29T15:26:45.252000+00:00",
@@ -442,7 +474,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "babe",
             "content_raw": "babe",
             "created_at": "2026-04-29T15:26:56.998000+00:00",
@@ -458,7 +490,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "[what~2](https://cdn.discordapp.com/emojis/1171836410534314085.webp?size=48&name=what%7E2&lossless=true)",
             "content_raw": "[what~2](https://cdn.discordapp.com/emojis/1171836410534314085.webp?size=48&name=what%7E2&lossless=true)",
             "created_at": "2026-04-29T15:28:07.070000+00:00",
@@ -474,7 +506,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "u mean  u had errors for \"only extentions\", fuck me sorry  i didn;t check for them ......... for them i think there is issue",
             "content_raw": "u mean  u had errors for \"only extentions\", fuck me sorry  i didn;t check for them ......... for them i think there is issue",
             "created_at": "2026-04-29T15:33:50.440000+00:00",
@@ -482,7 +514,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "will fix if i see anything",
             "content_raw": "will fix if i see anything",
             "created_at": "2026-04-29T15:33:55.538000+00:00",
@@ -490,7 +522,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "[soAss](https://cdn.discordapp.com/emojis/1364533038758891610.webp?size=48&name=soAss&lossless=true)",
             "content_raw": "[soAss](https://cdn.discordapp.com/emojis/1364533038758891610.webp?size=48&name=soAss&lossless=true)",
             "created_at": "2026-04-29T15:33:59.919000+00:00",
@@ -522,7 +554,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
             "content": "will fix, thanks for reporting",
             "content_raw": "will fix, thanks for reporting",
             "created_at": "2026-04-29T15:37:22.158000+00:00",
@@ -591,6 +623,30 @@
             "content_raw": "https://discord.com/channels/1496377698837069875/1497710999896068157/1499091106254684160\n\nDas y i said this",
             "created_at": "2026-04-29T17:39:34.505000+00:00",
             "attachments": []
+          },
+          {
+            "author_name": "Eyepatch",
+            "author_avatar": "https://cdn.discordapp.com/avatars/719602355921879123/8067ba96a12c1edbdb5759422cb7e9cc.png?size=64",
+            "content": "Maybe coz it works only in anilist service not the others",
+            "content_raw": "Maybe coz it works only in anilist service not the others",
+            "created_at": "2026-05-01T05:04:08.705000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "cause somethng like ths isnt implemented for extensions",
+            "content_raw": "cause somethng like ths isnt implemented for extensions",
+            "created_at": "2026-05-01T10:14:57.236000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Eyepatch",
+            "author_avatar": "https://cdn.discordapp.com/avatars/719602355921879123/8067ba96a12c1edbdb5759422cb7e9cc.png?size=64",
+            "content": "Not mal too?",
+            "content_raw": "Not mal too?",
+            "created_at": "2026-05-01T18:48:06.662000+00:00",
+            "attachments": []
           }
         ]
       },
@@ -605,7 +661,7 @@
         "author_avatar": "https://cdn.discordapp.com/avatars/778503249619058689/5e1cd37e9473c7bc8ca164fe4f985e87.png?size=64",
         "created_at": "2026-04-25T16:57:21.442000+00:00",
         "created_at_fmt": "Apr 25, 2026",
-        "message_count": 2,
+        "message_count": 5,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -638,10 +694,34 @@
           },
           {
             "author_name": "This is War Huh Wow",
-            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/1c140fb59cf74407aa213de884d305a8.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/150865547922243584/4f8a111d83bccc124f5059dbdde5c2fd.png?size=64",
             "content": "Finna someone reported it properly <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190580344586422.png?size=24\" alt=\":hmmm:\" title=\":hmmm:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
             "content_raw": "Finna someone reported it properly <:hmmm:1497190580344586422>",
             "created_at": "2026-04-26T12:35:35.069000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Meat_King",
+            "author_avatar": "https://cdn.discordapp.com/avatars/911000652426145872/d71277aae56a078ad10d192e09f3f23e.png?size=64",
+            "content": "Bro who added that useless recommendation button",
+            "content_raw": "Bro who added that useless recommendation button",
+            "created_at": "2026-05-01T18:11:27.401000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sheby</span> someone talking he re",
+            "content_raw": "<@612532963938271232> someone talking he re",
+            "created_at": "2026-05-01T18:37:17.228000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-01T18:45:17.912000+00:00",
             "attachments": []
           }
         ]
@@ -1048,6 +1128,180 @@
             "attachments": []
           }
         ]
+      },
+      {
+        "id": "1502280121678172231",
+        "title": "Ext installation",
+        "content": "The islands are installing and updating but isn't appearing in the installation and also can't be used",
+        "content_raw": "The islands are installing and updating but isn't appearing in the installation and also can't be used",
+        "preview": "The islands are installing and updating but isn't appearing in the installation and also can't be used",
+        "author_id": "826730448688250890",
+        "author_name": "CosmicMaaw",
+        "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+        "created_at": "2026-05-08T12:04:52.023000+00:00",
+        "created_at_fmt": "May 08, 2026",
+        "message_count": 1,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenrecording_20260508_173143.mp4",
+            "content_type": "video/mp4",
+            "width": 480,
+            "height": 1056,
+            "size": 9673989
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "CosmicMaaw",
+            "author_avatar": "https://cdn.discordapp.com/avatars/826730448688250890/2e65ec12a5b4bd06f3172658559b3dc8.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-05-08T12:05:17.850000+00:00",
+            "attachments": [
+              {
+                "filename": "app_logs.txt",
+                "content_type": "text/plain; charset=utf-8",
+                "width": null,
+                "height": null,
+                "size": 4592
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1500107560978747512",
+        "title": "Option to set preferred language on softsubs",
+        "content": "Whenever i watch animes with softsubs it is always set to none. I had to select to a sub manually. As I prefer watching with the softsub, it would be great to either preselect English or somewhere in settings had option to set subtitle on with preferred language subtitle option.",
+        "content_raw": "Whenever i watch animes with softsubs it is always set to none. I had to select to a sub manually. As I prefer watching with the softsub, it would be great to either preselect English or somewhere in settings had option to set subtitle on with preferred language subtitle option.",
+        "preview": "Whenever i watch animes with softsubs it is always set to none. I had to select to a sub manually. As I prefer watching ",
+        "author_id": "660280460777357334",
+        "author_name": "𝓳𝓲𝔂𝓪",
+        "author_avatar": "https://cdn.discordapp.com/avatars/660280460777357334/0c029563656ae30cd0e5f44f09fb43e6.png?size=64",
+        "created_at": "2026-05-02T12:11:53.188000+00:00",
+        "created_at_fmt": "May 02, 2026",
+        "message_count": 10,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenrecording_20260502_201444.mp4",
+            "content_type": "video/mp4",
+            "width": 480,
+            "height": 1068,
+            "size": 5311183
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@itsmechinmoy</span>",
+            "content_raw": "<@523539866311720963>",
+            "created_at": "2026-05-02T12:47:02.564000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Im retired",
+            "content_raw": "Im retired",
+            "created_at": "2026-05-02T13:01:36.360000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "it also depends if the source even has multi lang subs",
+            "content_raw": "it also depends if the source even has multi lang subs",
+            "created_at": "2026-05-03T05:45:59.369000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "𝓳𝓲𝔂𝓪",
+            "author_avatar": "https://cdn.discordapp.com/avatars/660280460777357334/0c029563656ae30cd0e5f44f09fb43e6.png?size=64",
+            "content": "No even if it is just one subtitle like the example video it does not have the subtitle upon playing",
+            "content_raw": "No even if it is just one subtitle like the example video it does not have the subtitle upon playing",
+            "created_at": "2026-05-03T05:47:06.476000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "well i can't try the source you are using because i don't have that service",
+            "content_raw": "well i can't try the source you are using because i don't have that service",
+            "created_at": "2026-05-03T05:49:58.517000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "it's better if you use hard subs in this case",
+            "content_raw": "it's better if you use hard subs in this case",
+            "created_at": "2026-05-03T05:50:23.253000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "but that only is for english i suppose",
+            "content_raw": "but that only is for english i suppose",
+            "created_at": "2026-05-03T05:50:48.386000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "𝓳𝓲𝔂𝓪",
+            "author_avatar": "https://cdn.discordapp.com/avatars/660280460777357334/0c029563656ae30cd0e5f44f09fb43e6.png?size=64",
+            "content": "You can try using hianime with soft subs and you'll see the same issue",
+            "content_raw": "You can try using hianime with soft subs and you'll see the same issue",
+            "created_at": "2026-05-03T06:10:27.545000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "𝓳𝓲𝔂𝓪",
+            "author_avatar": "https://cdn.discordapp.com/avatars/660280460777357334/0c029563656ae30cd0e5f44f09fb43e6.png?size=64",
+            "content": "Unfortunately with torrentio can only be softsubs and it would be a waste not to use it since I have a real debrid subscription. It works on other apps just not anymex which is sad",
+            "content_raw": "Unfortunately with torrentio can only be softsubs and it would be a waste not to use it since I have a real debrid subscription. It works on other apps just not anymex which is sad",
+            "created_at": "2026-05-03T06:11:25.500000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "for me, soft subs don't even appear",
+            "content_raw": "for me, soft subs don't even appear",
+            "created_at": "2026-05-05T09:45:16.116000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1499350359913791558",
+        "title": "CS Extension not install",
+        "content": "Hi everyone, I'm reopening this issue that I also opened on the old discord\nI created a GitHub for the issue and leave the link below.\n\nhttps://github.com/RyanYuuki/AnymeX/issues/408\n\nThanks in advance",
+        "content_raw": "Hi everyone, I'm reopening this issue that I also opened on the old discord\nI created a GitHub for the issue and leave the link below.\n\nhttps://github.com/RyanYuuki/AnymeX/issues/408\n\nThanks in advance",
+        "preview": "Hi everyone, I'm reopening this issue that I also opened on the old discord\nI created a GitHub for the issue and leave t",
+        "author_id": "685198526686298183",
+        "author_name": "SĒVĒN",
+        "author_avatar": "https://cdn.discordapp.com/avatars/685198526686298183/558ee9adbf6115d09365736596b790eb.png?size=64",
+        "created_at": "2026-04-30T10:03:02.386000+00:00",
+        "created_at_fmt": "Apr 30, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": []
       }
     ]
   }
