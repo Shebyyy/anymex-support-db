@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-04-30T04:59:16.400992",
+    "last_synced": "2026-05-09T04:24:20.801464",
     "channel_id": "1496731497783099443",
     "posts": [
       {
@@ -275,15 +275,15 @@
       {
         "id": "1497648485686579201",
         "title": "Cast support",
-        "content": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
-        "content_raw": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
-        "preview": "can u add a cast support as well in the player?\n I wanna suggest to add a cast support in the player or in the app",
+        "content": "chill bro, sometimes we chat whatever scrap in random forums",
+        "content_raw": "chill bro, sometimes we chat whatever scrap in random forums",
+        "preview": "chill bro, sometimes we chat whatever scrap in random forums",
         "author_id": "895131555608002560",
-        "author_name": "Cat",
-        "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+        "author_name": "nithinspacetime",
+        "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
         "created_at": "2026-04-25T17:20:23.951000+00:00",
         "created_at_fmt": "Apr 25, 2026",
-        "message_count": 8,
+        "message_count": 163,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -292,67 +292,835 @@
         "attachments": [],
         "messages": [
           {
-            "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
-            "content": "Okey will do....<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190595427434626.png?size=24\" alt=\":perfect:\" title=\":perfect:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
-            "content_raw": "Okey will do....<:perfect:1497190595427434626>",
-            "created_at": "2026-04-30T03:02:10.208000+00:00",
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497974267776733304.png?size=24\" alt=\":gatotomandoleche:\" title=\":gatotomandoleche:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:gatotomandoleche:1497974267776733304>",
+            "created_at": "2026-04-30T16:11:38.775000+00:00",
             "attachments": []
           },
           {
-            "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
-            "content": "/todo assign me",
-            "content_raw": "/todo assign me",
-            "created_at": "2026-04-30T03:02:26.986000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
-            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
-            "content_raw": "<:PepeCrybaby:1497164342372601926>",
-            "created_at": "2026-04-30T03:02:30.510000+00:00",
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Can see",
+            "content_raw": "Can see",
+            "created_at": "2026-04-30T16:11:44.102000+00:00",
             "attachments": []
           },
           {
             "author_name": "Sheby",
             "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Need to add bot <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
-            "content_raw": "Need to add bot <:PepeCrybaby:1497164342372601926>",
-            "created_at": "2026-04-30T03:06:27.515000+00:00",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Cat</span> \n\nTest cast\n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875897308) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875896545) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875899203) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875898079) | 30.1 MB",
+            "content_raw": "<@895131555608002560> \n\nTest cast\n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875897308) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875896545) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875899203) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875898079) | 30.1 MB",
+            "created_at": "2026-05-08T09:53:10.959000+00:00",
             "attachments": []
           },
           {
-            "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
-            "content": "It was the Most useful feature",
-            "content_raw": "It was the Most useful feature",
-            "created_at": "2026-04-30T03:43:27.836000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
-            "content": "And u didn't",
-            "content_raw": "And u didn't",
-            "created_at": "2026-04-30T03:43:30.754000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/b780c063b3495cb60206c869c089b0a2.png?size=64",
-            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
-            "content_raw": "<:PepeCrybaby:1497164342372601926>",
-            "created_at": "2026-04-30T03:43:32.401000+00:00",
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Yeyeyeyeyeye<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497974284767854692.png?size=24\" alt=\":gato_eyes:\" title=\":gato_eyes:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Yeyeyeyeyeye<:gato_eyes:1497974284767854692>",
+            "created_at": "2026-05-08T09:54:37.761000+00:00",
             "attachments": []
           },
           {
             "author_name": "Sheby",
             "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "Added <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
-            "content_raw": "Added <:PepeCrybaby:1497164342372601926>",
-            "created_at": "2026-04-30T04:32:13.608000+00:00",
+            "content": "Not sure it will work. \n\nJust test, let me know.",
+            "content_raw": "Not sure it will work. \n\nJust test, let me know.",
+            "created_at": "2026-05-08T09:54:56.511000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Sure",
+            "content_raw": "Sure",
+            "created_at": "2026-05-08T09:56:23.419000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Stuck on connecting💔💔💔",
+            "content_raw": "Stuck on connecting💔💔💔",
+            "created_at": "2026-05-08T10:04:19.434000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260508_152930.png",
+                "content_type": "image/png",
+                "width": 2340,
+                "height": 1080,
+                "size": 255432
+              }
+            ]
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Tried 2-3 times with different extension as well",
+            "content_raw": "Tried 2-3 times with different extension as well",
+            "created_at": "2026-05-08T10:04:52.716000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T10:04:56.810000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "The app also missing profile feature",
+            "content_raw": "The app also missing profile feature",
+            "created_at": "2026-05-08T10:06:26.726000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Okay",
+            "content_raw": "Okay",
+            "created_at": "2026-05-08T10:06:46.060000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "content": "cast was added 🤔",
+            "content_raw": "cast was added 🤔",
+            "created_at": "2026-05-08T10:07:13.423000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Well that's alpha was testing if pr merged it will be added on beta and stable",
+            "content_raw": "Well that's alpha was testing if pr merged it will be added on beta and stable",
+            "created_at": "2026-05-08T10:07:21.747000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yeah but broken <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Yeah but broken <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T10:07:32.472000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Oooooo",
+            "content_raw": "Oooooo",
+            "created_at": "2026-05-08T10:07:36.846000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Yeh<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Yeh<:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T10:07:40.842000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "i can also try",
+            "content_raw": "i can also try",
+            "created_at": "2026-05-08T10:09:33.719000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "since i have a chromecast compatible box",
+            "content_raw": "since i have a chromecast compatible box",
+            "created_at": "2026-05-08T10:09:48.957000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "You can try<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "You can try<:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T10:12:46.712000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "just need some time as parents are at home",
+            "content_raw": "just need some time as parents are at home",
+            "created_at": "2026-05-08T10:13:45.626000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T10:13:49.655000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T10:16:51.691000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-05-08T10:25:21.484000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_2026-05-08-15-54-51-530_com.ryan.anymexalpha.jpg",
+                "content_type": "image/jpeg",
+                "width": 1640,
+                "height": 720,
+                "size": 61585
+              }
+            ]
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Atleast device is getting detected",
+            "content_raw": "Atleast device is getting detected",
+            "created_at": "2026-05-08T10:25:27.271000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "I didn't cast to tv yet since they are right beside me",
+            "content_raw": "I didn't cast to tv yet since they are right beside me",
+            "created_at": "2026-05-08T10:25:41.339000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164339788906639.png?size=24\" alt=\":PepeCross:\" title=\":PepeCross:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:PepeCross:1497164339788906639>",
+            "created_at": "2026-05-08T10:35:34.939000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "i'll let you know once i'm able to",
+            "content_raw": "i'll let you know once i'm able to",
+            "created_at": "2026-05-08T10:36:50.554000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Cat</span> will send one more test build. If it's works thn good otherwise will leave it to <span class=\"discord-mention discord-mention-user\">@nithinspacetime</span>",
+            "content_raw": "<@895131555608002560> will send one more test build. If it's works thn good otherwise will leave it to <@1474618752912851064>",
+            "created_at": "2026-05-08T10:36:55.598000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "New test build after 15 to 20 mins <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "New test build after 15 to 20 mins <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T10:37:28.984000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Alright sirrr<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190595427434626.png?size=24\" alt=\":perfect:\" title=\":perfect:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Alright sirrr<:perfect:1497190595427434626>",
+            "created_at": "2026-05-08T10:42:34.990000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "content": "[think](https://cdn.discordapp.com/emojis/1164993630247850014.webp?size=48&name=think&lossless=true)",
+            "content_raw": "[think](https://cdn.discordapp.com/emojis/1164993630247850014.webp?size=48&name=think&lossless=true)",
+            "created_at": "2026-05-08T10:45:37.386000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "nope, it didn't even cast",
+            "content_raw": "nope, it didn't even cast",
+            "created_at": "2026-05-08T11:08:24.320000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "i selected my tv box and it just \"connecting...\"",
+            "content_raw": "i selected my tv box and it just \"connecting...\"",
+            "created_at": "2026-05-08T11:08:41.391000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "and i can't turn it off once i turn casting on, i have to restart the app(closing from recent)",
+            "content_raw": "and i can't turn it off once i turn casting on, i have to restart the app(closing from recent)",
+            "created_at": "2026-05-08T11:09:08.457000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\"> yeah the connecting issue <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:PepeCrybaby:1497164342372601926> yeah the connecting issue <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T11:12:12.925000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡</span> <span class=\"discord-mention discord-mention-user\">@Cat</span> \n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877849230) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877848719) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877850702) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877849767) | 30.1 MB\n\nLast try \n<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<@1017703425263280198> <@895131555608002560> \n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877849230) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877848719) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877850702) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25551800260/artifacts/6877849767) | 30.1 MB\n\nLast try \n<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T11:15:08.735000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@nithinspacetime</span> Now all yours 😂",
+            "content_raw": "<@1474618752912851064> Now all yours 😂",
+            "created_at": "2026-05-08T11:15:28.838000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Ok",
+            "content_raw": "Ok",
+            "created_at": "2026-05-08T11:15:41.570000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Failed to initialize Cast context: Failed to initialize CastContext.",
+            "content_raw": "Failed to initialize Cast context: Failed to initialize CastContext.",
+            "created_at": "2026-05-08T11:25:19.687000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Also, after selecting device, it timeout after 15s",
+            "content_raw": "Also, after selecting device, it timeout after 15s",
+            "created_at": "2026-05-08T11:25:39.466000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Pahe source",
+            "content_raw": "Pahe source",
+            "created_at": "2026-05-08T11:25:43.695000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T11:25:47.411000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yeah, i added timeout.",
+            "content_raw": "Yeah, i added timeout.",
+            "created_at": "2026-05-08T11:26:05.290000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Can you send logs?",
+            "content_raw": "Can you send logs?",
+            "created_at": "2026-05-08T11:26:33.056000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Btw I'm on android 16 <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Btw I'm on android 16 <:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T11:26:33.076000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "nithinspacetime",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "content": "😼 more issues",
+            "content_raw": "😼 more issues",
+            "created_at": "2026-05-08T11:26:52.110000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-05-08T11:27:04.413000+00:00",
+            "attachments": [
+              {
+                "filename": "app_logs.txt",
+                "content_type": "text/plain; charset=ISO-8859-1",
+                "width": null,
+                "height": null,
+                "size": 4079
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Well it should work with any android. Its just it's not working <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Well it should work with any android. Its just it's not working <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T11:27:06.098000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T11:27:12.126000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Bleeding edge",
+            "content_raw": "Bleeding edge",
+            "created_at": "2026-05-08T11:27:15.966000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T11:27:19.338000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "And it's a xiaomi device",
+            "content_raw": "And it's a xiaomi device",
+            "created_at": "2026-05-08T11:27:30.455000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "What do you expect",
+            "content_raw": "What do you expect",
+            "created_at": "2026-05-08T11:27:34.731000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Well will try to do something if it's just initialize issue",
+            "content_raw": "Well will try to do something if it's just initialize issue",
+            "created_at": "2026-05-08T11:28:39.936000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Wait",
+            "content_raw": "Wait",
+            "created_at": "2026-05-08T11:29:15.483000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Youtube cast ain't working either",
+            "content_raw": "Youtube cast ain't working either",
+            "created_at": "2026-05-08T11:29:24.565000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Either something's wrong on tv or my phone",
+            "content_raw": "Either something's wrong on tv or my phone",
+            "created_at": "2026-05-08T11:29:46.686000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "So someone else has to test",
+            "content_raw": "So someone else has to test",
+            "created_at": "2026-05-08T11:29:52.909000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Give me some time cuz my father is using the tv rn💔✌️",
+            "content_raw": "Give me some time cuz my father is using the tv rn💔✌️",
+            "created_at": "2026-05-08T11:30:35.239000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Nah, added that",
+            "content_raw": "Nah, added that",
+            "created_at": "2026-05-08T11:36:31.891000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Wasn't there",
+            "content_raw": "Wasn't there",
+            "created_at": "2026-05-08T11:38:27.716000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "I decompiled and checked manifest",
+            "content_raw": "I decompiled and checked manifest",
+            "created_at": "2026-05-08T11:38:40.695000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-05-08T11:39:12.311000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_2026-05-08-17-09-02-944_ru.maximoff.apktool.jpg",
+                "content_type": "image/jpeg",
+                "width": 720,
+                "height": 1640,
+                "size": 102828
+              }
+            ]
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "com.ryan.anymex.CastOptionsProvider check this",
+            "content_raw": "com.ryan.anymex.CastOptionsProvider check this",
+            "created_at": "2026-05-08T11:40:48.654000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Its pointing to CastOptionsProvider.kt",
+            "content_raw": "Its pointing to CastOptionsProvider.kt",
+            "created_at": "2026-05-08T11:41:30.552000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "But",
+            "content_raw": "But",
+            "created_at": "2026-05-08T11:42:09.703000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Why is this \n\n```\n<meta-data\n    android:name=\"com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME\"\n    android:value=\"com.ryan.anymex.CastOptionsProvider\" />\n```",
+            "content_raw": "Why is this \n\n```\n<meta-data\n    android:name=\"com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME\"\n    android:value=\"com.ryan.anymex.CastOptionsProvider\" />\n```",
+            "created_at": "2026-05-08T11:42:18.998000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Not ryan.anymexalpha",
+            "content_raw": "Not ryan.anymexalpha",
+            "created_at": "2026-05-08T11:42:41.015000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Since the package name is `com.ryan.anymexalpha`",
+            "content_raw": "Since the package name is `com.ryan.anymexalpha`",
+            "created_at": "2026-05-08T11:44:02.772000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "For the alpha",
+            "content_raw": "For the alpha",
+            "created_at": "2026-05-08T11:44:09.471000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Yeah that's I'm auto getting package while connecting <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Yeah that's I'm auto getting package while connecting <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T11:45:08.580000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Uh what",
+            "content_raw": "Uh what",
+            "created_at": "2026-05-08T11:45:36.149000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Gboard autocorrect?",
+            "content_raw": "Gboard autocorrect?",
+            "created_at": "2026-05-08T11:45:48.080000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Well Wait for sometime checking something it was double-init issue ig",
+            "content_raw": "Well Wait for sometime checking something it was double-init issue ig",
+            "created_at": "2026-05-08T11:46:04.007000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Well it's not something that's really that important for now",
+            "content_raw": "Well it's not something that's really that important for now",
+            "created_at": "2026-05-08T11:47:17.128000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "There's bigger fish to catch",
+            "content_raw": "There's bigger fish to catch",
+            "created_at": "2026-05-08T11:47:29.484000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "No. <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190580344586422.png?size=24\" alt=\":hmmm:\" title=\":hmmm:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "No. <:hmmm:1497190580344586422>",
+            "created_at": "2026-05-08T11:47:58.029000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Will try to remove that hardcode ig",
+            "content_raw": "Will try to remove that hardcode ig",
+            "created_at": "2026-05-08T11:48:12.237000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Then I'm confused about what you said",
+            "content_raw": "Then I'm confused about what you said",
+            "created_at": "2026-05-08T11:48:35.872000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "My code was doing 2 time initialize",
+            "content_raw": "My code was doing 2 time initialize",
+            "created_at": "2026-05-08T11:49:11.453000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "1st one works\n2nd time crash",
+            "content_raw": "1st one works\n2nd time crash",
+            "created_at": "2026-05-08T11:49:26.072000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190580344586422.png?size=24\" alt=\":hmmm:\" title=\":hmmm:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:hmmm:1497190580344586422>",
+            "created_at": "2026-05-08T11:49:34.392000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "android:value=\"${applicationId}.CastOptionsProvider\n\nThis will be okay <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "android:value=\"${applicationId}.CastOptionsProvider\n\nThis will be okay <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-08T11:50:05.187000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Yea that's easier",
+            "content_raw": "Yea that's easier",
+            "created_at": "2026-05-08T11:50:19.646000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Hardcoded values always cause problems",
+            "content_raw": "Hardcoded values always cause problems",
+            "created_at": "2026-05-08T11:50:35.340000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Some dev said",
+            "content_raw": "Some dev said",
+            "created_at": "2026-05-08T11:50:38.625000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Well, mosh hamedani",
+            "content_raw": "Well, mosh hamedani",
+            "created_at": "2026-05-08T11:50:49.125000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Tried cast but it refuses to connect",
+            "content_raw": "Tried cast but it refuses to connect",
+            "created_at": "2026-05-08T12:11:41.538000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "https://tenor.com/view/crying-dolphin-pink-dolphin-gif-7385678",
+            "content_raw": "https://tenor.com/view/crying-dolphin-pink-dolphin-gif-7385678",
+            "created_at": "2026-05-08T12:11:44.090000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Final \n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878779887) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878779278) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878781531) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878780487) | 30.1 MB",
+            "content_raw": "Final \n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878779887) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878779278) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878781531) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25554076357/artifacts/6878780487) | 30.1 MB",
+            "created_at": "2026-05-08T12:11:53.670000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Woah",
+            "content_raw": "Woah",
+            "created_at": "2026-05-08T12:11:58.255000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Lol",
+            "content_raw": "Lol",
+            "created_at": "2026-05-08T12:11:59.551000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Cat</span> <span class=\"discord-mention discord-mention-user\">@✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡</span>",
+            "content_raw": "<@895131555608002560> <@1017703425263280198>",
+            "created_at": "2026-05-08T12:12:04.993000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "If not working. I'm not gonna do anything on it. <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\"> <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "If not working. I'm not gonna do anything on it. <:PepeCrybaby:1497164342372601926> <:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T12:12:32.859000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Same problem as before😔",
+            "content_raw": "Same problem as before😔",
+            "created_at": "2026-05-08T12:16:51.738000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "Shows connecting but then it does not connect",
+            "content_raw": "Shows connecting but then it does not connect",
+            "created_at": "2026-05-08T12:17:35.021000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "It goes back the connection option to my tv",
+            "content_raw": "It goes back the connection option to my tv",
+            "created_at": "2026-05-08T12:18:11.274000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "",
+            "content_raw": "",
+            "created_at": "2026-05-08T12:19:34.833000+00:00",
+            "attachments": [
+              {
+                "filename": "Screen_Recording_20260508_174908.mp4",
+                "content_type": "video/mp4",
+                "width": 480,
+                "height": 1040,
+                "size": 2110084
+              }
+            ]
+          },
+          {
+            "author_name": "Cat",
+            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:FeelsStrongMen:1497164272973643776>",
+            "created_at": "2026-05-08T12:20:37.956000+00:00",
             "attachments": []
           }
         ]
@@ -877,6 +1645,365 @@
             "content": "```feature: mark timestamps/clip ranges while watching anime and save them as organized visual notes for planning edits (no actual video saving, just metadata).```\n\n\n<span class=\"discord-mention discord-mention-user\">@Sheby</span> <span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> \nP.S. was already rejected by us in previous server",
             "content_raw": "```feature: mark timestamps/clip ranges while watching anime and save them as organized visual notes for planning edits (no actual video saving, just metadata).```\n\n\n<@612532963938271232> <@535831876766793738> \nP.S. was already rejected by us in previous server",
             "created_at": "2026-04-25T15:20:44.740000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1502119482120867971",
+        "title": "Feature Suggestion: Local Manga/Manhwa Entries",
+        "content": "So currently the app depends heavily on AniList/MAL entries for manga pages and tracking. Because of this, series that exist in extensions but not on AniList/MAL (such as TBATE and some webcomics/manhwa) cannot be properly opened or tracked.\n\nIt would be great to add support for local entries that users can create manually.\n\nPossible features:\n- Create local manga/manhwa pages\n\n- Assign sources/extensions manually\n\n- Save progress locally on-device\n\nThis would help support removed, niche, or unsupported series while making extensions much more useful.",
+        "content_raw": "So currently the app depends heavily on AniList/MAL entries for manga pages and tracking. Because of this, series that exist in extensions but not on AniList/MAL (such as TBATE and some webcomics/manhwa) cannot be properly opened or tracked.\n\nIt would be great to add support for local entries that users can create manually.\n\nPossible features:\n- Create local manga/manhwa pages\n\n- Assign sources/extensions manually\n\n- Save progress locally on-device\n\nThis would help support removed, niche, or unsupported series while making extensions much more useful.",
+        "preview": "So currently the app depends heavily on AniList/MAL entries for manga pages and tracking. Because of this, series that e",
+        "author_id": "744214229263056928",
+        "author_name": "小悪魔",
+        "author_avatar": "https://cdn.discordapp.com/avatars/744214229263056928/fc187100e0bf54d1ddb1ff1584cd401c.png?size=64",
+        "created_at": "2026-05-08T01:26:32.568000+00:00",
+        "created_at_fmt": "May 08, 2026",
+        "message_count": 1,
+        "is_locked": true,
+        "is_archived": false,
+        "status_label": "Locked",
+        "tags": [
+          "Already Available"
+        ],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@小悪魔</span> \nAlready available.\n\nUse extensions service",
+            "content_raw": "<@744214229263056928> \nAlready available.\n\nUse extensions service",
+            "created_at": "2026-05-08T02:54:43.980000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1501962253648396459",
+        "title": "online subtitle",
+        "content": "I prefer the apk that used to have online subtitles so when my source doesn't have the appropriate subtitles I can still search for them online.",
+        "content_raw": "I prefer the apk that used to have online subtitles so when my source doesn't have the appropriate subtitles I can still search for them online.",
+        "preview": "I prefer the apk that used to have online subtitles so when my source doesn't have the appropriate subtitles I can still",
+        "author_id": "1489617640883486871",
+        "author_name": "Lims",
+        "author_avatar": "https://cdn.discordapp.com/avatars/1489617640883486871/1e5f06b913059c26a457630e4e8e867e.png?size=64",
+        "created_at": "2026-05-07T15:01:46.379000+00:00",
+        "created_at_fmt": "May 07, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": []
+      },
+      {
+        "id": "1501563084412555367",
+        "title": "Feature Request: Improve Discover Section Browsing",
+        "content": "I’d like to suggest an improvement for the Discover section in the app. Currently, categories like “Trending Anime” are displayed in a horizontal scroll format, where you can only swipe left and right for a limited number of titles. This makes it difficult to explore more content, especially when trying to find something new to watch.\n\nIt would be much better if:\n\nThere was an option to expand each category into a full list or grid view\n\nOr allow continuous scrolling (vertical or extended horizontal) to see more titles without hitting a limit\n\nMaybe even add a “See All” button for each category\n\n\nThis would make browsing a lot smoother and help users discover more anime \n\nThanks!",
+        "content_raw": "I’d like to suggest an improvement for the Discover section in the app. Currently, categories like “Trending Anime” are displayed in a horizontal scroll format, where you can only swipe left and right for a limited number of titles. This makes it difficult to explore more content, especially when trying to find something new to watch.\n\nIt would be much better if:\n\nThere was an option to expand each category into a full list or grid view\n\nOr allow continuous scrolling (vertical or extended horizontal) to see more titles without hitting a limit\n\nMaybe even add a “See All” button for each category\n\n\nThis would make browsing a lot smoother and help users discover more anime \n\nThanks!",
+        "preview": "I’d like to suggest an improvement for the Discover section in the app. Currently, categories like “Trending Anime” are ",
+        "author_id": "1260014582164885586",
+        "author_name": "Sz-pro19",
+        "author_avatar": "https://cdn.discordapp.com/avatars/1260014582164885586/f0e595a37f085165c5cd22783c78c5c0.png?size=64",
+        "created_at": "2026-05-06T12:35:37.017000+00:00",
+        "created_at_fmt": "May 06, 2026",
+        "message_count": 1,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "Sz-pro19",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1260014582164885586/f0e595a37f085165c5cd22783c78c5c0.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span>",
+            "content_raw": "<@535831876766793738>",
+            "created_at": "2026-05-06T12:36:05.062000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1500375678774673498",
+        "title": "Remove the pop-ups",
+        "content": "Remove the pop-ups when playing a media, or continuing it: there is a pop-up saying preparing stream\n\nPlus when the media starts playing there is a popup for subtitle setting and would be good if there is a way to toggle that off as well.\n\nHere is a reference video",
+        "content_raw": "Remove the pop-ups when playing a media, or continuing it: there is a pop-up saying preparing stream\n\nPlus when the media starts playing there is a popup for subtitle setting and would be good if there is a way to toggle that off as well.\n\nHere is a reference video",
+        "preview": "Remove the pop-ups when playing a media, or continuing it: there is a pop-up saying preparing stream\n\nPlus when the medi",
+        "author_id": "850681931774427166",
+        "author_name": "Qwertyz0",
+        "author_avatar": "https://cdn.discordapp.com/avatars/850681931774427166/1191b2948bb60fac3fbc18a21886969b.png?size=64",
+        "created_at": "2026-05-03T05:57:17.452000+00:00",
+        "created_at_fmt": "May 03, 2026",
+        "message_count": 11,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "ScreenRecording_05-03-2026_15-53-12_1.mov",
+            "content_type": "video/quicktime",
+            "width": 480,
+            "height": 1040,
+            "size": 1158550
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "that's for debugging purposes i think",
+            "content_raw": "that's for debugging purposes i think",
+            "created_at": "2026-05-03T05:58:09.072000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "i haven't seen one for subtitle",
+            "content_raw": "i haven't seen one for subtitle",
+            "created_at": "2026-05-03T05:58:28.371000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Qwertyz0",
+            "author_avatar": "https://cdn.discordapp.com/avatars/850681931774427166/1191b2948bb60fac3fbc18a21886969b.png?size=64",
+            "content": "Yeah I guessed that, but if there was a way to have a toggle to turn it off (or just turn them all off)",
+            "content_raw": "Yeah I guessed that, but if there was a way to have a toggle to turn it off (or just turn them all off)",
+            "created_at": "2026-05-03T05:59:07.193000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "ah the libass note, it's a 5 second note",
+            "content_raw": "ah the libass note, it's a 5 second note",
+            "created_at": "2026-05-03T05:59:12.156000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "not really one that sticks",
+            "content_raw": "not really one that sticks",
+            "created_at": "2026-05-03T05:59:18.396000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "you can just swipe it to the right",
+            "content_raw": "you can just swipe it to the right",
+            "created_at": "2026-05-03T05:59:28.079000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1283533670233280603.png?size=24\" alt=\":BooHoo:\" title=\":BooHoo:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "<:BooHoo:1283533670233280603>",
+            "created_at": "2026-05-03T05:59:32.439000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "let's see if everyone is annoyed by it",
+            "content_raw": "let's see if everyone is annoyed by it",
+            "created_at": "2026-05-03T05:59:58.332000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Would you rather just see a loading icon then?",
+            "content_raw": "Would you rather just see a loading icon then?",
+            "created_at": "2026-05-03T07:35:00.477000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "Cause you're lucky the stream didn't expire",
+            "content_raw": "Cause you're lucky the stream didn't expire",
+            "created_at": "2026-05-03T07:35:12.404000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Ryan >_<",
+            "author_avatar": "https://cdn.discordapp.com/avatars/535831876766793738/64d0a7798e3ccad244bd5a5d734164de.png?size=64",
+            "content": "That popup would stay there for like 5-20 seconds if a stream expired it will fetch new one and that takes time",
+            "content_raw": "That popup would stay there for like 5-20 seconds if a stream expired it will fetch new one and that takes time",
+            "created_at": "2026-05-03T07:35:47.320000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1500261134828175360",
+        "title": "Release date for episodes",
+        "content": "Something that shows when an episode was/will release like in the photo",
+        "content_raw": "Something that shows when an episode was/will release like in the photo",
+        "preview": "Something that shows when an episode was/will release like in the photo",
+        "author_id": "756921096682602606",
+        "author_name": "Xcincivity",
+        "author_avatar": "https://cdn.discordapp.com/avatars/756921096682602606/853bbf9d7f6d7a6fbe608cd8bbd00f8e.png?size=64",
+        "created_at": "2026-05-02T22:22:08.047000+00:00",
+        "created_at_fmt": "May 02, 2026",
+        "message_count": 9,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "IMG_8185.png",
+            "content_type": "image/jpeg",
+            "width": 2340,
+            "height": 1754,
+            "size": 1073724
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "Heh? We do have that?",
+            "content_raw": "Heh? We do have that?",
+            "created_at": "2026-05-07T04:56:26.945000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Xcincivity",
+            "author_avatar": "https://cdn.discordapp.com/avatars/756921096682602606/853bbf9d7f6d7a6fbe608cd8bbd00f8e.png?size=64",
+            "content": "The image I posted is not accurate my bad. I meant a release date for individual episodes .",
+            "content_raw": "The image I posted is not accurate my bad. I meant a release date for individual episodes .",
+            "created_at": "2026-05-07T06:37:22.843000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Xcincivity",
+            "author_avatar": "https://cdn.discordapp.com/avatars/756921096682602606/853bbf9d7f6d7a6fbe608cd8bbd00f8e.png?size=64",
+            "content": "It could be hidden and only shown when you toggle an option for it",
+            "content_raw": "It could be hidden and only shown when you toggle an option for it",
+            "created_at": "2026-05-07T06:37:48.987000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "This good enough to know upcoming <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190580344586422.png?size=24\" alt=\":hmmm:\" title=\":hmmm:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "This good enough to know upcoming <:hmmm:1497190580344586422>",
+            "created_at": "2026-05-07T07:46:54.470000+00:00",
+            "attachments": [
+              {
+                "filename": "Screenshot_20260507_131554.jpg",
+                "content_type": "image/jpeg",
+                "width": 1080,
+                "height": 1115,
+                "size": 73407
+              }
+            ]
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "https://tenor.com/view/thats-what-she-said-what-she-said-dirty-joke-joke-laugh-gif-15661968",
+            "content_raw": "https://tenor.com/view/thats-what-she-said-what-she-said-dirty-joke-joke-laugh-gif-15661968",
+            "created_at": "2026-05-07T10:09:19.234000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Xcincivity",
+            "author_avatar": "https://cdn.discordapp.com/avatars/756921096682602606/853bbf9d7f6d7a6fbe608cd8bbd00f8e.png?size=64",
+            "content": "😂",
+            "content_raw": "😂",
+            "created_at": "2026-05-07T14:32:25.669000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Xcincivity",
+            "author_avatar": "https://cdn.discordapp.com/avatars/756921096682602606/853bbf9d7f6d7a6fbe608cd8bbd00f8e.png?size=64",
+            "content": "Nah but seriously having the airing date for past episodes is wanted",
+            "content_raw": "Nah but seriously having the airing date for past episodes is wanted",
+            "created_at": "2026-05-07T14:33:48.345000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Xcincivity",
+            "author_avatar": "https://cdn.discordapp.com/avatars/756921096682602606/853bbf9d7f6d7a6fbe608cd8bbd00f8e.png?size=64",
+            "content": "It ain’t that important but it’s still something",
+            "content_raw": "It ain’t that important but it’s still something",
+            "created_at": "2026-05-07T14:34:17.113000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "If enough people asking for the same thing sure",
+            "content_raw": "If enough people asking for the same thing sure",
+            "created_at": "2026-05-08T06:05:31.166000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1501881896953446522",
+        "title": "Sub and dub count",
+        "content": "Sub and dub count like this",
+        "content_raw": "Sub and dub count like this",
+        "preview": "Sub and dub count like this",
+        "author_id": "866234096249733170",
+        "author_name": "Echo \"prt\"",
+        "author_avatar": "https://cdn.discordapp.com/avatars/866234096249733170/68e1f883a7704c860bf677d0d1d6b400.png?size=64",
+        "created_at": "2026-05-07T09:42:27.850000+00:00",
+        "created_at_fmt": "May 07, 2026",
+        "message_count": 3,
+        "is_locked": true,
+        "is_archived": true,
+        "status_label": "Locked",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [
+          {
+            "filename": "Screenshot_2026_0507_150915.png",
+            "content_type": "image/png",
+            "width": 1079,
+            "height": 1384,
+            "size": 1201852
+          }
+        ],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Sheby</span>",
+            "content_raw": "<@612532963938271232>",
+            "created_at": "2026-05-07T09:45:33.386000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "Noooo <img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164342372601926.png?size=24\" alt=\":PepeCrybaby:\" title=\":PepeCrybaby:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+            "content_raw": "Noooo <:PepeCrybaby:1497164342372601926>",
+            "created_at": "2026-05-07T09:46:28.560000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "I meant close",
+            "content_raw": "I meant close",
+            "created_at": "2026-05-07T09:47:12.173000+00:00",
             "attachments": []
           }
         ]
