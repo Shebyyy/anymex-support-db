@@ -1,6 +1,6 @@
 {
   "suggestions": {
-    "last_synced": "2026-05-09T04:50:26.121527",
+    "last_synced": "2026-05-14T04:29:03.532920",
     "channel_id": "1496731497783099443",
     "posts": [
       {
@@ -275,15 +275,15 @@
       {
         "id": "1497648485686579201",
         "title": "Cast support",
-        "content": "chill bro, sometimes we chat whatever scrap in random forums",
-        "content_raw": "chill bro, sometimes we chat whatever scrap in random forums",
-        "preview": "chill bro, sometimes we chat whatever scrap in random forums",
+        "content": "<span class=\"discord-mention discord-mention-user\">@Cat</span> \n\nTest cast\n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875897308) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875896545) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875899203) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875898079) | 30.1 MB",
+        "content_raw": "<@895131555608002560> \n\nTest cast\n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875897308) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875896545) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875899203) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875898079) | 30.1 MB",
+        "preview": "<@895131555608002560> \n\nTest cast\n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/255",
         "author_id": "895131555608002560",
-        "author_name": "nithinspacetime",
-        "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+        "author_name": "Sheby",
+        "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
         "created_at": "2026-04-25T17:20:23.951000+00:00",
         "created_at_fmt": "Apr 25, 2026",
-        "message_count": 163,
+        "message_count": 166,
         "is_locked": false,
         "is_archived": false,
         "status_label": "Open",
@@ -291,30 +291,6 @@
         "linked_todo_id": 32,
         "attachments": [],
         "messages": [
-          {
-            "author_name": "Cat",
-            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
-            "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497974267776733304.png?size=24\" alt=\":gatotomandoleche:\" title=\":gatotomandoleche:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
-            "content_raw": "<:gatotomandoleche:1497974267776733304>",
-            "created_at": "2026-04-30T16:11:38.775000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Cat",
-            "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
-            "content": "Can see",
-            "content_raw": "Can see",
-            "created_at": "2026-04-30T16:11:44.102000+00:00",
-            "attachments": []
-          },
-          {
-            "author_name": "Sheby",
-            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
-            "content": "<span class=\"discord-mention discord-mention-user\">@Cat</span> \n\nTest cast\n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875897308) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875896545) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875899203) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875898079) | 30.1 MB",
-            "content_raw": "<@895131555608002560> \n\nTest cast\n\n**arm64-v8a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875897308) | 28.7 MB\n**armeabi-v7a** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875896545) | 28.4 MB\n**universal** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875899203) | 75.5 MB\n**x86_64** | [Download](https://github.com/Shebyyy/AnymeX-Preview/actions/runs/25546949979/artifacts/6875898079) | 30.1 MB",
-            "created_at": "2026-05-08T09:53:10.959000+00:00",
-            "attachments": []
-          },
           {
             "author_name": "Cat",
             "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
@@ -389,7 +365,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/732e9829e97675a37f1c60275a0f1320.png?size=64",
             "content": "cast was added 🤔",
             "content_raw": "cast was added 🤔",
             "created_at": "2026-05-08T10:07:13.423000+00:00",
@@ -549,7 +525,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/732e9829e97675a37f1c60275a0f1320.png?size=64",
             "content": "[think](https://cdn.discordapp.com/emojis/1164993630247850014.webp?size=48&name=think&lossless=true)",
             "content_raw": "[think](https://cdn.discordapp.com/emojis/1164993630247850014.webp?size=48&name=think&lossless=true)",
             "created_at": "2026-05-08T10:45:37.386000+00:00",
@@ -669,7 +645,7 @@
           },
           {
             "author_name": "nithinspacetime",
-            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/3624c455a41b2687cb4f1dcc7282f6a9.png?size=64",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1474618752912851064/732e9829e97675a37f1c60275a0f1320.png?size=64",
             "content": "😼 more issues",
             "content_raw": "😼 more issues",
             "created_at": "2026-05-08T11:26:52.110000+00:00",
@@ -1121,6 +1097,30 @@
             "content": "<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497164272973643776.png?size=24\" alt=\":FeelsStrongMen:\" title=\":FeelsStrongMen:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
             "content_raw": "<:FeelsStrongMen:1497164272973643776>",
             "created_at": "2026-05-08T12:20:37.956000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "I do think it's the play integrity",
+            "content_raw": "I do think it's the play integrity",
+            "created_at": "2026-05-09T05:20:00.142000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "I was using YouTube morphe(successor to revanced)",
+            "content_raw": "I was using YouTube morphe(successor to revanced)",
+            "created_at": "2026-05-09T05:20:19.187000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "✿𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝𝙽𝚒𝚗𝚓λ♡",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1017703425263280198/d0268e4328eef00937c62836a7f2c99e.png?size=64",
+            "content": "So it didn't work since it was modified",
+            "content_raw": "So it didn't work since it was modified",
+            "created_at": "2026-05-09T05:20:45.206000+00:00",
             "attachments": []
           }
         ]
@@ -2007,6 +2007,148 @@
             "attachments": []
           }
         ]
+      },
+      {
+        "id": "1504201239251124245",
+        "title": "Brightness adjustments on android",
+        "content": "About the swipe indicator brightness can it be fixed that not to bright on mobile because only 2% is like 75% already and in darker rooms its hard to control it because it's too bright",
+        "content_raw": "About the swipe indicator brightness can it be fixed that not to bright on mobile because only 2% is like 75% already and in darker rooms its hard to control it because it's too bright",
+        "preview": "About the swipe indicator brightness can it be fixed that not to bright on mobile because only 2% is like 75% already an",
+        "author_id": "892039953989632041",
+        "author_name": "Cloudie",
+        "author_avatar": "https://cdn.discordapp.com/avatars/892039953989632041/ee3c24126b5ea112302791ee371692b3.png?size=64",
+        "created_at": "2026-05-13T19:18:42.145000+00:00",
+        "created_at_fmt": "May 13, 2026",
+        "message_count": 1,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "Cloudie",
+            "author_avatar": "https://cdn.discordapp.com/avatars/892039953989632041/ee3c24126b5ea112302791ee371692b3.png?size=64",
+            "content": "Yall can just use the reference on dantotsu swipe indicator on it and you can see the difference that its too bright",
+            "content_raw": "Yall can just use the reference on dantotsu swipe indicator on it and you can see the difference that its too bright",
+            "created_at": "2026-05-13T19:19:49.928000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1504153086728601772",
+        "title": "Nuvio addons",
+        "content": "Developers can you add support for nuvio repos in anymex app for android and pc their are a ton of options and it would be really helpful.",
+        "content_raw": "Developers can you add support for nuvio repos in anymex app for android and pc their are a ton of options and it would be really helpful.",
+        "preview": "Developers can you add support for nuvio repos in anymex app for android and pc their are a ton of options and it would ",
+        "author_id": "1325770425405407363",
+        "author_name": "Saitama",
+        "author_avatar": "https://cdn.discordapp.com/avatars/1325770425405407363/63dc17b095f875620fe6dd7d0b47fe17.png?size=64",
+        "created_at": "2026-05-13T16:07:21.689000+00:00",
+        "created_at_fmt": "May 13, 2026",
+        "message_count": 4,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": [
+          {
+            "author_name": "itsmechinmoy",
+            "author_avatar": "https://cdn.discordapp.com/avatars/523539866311720963/8858aababe4802c4bce4ad6caa5816ab.png?size=64",
+            "content": "Share",
+            "content_raw": "Share",
+            "created_at": "2026-05-13T16:43:10.038000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Saitama",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1325770425405407363/63dc17b095f875620fe6dd7d0b47fe17.png?size=64",
+            "content": "https://nuvio-plugin-library.vercel.app/\n\nThis website has all the official repos of nuvio",
+            "content_raw": "https://nuvio-plugin-library.vercel.app/\n\nThis website has all the official repos of nuvio",
+            "created_at": "2026-05-13T17:06:48.599000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Saitama",
+            "author_avatar": "https://cdn.discordapp.com/avatars/1325770425405407363/63dc17b095f875620fe6dd7d0b47fe17.png?size=64",
+            "content": "Yoru and deadly rocket are my personal favourite it has literally everything.",
+            "content_raw": "Yoru and deadly rocket are my personal favourite it has literally everything.",
+            "created_at": "2026-05-13T17:07:50.502000+00:00",
+            "attachments": []
+          },
+          {
+            "author_name": "Sheby",
+            "author_avatar": "https://cdn.discordapp.com/avatars/612532963938271232/cf5d3f43c29516523531f21b09d4a743.png?size=64",
+            "content": "<span class=\"discord-mention discord-mention-user\">@Ryan &gt;_&lt;</span> it's js",
+            "content_raw": "<@535831876766793738> it's js",
+            "created_at": "2026-05-14T00:58:06.107000+00:00",
+            "attachments": []
+          }
+        ]
+      },
+      {
+        "id": "1503010708974080102",
+        "title": "Ambient mode",
+        "content": "Ambient mode in the player would be cool✌️\nAmbient lighting like in YouTube<img class=\"discord-emoji\" src=\"https://cdn.discordapp.com/emojis/1497190320637607957.png?size=24\" alt=\":PepeNani:\" title=\":PepeNani:\" style=\"width:22px;height:22px;vertical-align:middle;display:inline;\">",
+        "content_raw": "Ambient mode in the player would be cool✌️\nAmbient lighting like in YouTube<:PepeNani:1497190320637607957>",
+        "preview": "Ambient mode in the player would be cool✌️\nAmbient lighting like in YouTube<:PepeNani:1497190320637607957>",
+        "author_id": "895131555608002560",
+        "author_name": "Cat",
+        "author_avatar": "https://cdn.discordapp.com/avatars/895131555608002560/2e757507d21eaf6d814ad64698ef729c.png?size=64",
+        "created_at": "2026-05-10T12:27:57.608000+00:00",
+        "created_at_fmt": "May 10, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": []
+      },
+      {
+        "id": "1502754013815373864",
+        "title": "Keyboard shortcuts/media keys support",
+        "content": "It would be nice have support for keyboard shortcuts/media keys support. \nI previously used Dantotsu and it had N for (N)ext episode and B for (B)ack/previous episode\nAlso a shortcut for \"Mega seek\" would be really handy too maybe M for (M)ega seek?",
+        "content_raw": "It would be nice have support for keyboard shortcuts/media keys support. \nI previously used Dantotsu and it had N for (N)ext episode and B for (B)ack/previous episode\nAlso a shortcut for \"Mega seek\" would be really handy too maybe M for (M)ega seek?",
+        "preview": "It would be nice have support for keyboard shortcuts/media keys support. \nI previously used Dantotsu and it had N for (N",
+        "author_id": "244944972342755328",
+        "author_name": "CLNDSTN",
+        "author_avatar": "https://cdn.discordapp.com/avatars/244944972342755328/a30781ff7baa7efbdc47fbc54b2c8340.png?size=64",
+        "created_at": "2026-05-09T19:27:56.713000+00:00",
+        "created_at_fmt": "May 09, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": []
+      },
+      {
+        "id": "1502537881338511360",
+        "title": "Title card show condition",
+        "content": "Right now title card show only rating can it show status of series and if finished show total chapter.",
+        "content_raw": "Right now title card show only rating can it show status of series and if finished show total chapter.",
+        "preview": "Right now title card show only rating can it show status of series and if finished show total chapter.",
+        "author_id": "716531846086918274",
+        "author_name": "Sloth",
+        "author_avatar": "https://cdn.discordapp.com/avatars/716531846086918274/3bd3dff048b2e4d21f4925c40ac90562.png?size=64",
+        "created_at": "2026-05-09T05:09:06.715000+00:00",
+        "created_at_fmt": "May 09, 2026",
+        "message_count": 0,
+        "is_locked": false,
+        "is_archived": false,
+        "status_label": "Open",
+        "tags": [],
+        "linked_todo_id": null,
+        "attachments": [],
+        "messages": []
       }
     ]
   }
