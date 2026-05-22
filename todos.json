@@ -363,30 +363,5 @@
     "linked_forum_thread_id": "1497648485686579201",
     "linked_forum_type": "suggestion",
     "assigned_to_name": "nithinspacetime"
-  },
-  {
-    "id": 33,
-    "title": "fix novel loading",
-    "auto_generated": false,
-    "ai_description": "",
-    "status": "in_progress",
-    "priority": "medium",
-    "tags": [],
-    "added_by_id": "612532963938271232",
-    "added_by_name": "asheby",
-    "assigned_to_id": "535831876766793738",
-    "assigned_to_name": "ryan_yuuki",
-    "created_at": "2026-05-09T11:18:14.946542+00:00",
-    "updated_at": "2026-05-22T04:44:55.042924+00:00",
-    "last_reminded_at": null,
-    "source_message_ids": [
-      "1502630667966480475"
-    ],
-    "source_message_links": [
-      "https://discord.com/channels/1496377698837069875/1496770763749855382/1502630667966480475"
-    ],
-    "source_message_text": "#addtodo fix novel loading",
-    "source_images": [],
-    "source_files": []
   }
 ]
