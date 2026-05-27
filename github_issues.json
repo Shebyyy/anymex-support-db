@@ -1,26 +1,166 @@
 {
-  "last_synced": "2026-04-30T04:14:14.415629",
+  "last_synced": "2026-05-27T12:22:58.909238",
   "repo": "RyanYuuki/AnymeX",
   "issues": [
     {
-      "number": 424,
-      "title": "Soft-subs aren't displaying on the media, but are loaded.",
-      "body": "### Steps to Reproduce\n\n1. Pick one island and a media\n2. Media loads, subtitle loads(subtitle sync shows it does)\n3. No subtitle displayed on the player\n\n### Expected Outcome\n\n1. Pick one island and a media\n2. Media loads, subtitle loads(subtitle sync shows it does)\n3. Media should play with subtitle\n\n### Actual Outcome\n\n1. Pick one island and a media\n2. Media loads, subtitle loads(subtitle sync shows it does)\n3. No subtitle gets displayed\n\n### Error Logs (if applicable)\n\n```log\n[15:20:32][SYSTEM] === Logger initialized ===\nApp Info:\nName: AnymeX\nPackage: com.ryan.anymex\nVersion: 3.0.7 (Build 2029)\n\nDevice Info:\nDevice: Xiaomi 24108PCE2I\nBrand: POCO\nDevice ID: BP2A.250605.031.A3\nAndroid Version: 16 (SDK 36)\nFingerprint: POCO/flame_p_in/flame:16/BP2A.250605.031.A3/OS3.0.5.0.WGUINXM:user/release-keys\n==========================\n[15:20:33][INFO] Fetched 4 community movies\n[15:20:33][INFO] Fetched 5 community shows\n[15:20:33][INFO] Fetched 29 community manga\n[15:20:33][INFO] Fetched 68 community anime\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.initialize\n[15:20:33][INFO] Connected to Discord Gateway (Mobile)\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Method 'initialize' completed successfully\n[15:20:33][INFO] AnymeXExtensionBridge: AnymeX Bridge auto-detected and initialized from: /data/user/0/com.ryan.anymex/app_flutter/AnymeX/Runtime/anymex_runtime_host.apk\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.getInstalledAnimeExtensions\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.getInstalledMangaExtensions\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.initialize\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Method 'initialize' completed successfully\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Calling Method: RuntimeBridge.csGetRegisteredProviders\n[15:20:33][NATIVE] [NATIVE] [BRIDGE] Method 'csGetRegisteredProviders' completed successfully\n[15:20:34][NATIVE] [NATIVE] [BRIDGE] Method 'getInstalledMangaExtensions' completed successfully\n[15:20:34][NATIVE] [NATIVE] [BRIDGE] Method 'getInstalledAnimeExtensions' completed successfully\n[15:20:34][INFO] User profile fetched: InternetNinja (ID: 6393467)\n[15:20:35][ERROR] CRASH: FormatException: Unexpected character (at line 7, character 1)\n<!DOCTYPE html>\n^\n\n[15:20:35][ERROR] STACK: #0      _ChunkedJsonParser.fail (dart:convert-patch/convert_patch.dart:1467)\n#1      _ChunkedJsonParser.parseNumber (dart:convert-patch/convert_patch.dart:1333)\n#2      _ChunkedJsonParser.parse (dart:convert-patch/convert_patch.dart:935)\n#3      _parseJson (dart:convert-patch/convert_patch.dart:35)\n#4      JsonDecoder.convert (dart:convert/json.dart:641)\n#5      JsonCodec.decode (dart:convert/json.dart:223)\n#6      jsonDecode (dart:convert/json.dart:160)\n#7      MangayomiExtensions._parseExtensions (package:anymex_extension_runtime_bridge/Services/Mangayomi/MangayomiExtensions.dart:260)\n#8      compute.<anonymous closure> (package:flutter/src/foundation/_isolates_io.dart:23)\n#9      _RemoteRunner._run (dart:isolate:1116)\n#10     _RemoteRunner._remoteExecute (dart:isolate:1110)\n#11     _delayEntrypointInvocation.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:317)\n#12     _RawReceivePort._handleMessage (dart:isolate-patch/isolate_patch.dart:193)\n\n[15:20:35][DEBUG] Instance \"CacheController\" has been created\n[15:20:35][DEBUG] Instance \"CacheController\" has been initialized\n[15:20:36][INFO] Error checking for updates: FormatException: Invalid radix-10 number (at character 1)\n[15:20:36][INFO] 8+16\n[15:20:36][INFO] ^\n[15:20:36][INFO] \n[15:20:39][INFO] Anime List Fetched Successfully!\n```\n\n### AnymeX Version\n\n3.0.7\n\n### Operating System Version\n\nAndroid 16\n\n### Device Information\n\nPOCO M7 5G\n\n### Additional Information\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "number": 457,
+      "title": "Swipe Control for Brightness (iOS)",
+      "body": "### Steps to Reproduce\n\n1. Enable swipe controls\n2. Put on any anime episode\n3. Swipe vertically on the left side of screen to control brightness\n\n### Expected Outcome\n\nThe application should adjust device's brightness level and then the brightness indicator should disappear.\n\n### Actual Outcome\n\nAfter adjusting the device's brightness level using the swipe controls, the brightness level indicator stays on the screen instead of disappearing. It only disappears after swiping the right side of the screen to adjust volume.\n\n### Error Logs (if applicable)\n\n_No response_\n\n### AnymeX Version\n\n3.0.7\n\n### Operating System Version\n\niOS 26.4.2\n\n### Device Information\n\niPhone 16 Pro\n\n### Additional Information\n\n<img width=\"1311\" height=\"603\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1de27e8e-4266-474d-b83a-41f45ee2d0ea\" />\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
       "labels": [
         "bug"
       ],
       "state": "open",
       "assignees": [],
       "assignee_avatars": [],
-      "author": "zer0ninja",
-      "author_avatar": "https://avatars.githubusercontent.com/u/179892182?v=4",
-      "author_url": "https://github.com/zer0ninja",
-      "created_at": "2026-04-27T09:53:55Z",
-      "updated_at": "2026-04-27T09:54:06Z",
+      "author": "sauye2",
+      "author_avatar": "https://avatars.githubusercontent.com/u/112185314?v=4",
+      "author_url": "https://github.com/sauye2",
+      "created_at": "2026-05-26T10:10:13Z",
+      "updated_at": "2026-05-26T10:10:30Z",
       "comment_count": 1,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/424",
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/457",
       "linked_todo_id": null,
-      "platform": "android"
+      "platform": "ios"
+    },
+    {
+      "number": 452,
+      "title": "Add incognito mode",
+      "body": "Add incognito mode when using extension provider to watch hentai and then delete the history this shows up  so pls add incognito mode or resolve this\n\n<img width=\"1080\" height=\"2400\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6f4983a7-463a-4506-be90-33da36a47873\" />\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [x] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "enhancement"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "animewatcheryt0-svg",
+      "author_avatar": "https://avatars.githubusercontent.com/u/284349887?v=4",
+      "author_url": "https://github.com/animewatcheryt0-svg",
+      "created_at": "2026-05-20T05:18:18Z",
+      "updated_at": "2026-05-20T05:31:41Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/452",
+      "linked_todo_id": null,
+      "platform": ""
+    },
+    {
+      "number": 447,
+      "title": "make manga chapters stay cached longer",
+      "body": "### Feature Summary\n\nwhen reading manga, sometime i miss click and enter the next chapter, or sometime i go back to a previous chapter to check about something but in both cases the moment i come back the chapter needs to load again which is very annoying\nthe chapter should stay cached for longer\nyou could either do i by time or do it by number of chapters apart\ni prefre if you cach only this chapter and another one as there are not many cases where people would need 3 or more chapters cached and compared at the same time\n\nthis feature already exist on mihon\n\n### Detailed Description\n\n### Current Behavior\n- if i am in chapter 1 and its fully loaded, then i go to chapter 2 it loads then it appears all good until now, then i go back to chapter 1 it needs to load 1 again slowly\n\n### Proposed Solution\n- if i am in chapter 1 and its fully loaded, then i go to chapter 2 it loads then it appears all good until now, then i go back to chapter 1 its already cached so it appears immediately without needing to wait for it to load in\n\n### Considerations\n- there should be a limit on the number of chapter cached (maybe modifiable its up to you)\n- if cached chapter took too much space the oldest cached chapter or page should be purged\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "enhancement"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "goADX",
+      "author_avatar": "https://avatars.githubusercontent.com/u/67976482?v=4",
+      "author_url": "https://github.com/goADX",
+      "created_at": "2026-05-16T19:49:18Z",
+      "updated_at": "2026-05-16T19:49:29Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/447",
+      "linked_todo_id": null,
+      "platform": ""
+    },
+    {
+      "number": 446,
+      "title": "add more mouse controllability in the manga reader",
+      "body": "### Feature Summary\n\nadd the ability to scroll up and down even when the reading direction is right or left when zooming in, and add the compatibility with 4th and 5th mouse keys where the back button should make you exit the chapter and the forward button should make you return to the chapter you just left\n\n### Detailed Description\n\n### Current Behavior\n- if the reading direction is set to right or left the mouse scroll wheal is not working\n- 4th and 5th mouse buttons do nothing\n\n### Proposed Solution\n- if the reading direction is set to right or left you should scroll up and ignoring the pages and just going up as long as you are zooming \n- 4th and 5th mouse buttons should make you leave the manga reader and return you to the manga page, while the other should make you return to the page you just left\n\n### Considerations\n- the scroll should work when the reading direction is right or left only when zooming\n- the go forward button should clear if you left the manga info page so you don't miss click it when scrolling the home page\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "enhancement"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "goADX",
+      "author_avatar": "https://avatars.githubusercontent.com/u/67976482?v=4",
+      "author_url": "https://github.com/goADX",
+      "created_at": "2026-05-16T19:20:32Z",
+      "updated_at": "2026-05-16T19:20:44Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/446",
+      "linked_todo_id": null,
+      "platform": ""
+    },
+    {
+      "number": 445,
+      "title": "add the ability to cut long manga pages into shorter ones",
+      "body": "### Feature Summary\n\nin the manga reader\nwhen images are very long vertically \nthey should be split into multiple pieces and if they are too short vertically too they should be combined\nof course that should be optional from the reader menu\n\nthis feature is already in mihon which is very useful\n\n### Detailed Description\n\n### Current Behavior\n- when you read manga and there is a long image strip it all gets shown at the same page which first causes you to start from really far making you need to zoom in and also making you need to scroll inside the same page even if you made the layout paged in the reader settings\n\n### Proposed Solution\n- when enabled in the reader settings any page that vertically longer then x amount, it should be split into multiple images each considered its own page\n- when enabled in the reader settings any page that vertically shorter the y amount, it should be combined with the next page if it is also vertically shorter then y amount and be repeated untill the page is longer then y amount or the chapter runs out of pages\n\n### Considerations\n- it should be optional from the reader settings\n- it should be all done in the moment you start loading the chapter\n\n\n### Additional Context\n\n\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "enhancement"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "goADX",
+      "author_avatar": "https://avatars.githubusercontent.com/u/67976482?v=4",
+      "author_url": "https://github.com/goADX",
+      "created_at": "2026-05-16T19:01:18Z",
+      "updated_at": "2026-05-16T19:02:04Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/445",
+      "linked_todo_id": null,
+      "platform": ""
+    },
+    {
+      "number": 444,
+      "title": "allow the enabling of anime/manga/novel tabs separately",
+      "body": "### Feature Summary\n\nmake each tab optional so if there is an only anime watcher he can disable the manga and novel part\n\nalso can you add a dedicated tab for novels instead of merging them with the manga\n\n### Detailed Description\n\n### Current Behavior\n- there is a tab for anime and a tab for manga and novels together\n\n### Proposed Solution\n-there should be a tab for anime and another tab for manga and a also another tab for novels\n-then in the settings menu (maybe with the UI menu) there should be an option to enable anime/manga/novels separately (maybe add them all together in as sub-options to make it more compact, or you can put them in a drop down menu) \n\n### Considerations\n- there will need to be separation between manga and novels\n- it should affect the homepage so disabling manga or novels or anime would remove them from the homepage as the user is likely not interested in them\n- maybe you can it an AI picks for novels (i don't have enough context about how its made so i am not sure if its possible)\n- you will also need to grab everything about novels from the extension as anilist and MAL doesnt list novels nor does it have anything to do with novels\n\n\n### Additional Context\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched the existing issues and confirm that this feature has not been requested before.\n- [x] I have provided a clear and descriptive title.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for using an older version.\n- [x] I understand that not all feature requests will be accepted, and if declined, I won't resubmit the same request.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "enhancement"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "goADX",
+      "author_avatar": "https://avatars.githubusercontent.com/u/67976482?v=4",
+      "author_url": "https://github.com/goADX",
+      "created_at": "2026-05-16T18:29:20Z",
+      "updated_at": "2026-05-16T18:29:32Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/444",
+      "linked_todo_id": null,
+      "platform": ""
+    },
+    {
+      "number": 435,
+      "title": "Manga Extension Not Responding(Pc)",
+      "body": "### Steps to Reproduce\n\n1: Add an aniyomi manga extension\n2:Install an extension\n3:Go to installed extension\n\n### Expected Outcome\n\nThe Extension should be present within installed extension\n\n### Actual Outcome\n\nNo extension present even though it is installed\n\n### Error Logs (if applicable)\n\n_No response_\n\n### AnymeX Version\n\n3.0.7\n\n### Operating System Version\n\nWindows 10\n\n### Device Information\n\nDesktop\n\n### Additional Information\n\n_No response_\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "bug"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "xdworld457-blip",
+      "author_avatar": "https://avatars.githubusercontent.com/u/282859973?v=4",
+      "author_url": "https://github.com/xdworld457-blip",
+      "created_at": "2026-05-08T10:19:53Z",
+      "updated_at": "2026-05-08T10:20:09Z",
+      "comment_count": 1,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/435",
+      "linked_todo_id": null,
+      "platform": "windows"
+    },
+    {
+      "number": 431,
+      "title": "AUR release script broken",
+      "body": "### Steps to Reproduce\n\nRun the release action\n\n### Expected Outcome\n\nUpdates the AUR package\n\n### Actual Outcome\n\nFails on an ssh error: https://github.com/RyanYuuki/AnymeX/actions/runs/24793296661/job/72561915347\n\n### Error Logs (if applicable)\n\nSee the linked run\n\n### AnymeX Version\n\n3.0.7\n\n### Operating System Version\n\nUbuntu\n\n### Device Information\n\nGithub Actions Runner\n\n### Additional Information\n\nCould you maybe check the SSH key the script is supposed to use? What public key does it have?\n\n### Submission Checklist\n\n- [x] I have searched existing issues to confirm this is not a duplicate.\n- [x] I am using the **[latest](https://github.com/RyanYuuki/AnymeX/releases/latest)** version of AnymeX. If not, I have provided a reason for not updating.\n- [ ] If this is an issue with an extension, I should be opening an issue in the extension's repository. [Will Close This Issue Automatically]",
+      "labels": [
+        "bug"
+      ],
+      "state": "open",
+      "assignees": [],
+      "assignee_avatars": [],
+      "author": "jullanggit",
+      "author_avatar": "https://avatars.githubusercontent.com/u/144773701?v=4",
+      "author_url": "https://github.com/jullanggit",
+      "created_at": "2026-05-02T08:29:07Z",
+      "updated_at": "2026-05-02T08:29:07Z",
+      "comment_count": 0,
+      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/431",
+      "linked_todo_id": null,
+      "platform": ""
     },
     {
       "number": 421,
@@ -81,34 +221,6 @@
       "html_url": "https://github.com/RyanYuuki/AnymeX/issues/408",
       "linked_todo_id": null,
       "platform": "android"
-    },
-    {
-      "number": 401,
-      "title": "High-Quality Image Scaling in Manga Reader (Lanczos / Selectable Filter Quality)",
-      "body": "### Problem\n\nThe manga reader currently uses `FilterQuality.medium` (bilinear interpolation) for all page\nrendering via `ExtendedImage` in `reader_view.dart`:\n\n```dart\nfilterQuality: FilterQuality.medium,\n```\n\nThis produces blurry or aliased output especially on low-resolution manga pages or when zooming in.\nFlutter's built-in `FilterQuality` enum only goes up to `FilterQuality.high` (bicubic), which is\nstill noticeably softer than Lanczos. Mihon has the same limitation — neither app currently offers\nLanczos-quality rendering.\n\n### Proposed Solution\n\nAdd a selectable **Image Filter Quality** setting under **Reader Settings → General** with the\nfollowing options:\n\n| Option | Method | Notes |\n|---|---|---|\n| None | `FilterQuality.none` | Nearest-neighbor, pixelated |\n| Low | `FilterQuality.low` | Bilinear |\n| Medium *(default)* | `FilterQuality.medium` | Current behavior |\n| High | `FilterQuality.high` | Bicubic via Skia |\n| **Lanczos** | `image_scaler` package | Best quality, slower |\n\nFor Lanczos specifically, the [`image_scaler`](https://pub.dev/packages/image_scaler) Flutter\npackage exposes a pure-Dart Lanczos implementation that runs in a separate isolate so the main\nthread is not blocked:\n\n```dart\nimport 'package:image_scaler/image_scaler.dart';\n\nfinal scaled = await scale(\n  image,\n  IntSize(targetWidth, targetHeight),\n  ScaleAlgorithm.lanczos,\n);\n```\n\nSince AnymeX already processes images natively (JXL support), Lanczos pre-processing can be applied\nafter decode and before handing the bitmap to `ExtendedImage`, using `RawImage` or\n`canvas.drawImage` to render the pre-scaled `dart:ui Image`.\n\nThe algorithm works by taking a sinc-windowed kernel around each output pixel, computing weighted\nsums of input pixels based on distance — producing sharp, clean results with minimal aliasing,\nwidely regarded as the best general-purpose downscaling filter.\n\n> ⚠️ Lanczos is CPU-intensive (multiple `sqrt` and `sin` ops per pixel). It should only be applied\n> as a pre-processing step on load, not per-frame. The `image_scaler` isolate approach handles\n> this correctly. It should be off by default.\n\n### Affected File\n\n`lib/screens/manga/widgets/reader/reader_view.dart` — `_buildImageForPaged()`, both the\n`ExtendedImage.network` and `ExtendedImage.file` paths.\n\n### References\n\n- `image_scaler` pub.dev: https://pub.dev/packages/image_scaler\n- `image_scaler` Lanczos API docs: https://pub.dev/documentation/image_scaler/latest/lanczos/lanczos.html\n- Flutter `FilterQuality` enum: https://api.flutter.dev/flutter/dart-ui/FilterQuality.html\n- Flutter `dart:ui ImageFilter`: https://api.flutter.dev/flutter/dart-ui/ImageFilter-class.html\n- `extended_image` package: https://pub.dev/packages/extended_image\n- Lanczos resampling (Wikipedia): https://en.wikipedia.org/wiki/Lanczos_resampling\n- Lanczos deep-dive: https://mazzo.li/posts/lanczos.html",
-      "labels": [
-        "enhancement"
-      ],
-      "state": "open",
-      "assignees": [
-        "RyanYuuki",
-        "itsmechinmoy",
-        "Copilot"
-      ],
-      "assignee_avatars": [
-        "https://avatars.githubusercontent.com/u/108048963?v=4",
-        "https://avatars.githubusercontent.com/u/167056923?v=4",
-        "https://avatars.githubusercontent.com/in/1143301?v=4"
-      ],
-      "author": "itsmechinmoy",
-      "author_avatar": "https://avatars.githubusercontent.com/u/167056923?v=4",
-      "author_url": "https://github.com/itsmechinmoy",
-      "created_at": "2026-04-17T05:13:17Z",
-      "updated_at": "2026-04-17T05:14:33Z",
-      "comment_count": 0,
-      "html_url": "https://github.com/RyanYuuki/AnymeX/issues/401",
-      "linked_todo_id": null,
-      "platform": ""
     },
     {
       "number": 396,
