@@ -115,7 +115,8 @@
     ],
     "source_message_text": "feat: add per-title player settings",
     "source_images": [],
-    "source_files": []
+    "source_files": [],
+    "last_reminded_at": "2026-06-04T15:52:28.595708+00:00"
   },
   {
     "id": 10,
@@ -164,7 +165,8 @@
     ],
     "source_message_text": "fix : When the source filter is set to “All” (default), the chapter card should display the scanlator name instead of the extension name.",
     "source_images": [],
-    "source_files": []
+    "source_files": [],
+    "last_reminded_at": "2026-06-04T15:52:28.595726+00:00"
   },
   {
     "id": 13,
@@ -212,7 +214,7 @@
     "source_message_text": "Fix : change it back or keep it like that and change the tap zones selection page ui",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-04-03T15:54:45.738560+00:00",
+    "last_reminded_at": "2026-06-04T15:52:28.595736+00:00",
     "watchers": [
       "1474618752912851064"
     ]
@@ -265,7 +267,8 @@
     ],
     "source_message_text": "fix:  the skipping highlights\nIn tts \nAnd the highlight increasing the size of the text thing (remove it/fix)\nFeat: add marquee to texts",
     "source_images": [],
-    "source_files": []
+    "source_files": [],
+    "last_reminded_at": "2026-06-04T15:52:28.595747+00:00"
   },
   {
     "id": 20,
