@@ -190,7 +190,7 @@
     "source_message_text": "refactor: make list editor minimal (use half screen instead of full)",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-05-06T15:52:33.966839+00:00"
+    "last_reminded_at": "2026-06-06T15:52:28.627261+00:00"
   },
   {
     "id": 15,
@@ -241,7 +241,7 @@
     "source_message_text": "* When the user taps the PiP icon, the video should switch to a floating mini-player inside the app, so the user can continue browsing.\n\n* If the user presses the home button while the mini-player is floating, it should switch to system Picture-in-Picture (PiP) mode.\n\n* It would also be nice to have an Auto PiP option, so when the user presses the home button, PiP opens automatically.",
     "source_images": [],
     "source_files": [],
-    "last_reminded_at": "2026-05-06T15:52:33.966860+00:00",
+    "last_reminded_at": "2026-06-06T15:52:28.627278+00:00",
     "tags": [],
     "linked_forum_thread_id": "1322620177468096532",
     "linked_forum_type": "suggestions"
