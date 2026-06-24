@@ -1,5 +1,5 @@
 {
-  "last_heartbeat": "2026-06-24T11:26:10.197517+00:00",
+  "last_heartbeat": "2026-06-24T11:31:10.517492+00:00",
   "bot_user": "AnymeX Support AI#9801",
   "guild_count": 2,
   "active_todo_count": 15,
@@ -7,5 +7,5 @@
   "todo_style": 6,
   "reminder_task": true,
   "thread_sync_task": true,
-  "latency_ms": 108.2
+  "latency_ms": Infinity
 }
