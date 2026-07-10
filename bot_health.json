@@ -1,11 +1,11 @@
 {
-  "last_heartbeat": "2026-07-10T09:36:12.283778+00:00",
+  "last_heartbeat": "2026-07-10T09:41:10.069867+00:00",
   "bot_user": "AnymeX Support AI#9801",
-  "guild_count": 2,
+  "guild_count": 1,
   "active_todo_count": 15,
   "archive_count": 18,
   "todo_style": 6,
   "reminder_task": true,
   "thread_sync_task": true,
-  "latency_ms": 194.8
+  "latency_ms": 83.6
 }
